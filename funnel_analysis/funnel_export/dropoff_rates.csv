@@ -1,0 +1,9 @@
+variant,from_stage,to_stage,from_value,to_value,conversion_rate,dropoff_rate
+Static_Catalog,impressions,clicks,6077373,72240,1.19,98.81
+Static_Catalog,clicks,sessions,72240,61177,84.69,15.31
+Static_Catalog,sessions,add_to_cart,61177,7282,11.9,88.1
+Static_Catalog,add_to_cart,transactions,7282,1200,16.48,83.52
+Video_Review,impressions,clicks,6223089,155948,2.51,97.49
+Video_Review,clicks,sessions,155948,132353,84.87,15.13
+Video_Review,sessions,add_to_cart,132353,16241,12.27,87.73
+Video_Review,add_to_cart,transactions,16241,731,4.5,95.5

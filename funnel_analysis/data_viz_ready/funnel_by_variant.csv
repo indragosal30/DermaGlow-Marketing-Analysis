@@ -1,0 +1,11 @@
+variant,stage,count,stage_order
+Static_Catalog,impressions,6077373,1
+Static_Catalog,clicks,72240,2
+Static_Catalog,sessions,61177,3
+Static_Catalog,add_to_cart,7282,4
+Static_Catalog,transactions,1200,5
+Video_Review,impressions,6223089,1
+Video_Review,clicks,155948,2
+Video_Review,sessions,132353,3
+Video_Review,add_to_cart,16241,4
+Video_Review,transactions,731,5
