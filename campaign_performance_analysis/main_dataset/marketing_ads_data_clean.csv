@@ -1,0 +1,1001 @@
+ad_id,campaign_name,audience_type,product_type,product_name,variant,date,impressions,clicks,spend_idr,sessions,add_to_cart
+AD_0032,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-06,8060,253,458896.0,216,29
+AD_0110,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-01,17314,542,108070.0,452,72
+AD_0137,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-13,16374,180,135435.0,146,8
+AD_0089,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-14,10735,159,244118.0,128,6
+AD_0919,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-04-15,12446,268,307440.0,217,36
+AD_0169,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-29,13731,443,269631.0,355,43
+AD_0871,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-16,8834,223,236016.0,178,18
+AD_0319,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-09,14569,311,287954.0,254,32
+AD_0262,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-08,8974,133,248087.0,119,12
+AD_0536,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-23,8981,127,326453.0,103,16
+AD_0920,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-12,8423,149,332366.0,129,21
+AD_0597,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-16,11232,222,387507.0,186,12
+AD_0077,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-22,13269,171,243087.0,142,18
+AD_0108,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-02,8792,168,232717.0,137,24
+AD_0425,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-08,13160,271,158692.0,237,35
+AD_0585,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-06,16562,221,134924.0,185,14
+AD_0854,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-06,9513,170,338366.0,142,8
+AD_0665,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-03,12933,287,307440.0,254,21
+AD_0830,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-12,12002,304,461462.0,265,46
+AD_0421,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-06,12081,371,252185.0,309,20
+AD_0598,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-02,8129,230,177506.0,191,21
+AD_0459,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-12,13954,164,27152.0,146,8
+AD_0313,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-06,7913,214,220234.0,179,30
+AD_0650,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-18,13269,166,479553.0,148,18
+AD_0366,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-05,19906,466,168431.0,418,68
+AD_0322,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-07,15848,446,454165.0,366,71
+AD_0630,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-30,10398,158,352364.0,141,27
+AD_0915,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-12,18314,258,286023.0,216,13
+AD_0469,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-08,18084,238,365406.0,203,15
+AD_0599,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-21,17042,143,494109.0,117,19
+AD_0395,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-16,10765,306,175277.0,268,44
+AD_0537,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-02,9535,280,493120.0,247,35
+AD_0721,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-11-16,11777,282,211915.0,248,18
+AD_0334,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-24,10776,269,451977.0,221,26
+AD_0410,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-14,14786,378,334864.0,335,62
+AD_0060,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-02-08,11268,199,240507.0,170,27
+AD_0257,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-17,9171,213,103471.0,174,23
+AD_0970,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-12,11284,351,372217.0,283,19
+AD_0686,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-17,12865,184,407124.0,148,25
+AD_0343,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-28,15662,187,424512.0,166,29
+AD_0636,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-16,11593,285,317726.0,231,42
+AD_0709,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-03,19361,373,444572.0,305,31
+AD_0011,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-28,8104,149,397366.0,129,19
+AD_0486,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-22,14678,367,428953.0,293,17
+AD_0210,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-07,10699,303,176329.0,269,44
+AD_0140,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-01,8810,163,469453.0,136,22
+AD_0389,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-12,7535,222,388544.0,199,23
+AD_0623,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-09,8605,132,118557.0,112,11
+AD_0825,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-28,17292,175,201735.0,147,24
+AD_0718,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-14,13539,126,148784.0,106,7
+AD_0846,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-25,7877,79,112336.0,70,4
+AD_0688,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-07,5579,61,139236.0,48,5
+AD_0936,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-09,12692,282,203107.0,232,43
+AD_0582,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-24,9261,136,355719.0,110,12
+AD_0383,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-29,17014,490,278207.0,400,66
+AD_0071,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-26,10997,233,416076.0,200,16
+AD_0261,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-30,12710,191,162424.0,171,10
+AD_0801,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-19,6737,86,185474.0,70,10
+AD_0454,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-03,11108,105,322128.0,86,16
+AD_0592,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-29,7478,63,472926.0,55,5
+AD_0907,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-13,12646,386,430331.0,313,55
+AD_0785,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-08,7727,69,465543.0,60,3
+AD_0214,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-05,8374,82,362351.0,68,7
+AD_0097,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-27,13941,416,115524.0,366,54
+AD_0680,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-17,12422,300,359278.0,248,46
+AD_0850,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-29,14638,270,210160.0,235,37
+AD_0694,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-04,7551,149,481164.0,126,11
+AD_0881,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-09,17032,450,184667.0,367,34
+AD_0193,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-14,8124,223,258056.0,180,26
+AD_0281,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-13,10348,95,191353.0,76,6
+AD_0534,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-14,14206,383,128992.0,332,52
+AD_0683,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-20,14182,356,472078.0,319,36
+AD_0618,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-28,18703,265,348780.0,231,35
+AD_0983,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-15,10561,303,232828.0,243,40
+AD_0911,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-30,19597,615,208241.0,516,61
+AD_0185,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-21,13656,139,171635.0,116,16
+AD_0031,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-31,11642,337,205983.0,275,52
+AD_0329,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-19,10929,294,362420.0,245,41
+AD_0507,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-16,5422,74,137034.0,65,9
+AD_0055,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-25,12588,362,422710.0,317,21
+AD_0024,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-31,18561,396,408987.0,323,63
+AD_0102,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-16,9645,272,465060.0,241,24
+AD_0550,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-24,10957,162,329638.0,139,16
+AD_0248,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-28,9520,118,267807.0,104,14
+AD_0004,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-24,6899,83,131551.0,70,12
+AD_0087,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-24,9472,102,285625.0,87,7
+AD_0844,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-17,19007,486,279412.0,424,61
+AD_0953,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-19,12345,244,428873.0,208,19
+AD_0291,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-10,6762,67,192493.0,58,3
+AD_0211,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-14,17106,186,488070.0,150,19
+AD_0803,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-02,16284,166,354797.0,140,11
+AD_0175,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-31,10638,261,170316.0,213,35
+AD_0200,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-09,11570,98,426250.0,78,11
+AD_0903,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-25,13959,203,294387.0,164,18
+AD_0292,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-20,10198,274,297415.5,225,38
+AD_0064,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-24,14114,306,111023.0,272,32
+AD_0266,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-11,17123,389,452680.0,312,49
+AD_0232,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-09,12394,137,388179.0,121,13
+AD_0804,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-26,15434,334,307440.0,295,37
+AD_0626,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-17,13362,381,470191.0,311,55
+AD_0569,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-03,9395,198,111781.0,166,29
+AD_0855,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-05,14724,298,236694.0,258,20
+AD_0040,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-04,9465,114,445757.0,91,9
+AD_0807,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-02,7320,229,307440.0,187,11
+AD_0591,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-02,14016,262,184518.0,228,37
+AD_0465,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-18,15080,220,240558.0,176,12
+AD_0999,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-01,17532,190,316351.0,162,29
+AD_0443,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-20,9172,131,297415.5,114,19
+AD_0909,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-09,14528,400,207157.0,341,64
+AD_0067,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-23,11804,151,307440.0,122,22
+AD_0308,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-16,9008,103,102282.0,87,11
+AD_0068,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-29,7193,232,212816.0,194,31
+AD_0199,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-27,11760,130,181889.0,110,9
+AD_0529,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-14,11654,240,450918.0,198,35
+AD_0482,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-30,6051,87,176918.0,74,9
+AD_0758,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-03,11719,159,128718.0,141,17
+AD_0988,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-29,13152,253,294387.0,214,22
+AD_0363,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-03,7492,65,193344.0,52,10
+AD_0845,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-24,11879,141,375345.0,119,20
+AD_0559,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-26,17061,336,297415.5,278,19
+AD_0619,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-20,18445,325,294387.0,277,15
+AD_0353,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-30,9222,273,486721.0,223,25
+AD_0761,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-23,12129,115,364291.0,93,4
+AD_0930,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-27,7364,95,305704.0,77,14
+AD_0293,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-24,14777,385,297415.5,310,54
+AD_0753,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-21,7074,193,296594.0,171,13
+AD_0101,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-16,16446,429,151356.0,349,33
+AD_0524,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-27,13339,176,141347.0,142,8
+AD_0635,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-25,12801,159,469359.0,138,14
+AD_0809,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-16,10308,137,107642.0,122,8
+AD_0306,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-31,19198,218,448264.0,188,34
+AD_0629,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-22,8861,242,406024.0,209,15
+AD_0159,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-24,13954,130,462876.0,108,6
+AD_0552,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-28,17355,479,1840716.0,427,64
+AD_0003,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-10,18096,189,256730.0,158,9
+AD_0729,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-24,7501,113,246245.0,100,19
+AD_0209,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-15,11358,317,194018.0,267,31
+AD_0300,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-09,9987,104,458182.0,91,12
+AD_0851,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-18,8581,79,341605.0,63,3
+AD_0437,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-14,14404,143,298237.0,126,19
+AD_0870,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-22,13502,410,472428.0,338,45
+AD_0412,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-06,14697,439,206133.0,385,53
+AD_0615,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-20,12953,226,463107.0,192,17
+AD_0908,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-18,7745,98,160645.0,84,14
+AD_0913,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-21,19363,535,392772.0,441,75
+AD_0997,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-20,16274,231,243115.0,201,30
+AD_0963,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-15,14370,312,275183.0,250,25
+AD_0701,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-19,8070,158,341766.0,134,15
+AD_0779,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-04,13566,176,105796.0,158,20
+AD_0307,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-29,12544,119,356453.0,96,17
+AD_0812,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-11,19537,282,306063.0,235,26
+AD_0494,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-28,15551,279,212669.0,247,20
+AD_0424,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-21,9188,112,264044.0,97,12
+AD_0299,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-21,12410,300,294387.0,246,31
+AD_0468,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-31,6252,157,244972.0,134,16
+AD_0885,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-20,16481,363,277216.0,294,45
+AD_0756,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-01,11674,106,262434.0,86,7
+AD_0107,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-24,18248,477,209945.0,384,23
+AD_0859,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-30,11846,316,488464.0,276,25
+AD_0056,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-11,14330,211,464778.0,183,35
+AD_0121,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-30,10594,226,330785.0,189,10
+AD_0311,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-21,10134,92,115434.0,78,8
+AD_0026,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-11,13197,184,307440.0,162,30
+AD_0073,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-23,18229,558,273880.0,479,58
+AD_0531,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-12,12845,121,424703.0,99,15
+AD_0045,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-08,14421,346,388790.0,278,53
+AD_0276,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-24,13629,267,350870.0,218,40
+AD_0479,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-13,16536,211,152265.0,177,28
+AD_0315,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-21,10415,125,220906.0,101,6
+AD_0337,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-02,17576,497,138333.0,420,72
+AD_0690,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-30,8168,237,246104.0,194,21
+AD_0431,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-01,19508,242,179698.0,195,31
+AD_0951,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-08,5489,176,413392.0,152,15
+AD_0834,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-24,12264,336,118807.0,279,27
+AD_0589,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-06,14953,402,294454.0,338,54
+AD_0704,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-07,10539,113,418667.0,92,6
+AD_0328,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-19,14134,182,190102.0,145,17
+AD_0964,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-25,7666,227,269808.0,201,30
+AD_0604,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-21,6894,95,343015.0,84,7
+AD_0928,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-02,5108,98,392759.0,84,5
+AD_0981,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-14,11503,347,297415.5,286,17
+AD_0972,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-15,18530,271,114318.0,224,44
+AD_0763,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-08,11986,166,432103.0,144,27
+AD_0332,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-04,8175,92,121281.0,74,8
+AD_0061,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-01,5504,127,390160.0,102,13
+AD_0746,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-10,18588,175,406709.0,147,23
+AD_0372,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-22,17195,215,428785.0,186,16
+AD_0093,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-19,13988,171,382272.0,143,16
+AD_0723,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-07,8933,82,157241.0,67,4
+AD_0491,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-11,12279,255,272502.0,220,41
+AD_0463,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-29,6289,157,253837.0,130,6
+AD_0219,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-23,15435,152,328590.0,127,16
+AD_0514,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-25,15307,344,208297.0,283,15
+AD_0621,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-30,8867,282,329047.0,248,24
+AD_0426,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-05,8645,254,427192.0,220,24
+AD_0333,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-16,14938,193,161388.0,172,10
+AD_0860,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-21,7400,85,234484.0,73,7
+AD_0990,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-16,14192,404,142678.0,350,26
+AD_0583,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-05,10014,263,297415.5,226,30
+AD_0356,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-14,15680,237,187265.0,201,32
+AD_0483,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-26,7307,202,326256.0,175,25
+AD_0546,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-16,11085,359,237900.0,315,47
+AD_0111,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-30,6205,125,429670.0,102,5
+AD_0515,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-28,12695,275,278296.0,231,13
+AD_0603,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-03,12037,266,219682.0,217,11
+AD_0996,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-04-08,8683,214,167507.0,183,11
+AD_0508,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-02,13763,153,193078.0,130,14
+AD_0335,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-13,9555,139,361570.0,122,23
+AD_0849,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-27,14869,215,388102.0,193,14
+AD_0295,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-28,13317,186,388793.0,151,11
+AD_0287,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-15,9659,107,377181.0,89,17
+AD_0939,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-12,10240,107,444950.0,90,14
+AD_0448,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-19,7572,176,294387.0,151,28
+AD_0693,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-01,6812,85,441701.0,76,13
+AD_0653,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-23,8032,217,425724.0,179,22
+AD_0969,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-23,9338,90,184153.0,73,3
+AD_0278,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-12,16786,160,247226.0,138,8
+AD_0759,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-16,5767,89,480286.0,74,10
+AD_0138,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-02,13230,141,368784.0,120,17
+AD_0502,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-03,6939,178,140863.0,159,9
+AD_0405,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-28,9426,267,190009.0,240,20
+AD_0781,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-20,11133,306,300065.0,268,21
+AD_0978,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-12,12024,260,239045.0,222,42
+AD_0581,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-17,6366,165,467119.0,142,23
+AD_0238,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-18,16765,150,139279.0,134,12
+AD_0989,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-02,15118,275,419055.0,244,16
+AD_0216,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-05,15555,157,313277.0,133,19
+AD_0895,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-23,15001,331,394472.0,296,37
+AD_0245,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-29,11579,165,144638.0,140,10
+AD_0553,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-03,10569,133,458766.0,110,18
+AD_0838,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-03,16716,486,147098.0,421,44
+AD_0864,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-23,8241,113,105574.0,95,6
+AD_0668,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-18,7004,67,258901.0,55,5
+AD_0622,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-06,10440,105,406606.0,85,9
+AD_0079,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-09,13777,287,307440.0,234,21
+AD_0030,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-21,7225,164,460032.0,140,17
+AD_0451,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-13,5570,155,440968.0,125,16
+AD_0290,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-02,11493,114,134228.0,97,6
+AD_0050,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-25,10267,137,400657.0,118,21
+AD_0671,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-05,9892,213,327693.0,176,14
+AD_0799,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-29,8435,149,260014.0,128,19
+AD_0225,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-23,11525,373,277404.0,321,30
+AD_0166,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-10,18536,493,134531.0,421,35
+AD_0931,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-17,8960,121,226839.0,107,13
+AD_0179,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-15,10631,135,389102.0,120,13
+AD_0066,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-25,13132,390,307440.0,322,22
+AD_0142,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-26,8165,86,265873.0,71,6
+AD_0986,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-25,15007,275,464709.0,240,15
+AD_0352,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-16,17469,505,464662.0,443,73
+AD_0862,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-06,15325,202,223313.0,176,14
+AD_0441,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-06,13483,149,391207.0,119,10
+AD_0347,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-29,9424,287,218581.0,254,20
+AD_0255,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-11,12469,134,355158.0,110,11
+AD_0695,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-03,13102,306,288788.0,262,48
+AD_0345,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-21,10842,294,487881.0,238,29
+AD_0222,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-27,11917,356,214099.0,302,33
+AD_0236,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-19,14650,259,445732.0,220,23
+AD_0548,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-26,11232,211,186226.0,186,36
+AD_0500,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-05,12982,319,242867.0,263,38
+AD_0596,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-10,7571,156,294387.0,134,25
+AD_0941,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-23,7760,119,469676.0,96,9
+AD_0250,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-20,8778,264,374231.0,224,15
+AD_0471,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-25,18145,200,434923.0,171,30
+AD_0382,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-04,10450,162,226479.0,141,15
+AD_0072,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-03,14239,121,289089.0,102,17
+AD_0095,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-07,18869,360,183524.0,317,61
+AD_0034,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-19,8863,87,104014.0,78,5
+AD_0260,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-06,10105,151,364983.0,131,21
+AD_0205,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-28,17617,403,131401.0,358,36
+AD_0360,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-07,15350,207,398225.0,179,33
+AD_0602,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-22,17785,384,424101.0,333,63
+AD_0399,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-07,13163,289,211541.0,251,29
+AD_0078,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-05,13031,169,487971.0,141,26
+AD_0085,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-28,6976,210,5048.0,174,11
+AD_0320,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-27,11931,270,199931.0,231,46
+AD_0083,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-28,5364,47,246106.0,38,5
+AD_0948,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-21,9335,253,414281.0,213,38
+AD_0708,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-14,15061,169,341422.0,135,23
+AD_0539,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-03,7364,80,335295.0,70,13
+AD_0544,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-09,6986,99,257753.0,83,8
+AD_0826,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-10-18,12534,162,329171.0,130,11
+AD_0429,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-19,11637,316,123185.0,281,22
+AD_0310,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-09,7120,75,292121.0,64,5
+AD_0006,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-21,10152,104,300551.0,91,10
+AD_0789,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-25,9513,236,156096.0,208,22
+AD_0105,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-11,17789,371,155318.0,313,60
+AD_0098,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-30,9136,121,7567.0,102,10
+AD_0297,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-13,9394,129,294387.0,106,11
+AD_0409,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-23,7869,225,110103.0,202,18
+AD_0446,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-31,7165,61,468753.0,53,5
+AD_0904,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-18,5244,121,435417.0,103,13
+AD_0282,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-04,14096,338,443701.0,295,50
+AD_0267,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-23,9336,236,197852.0,194,21
+AD_0740,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-26,19392,387,366285.0,339,28
+AD_0887,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-13,13942,415,213096.0,349,34
+AD_0535,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-08,14452,205,132083.0,175,21
+AD_0433,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-13,7670,108,275607.0,92,5
+AD_0912,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-21,11890,277,317220.0,242,24
+AD_0657,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-19,17546,208,324126.0,171,19
+AD_0119,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-19,7538,115,416915.0,99,7
+AD_0406,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-19,18943,517,143764.0,458,73
+AD_0251,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-20,8013,101,298436.0,87,4
+AD_0378,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-24,10075,95,222808.0,80,4
+AD_0616,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-08,17566,552,100215.0,458,39
+AD_0010,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-04,11736,158,161858.0,138,8
+AD_0358,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-28,18462,362,213688.0,317,43
+AD_0197,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-11-12,6440,135,455824.0,113,5
+AD_0632,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-21,6357,156,210114.0,134,10
+AD_0082,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-19,19912,252,318803.0,206,21
+AD_0527,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-18,6161,70,462811.0,60,7
+AD_0831,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-21,10976,143,491214.0,120,17
+AD_0906,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-25,12631,143,479056.0,124,23
+AD_0240,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-20,5769,73,208212.0,65,8
+AD_0324,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-15,7882,92,230351.0,74,12
+AD_0212,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-27,18015,553,435938.0,471,46
+AD_0847,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-07,7374,137,477721.0,121,6
+AD_0549,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-24,7657,191,307440.0,158,22
+AD_0498,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-25,11591,286,479653.0,244,18
+AD_0228,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-10,9044,99,388859.0,83,6
+AD_0892,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-27,12273,309,354829.0,253,28
+AD_0815,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-11,19270,623,145807.0,505,89
+AD_0829,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-11,8678,83,346222.0,66,12
+AD_0178,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-24,19803,564,201757.0,506,28
+AD_0975,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-15,15663,133,494718.0,106,6
+AD_0434,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-23,7854,104,439443.0,84,12
+AD_0944,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-25,12830,163,478522.0,143,8
+AD_0517,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-17,12877,158,498138.0,134,18
+AD_0351,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-18,15578,176,331440.0,156,14
+AD_0519,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-31,9843,179,456427.0,148,13
+AD_0008,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-03,14869,159,123247.0,139,18
+AD_0156,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-10,6007,55,278589.0,44,5
+AD_0945,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-09,11611,351,245152.0,310,58
+AD_0007,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-06,13873,161,137065.0,143,19
+AD_0330,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-26,12537,166,488583.0,137,7
+AD_0543,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-04,19895,192,24310.0,172,19
+AD_0440,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-26,18142,186,345172.0,163,27
+AD_0810,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-13,16497,156,250534.0,135,10
+AD_0901,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-03,10758,249,338515.0,208,38
+AD_0371,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-11-19,5628,101,468226.0,90,12
+AD_0605,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-19,7190,134,292898.0,109,6
+AD_0974,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-02-24,8446,190,242108.0,158,15
+AD_0594,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-13,14788,418,362210.0,336,28
+AD_0877,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-10,5238,61,494321.0,48,5
+AD_0555,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-20,7946,139,477338.0,120,13
+AD_0754,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-29,14747,210,455288.0,184,11
+AD_0874,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-20,13728,141,244338.0,122,22
+AD_0533,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-02,10593,279,367687.0,226,12
+AD_0867,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-19,10006,304,371731.0,255,29
+AD_0229,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-02,12898,306,334213.0,252,41
+AD_0391,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-23,6481,192,221950.0,159,14
+AD_0760,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-24,16730,197,171805.0,174,17
+AD_0213,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-10,9817,108,356353.0,91,9
+AD_0080,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-22,13376,305,324301.0,255,32
+AD_0149,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-14,19808,444,404664.0,379,23
+AD_0303,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-17,11132,237,303196.0,196,34
+AD_0449,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-28,6338,155,384308.0,139,20
+AD_0362,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-21,11589,135,393577.0,110,13
+AD_0532,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-27,9350,82,330636.0,70,12
+AD_0530,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-23,14498,437,280418.0,379,52
+AD_0044,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-10,9141,133,291475.0,108,5
+AD_0674,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-08,9711,121,156116.0,100,5
+AD_0134,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-03,14119,426,246968.0,379,55
+AD_0576,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-19,14733,201,341071.0,163,20
+AD_0312,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-16,14835,170,168803.0,136,22
+AD_0568,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-30,9774,286,266964.0,243,20
+AD_0821,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-22,9656,92,322343.0,77,8
+AD_0001,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-28,18964,501,237337.0,408,23
+AD_0478,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-01,14259,254,375553.0,208,20
+AD_0317,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-19,18350,443,302747.0,378,23
+AD_0738,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-02,7066,89,354265.0,76,12
+AD_0573,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-12,16915,157,130063.0,136,10
+AD_0381,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-27,11028,262,419793.0,233,40
+AD_0833,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-26,11895,137,294387.0,121,18
+AD_0973,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-23,17573,468,467482.0,391,41
+AD_0962,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-14,19940,525,266866.0,442,33
+AD_0173,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-24,10389,145,423694.0,127,7
+AD_0126,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-17,15041,141,151226.0,125,22
+AD_0667,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-16,14494,311,449903.0,258,48
+AD_0702,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-08,7678,234,129777.0,207,28
+AD_0835,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-10,10883,223,383126.0,187,14
+AD_0940,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-23,7295,106,182600.0,91,12
+AD_0091,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-03,7846,96,344761.0,79,13
+AD_0979,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-10,5527,86,332695.0,69,9
+AD_0182,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-14,19668,475,301207.0,407,60
+AD_0364,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-05,18944,387,159234.0,328,36
+AD_0275,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-26,11971,334,308139.0,272,38
+AD_0965,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-03,9118,107,229789.0,89,7
+AD_0070,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-16,10989,164,385718.0,143,27
+AD_0132,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-18,10549,185,385195.0,154,9
+AD_0301,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-06,8800,261,170448.0,224,15
+AD_0606,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-18,10158,203,170474.0,176,25
+AD_0327,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-17,8863,268,370160.0,231,21
+AD_0145,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-15,16076,231,439273.0,185,19
+AD_0899,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-06,10175,85,191549.0,72,10
+AD_0669,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-05,10659,331,215819.0,296,31
+AD_0136,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-01,11232,109,304615.0,97,18
+AD_0452,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-17,5615,157,161169.0,136,23
+AD_0165,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-18,7959,83,498871.0,74,10
+AD_0029,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-08,11555,290,381974.0,239,33
+AD_0588,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-13,11079,285,172572.0,231,20
+AD_0194,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-04,12848,199,258280.0,161,15
+AD_0430,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-27,8406,74,111064.0,66,7
+AD_0666,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-19,10235,258,333996.0,224,20
+AD_0987,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-21,10773,107,275963.0,93,17
+AD_0170,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-30,7001,85,474504.0,70,3
+AD_0526,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-27,14374,188,307288.0,159,23
+AD_0141,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-24,10511,226,464809.0,182,18
+AD_0174,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-03,14867,203,473706.0,177,24
+AD_0765,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-16,18801,379,252647.0,312,44
+AD_0520,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-29,18556,527,297415.5,442,57
+AD_0679,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-08,5572,80,205386.0,71,5
+AD_0074,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-07,17314,358,181317.0,308,60
+AD_0714,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-20,9581,101,223714.0,83,9
+AD_0676,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-14,9665,115,420057.0,96,18
+AD_0239,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-18,11979,167,223257.0,141,25
+AD_0146,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-16,6796,87,166262.0,77,14
+AD_0824,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-10,15424,174,6902.0,154,13
+AD_0235,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-09,12083,304,323332.0,244,13
+AD_0221,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-13,14373,221,498872.0,189,23
+AD_0215,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-25,10719,151,331055.0,126,8
+AD_0689,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-10,8467,237,386100.0,191,30
+AD_0133,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-17,19086,483,251563.0,412,74
+AD_0403,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-09,14304,346,364064.0,284,45
+AD_0458,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-03,12750,143,135903.0,127,12
+AD_0685,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-14,13997,204,491670.0,171,11
+AD_0423,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-24,8552,219,180201.0,184,29
+AD_0186,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-14,16847,239,216891.0,211,28
+AD_0042,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-27,12805,242,120056.0,209,19
+AD_0639,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-20,11212,292,191229.0,239,38
+AD_0109,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-24,9708,108,157545.0,95,4
+AD_0617,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-01,17345,332,391043.0,296,19
+AD_0057,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-10,10293,138,139081.0,115,21
+AD_0450,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-15,11383,132,119610.0,114,12
+AD_0774,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-23,9024,77,244575.0,67,6
+AD_0590,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-11,6871,140,232534.0,117,13
+AD_0896,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-01,9922,238,489057.0,194,23
+AD_0436,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-19,12876,166,184811.0,140,22
+AD_0025,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-31,11548,358,292506.0,293,26
+AD_0811,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-22,18907,168,412683.0,140,19
+AD_0495,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-08,9504,170,393561.0,143,14
+AD_0827,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-27,15587,275,121498.0,235,44
+AD_0982,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-22,14663,410,389151.0,342,37
+AD_0929,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-26,7922,109,496017.0,92,13
+AD_0966,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-02,7982,91,243670.0,76,9
+AD_0339,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-21,18894,375,246721.0,305,44
+AD_0052,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-06,14357,372,406955.0,313,50
+AD_0384,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-10,9832,260,319571.0,224,15
+AD_0540,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-08,8866,100,346375.0,82,7
+AD_0992,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-15,10231,239,10783.0,192,27
+AD_0661,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-20,15084,182,316916.0,150,17
+AD_0265,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-22,9361,144,390372.0,124,9
+AD_0955,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-30,14773,438,243573.0,359,57
+AD_0742,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-28,17944,517,161554.0,460,87
+AD_0713,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-30,10360,91,216712.0,81,13
+AD_0445,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-12,18663,441,425488.0,395,72
+AD_0396,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-29,7761,116,125991.0,93,11
+AD_0542,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-18,7325,104,140542.0,87,12
+AD_0496,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-11,12558,125,322820.0,107,9
+AD_0019,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-23,5698,72,212859.0,57,5
+AD_0747,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-13,17931,256,294387.0,207,21
+AD_0523,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-09,7691,114,297539.0,92,6
+AD_0595,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-24,12465,378,350231.0,318,32
+AD_0480,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-09,15615,490,276469.0,395,20
+AD_0368,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-15,15155,475,267849.0,418,23
+AD_0084,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-29,15172,222,188869.0,189,16
+AD_0062,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-13,13316,115,228148.0,92,17
+AD_0484,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-09,13039,138,301499.0,114,11
+AD_0273,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-15,17006,243,310097.0,196,22
+AD_0286,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-21,14374,307,488832.0,272,13
+AD_0361,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-23,17661,215,29102.0,179,34
+AD_0355,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-21,9207,136,389750.0,119,14
+AD_0612,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-10,7061,109,131105.0,87,13
+AD_0279,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-03,11788,181,308347.0,160,27
+AD_0013,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-12,8484,174,150015.0,150,14
+AD_0183,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-11,9113,276,244832.0,242,16
+AD_0369,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-18,14135,128,443194.0,102,12
+AD_0528,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-17,12002,310,283622.0,248,42
+AD_0644,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-11,19854,595,316775.0,523,99
+AD_0224,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-26,9494,123,307440.0,105,10
+AD_0600,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-05,11326,222,105586.0,198,21
+AD_0766,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-13,10738,124,241041.0,99,18
+AD_0707,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-23,8502,123,233114.0,99,15
+AD_0571,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-14,10899,232,165524.0,186,12
+AD_0487,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-26,15002,157,318306.0,137,7
+AD_0466,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-09,18994,231,281068.0,201,24
+AD_0933,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-01,19755,561,289977.0,497,62
+AD_0637,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-05,7992,242,389304.0,208,17
+AD_0177,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-31,13236,151,473966.0,124,14
+AD_0696,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-02,15070,188,480457.0,168,21
+AD_0656,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-20,19501,289,291313.0,252,47
+AD_0614,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-10,13054,139,307440.0,125,14
+AD_0457,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-28,8257,230,152446.0,206,24
+AD_0545,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-22,12231,114,409378.0,99,14
+AD_0394,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-28,7049,81,181938.0,70,4
+AD_0164,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-27,12179,118,498992.0,95,6
+AD_0249,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-13,9979,84,119033.0,74,12
+AD_0663,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-09,9838,85,297415.5,71,7
+AD_0921,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-05,19161,379,364546.0,322,16
+AD_0998,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-11,9775,294,368356.0,249,25
+AD_0376,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-30,11316,241,273423.0,200,35
+AD_0413,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-13,11970,142,393851.0,115,18
+AD_0075,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-10-13,17674,263,456600.0,223,37
+AD_0917,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-04,19516,285,229560.0,250,27
+AD_0114,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-30,7717,157,317516.0,131,22
+AD_0501,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-30,14677,130,297415.5,107,13
+AD_0586,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-09,11772,216,304827.0,183,17
+AD_0115,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-19,11645,280,126737.0,237,39
+AD_0418,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-08,17869,525,176240.0,438,52
+AD_0090,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-11,15659,240,222883.0,192,37
+AD_0959,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-02,8960,124,382745.0,101,15
+AD_0902,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-17,17452,253,270491.0,217,12
+AD_0634,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-12,8081,76,235393.0,66,8
+AD_0678,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-24,9569,211,257699.0,188,10
+AD_0012,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-15,17882,517,198806.0,453,56
+AD_0397,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-27,16533,205,472185.0,175,14
+AD_0558,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-17,12345,181,307440.0,146,12
+AD_0043,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-10,17486,152,167215.0,124,8
+AD_0168,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-05,13154,176,164288.0,157,29
+AD_0417,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-26,9854,99,123408.0,80,8
+AD_0788,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-16,15592,383,258698.0,342,44
+AD_0427,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-09,10893,308,151831.0,269,32
+AD_0918,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-09,12522,170,432464.0,149,10
+AD_0715,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-08,17932,466,355095.0,394,43
+AD_0732,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-04,13186,123,269176.0,109,9
+AD_0258,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-17,13397,352,266597.0,299,28
+AD_0336,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-28,8588,258,229936.0,222,43
+AD_0016,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-14,17429,160,228376.0,138,6
+AD_0658,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-05,14327,139,123004.0,116,14
+AD_0325,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-07,16802,345,441207.0,291,40
+AD_0790,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-17,19613,576,294387.0,491,65
+AD_0223,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-25,14340,369,107967.0,299,41
+AD_0180,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-05,10714,287,488647.0,253,21
+AD_0100,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-14,8970,103,323810.0,88,8
+AD_0522,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-29,16141,139,378572.0,115,19
+AD_0023,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-18,15680,209,171295.0,178,31
+AD_0357,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-04,15584,157,436851.0,134,26
+AD_0697,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-15,16744,346,252948.0,309,26
+AD_0897,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-04-15,5329,118,241154.0,104,5
+AD_0341,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-29,13056,295,180811.0,257,25
+AD_0432,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-12,13003,113,307440.0,98,5
+AD_0577,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-28,9897,131,331414.0,106,10
+AD_0868,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-23,16280,203,448928.0,178,19
+AD_0204,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-21,18130,152,296501.0,134,24
+AD_0737,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-11,5282,147,217569.0,127,22
+AD_0094,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-21,12287,174,2839487.0,141,7
+AD_0584,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-13,11908,248,365303.0,216,11
+AD_0069,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-10,11000,269,205570.0,218,11
+AD_0651,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-05,11275,160,195965.0,133,10
+AD_0285,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-10,16528,364,307440.0,318,59
+AD_0837,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-01,9036,137,113703.0,120,14
+AD_0435,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-02,13411,313,208944.0,258,36
+AD_0154,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-31,14561,433,142534.0,353,60
+AD_0076,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-20,11892,112,417623.0,99,16
+AD_0762,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-24,9428,210,371623.0,186,36
+AD_0447,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-23,15706,202,329204.0,169,18
+AD_0189,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-05,14400,181,17312.0,154,18
+AD_0272,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-27,11976,102,181816.0,82,8
+AD_0237,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-19,12330,162,164027.0,135,15
+AD_0488,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-15,11305,164,440401.0,145,27
+AD_0560,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-31,10622,335,128633.0,283,35
+AD_0118,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-23,10300,99,255232.0,84,13
+AD_0852,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-29,7358,99,200025.0,88,11
+AD_0513,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-25,19782,570,166253.0,497,76
+AD_0579,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-21,14082,217,418903.0,190,19
+AD_0828,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-21,19726,407,217399.0,362,47
+AD_0127,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-05,14900,448,463476.0,375,47
+AD_0117,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-27,18271,157,307606.0,129,10
+AD_0474,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-27,12850,111,439629.0,95,17
+AD_0724,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-14,7223,97,428030.0,83,15
+AD_0058,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-14,18911,437,257504.0,388,33
+AD_0705,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-15,14630,163,442016.0,142,8
+AD_0949,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-14,7037,61,403564.0,49,7
+AD_0370,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-16,14927,231,155841.0,207,11
+AD_0269,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-22,11985,140,196111.0,118,19
+AD_0047,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-09,8687,240,111938.0,207,24
+AD_0350,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-22,9100,121,390316.0,101,10
+AD_0196,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-09,16013,436,151924.0,362,37
+AD_0103,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-30,13359,354,491182.0,311,22
+AD_0869,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-29,7789,182,486688.0,147,14
+AD_0722,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-08,6932,169,196058.0,150,17
+AD_0768,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-13,8782,87,302821.0,76,9
+AD_0264,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-15,14614,260,166707.0,211,38
+AD_0444,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-25,14867,159,164286.0,139,21
+AD_0706,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-27,13523,208,393313.0,175,23
+AD_0305,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-20,17878,235,329010.0,202,26
+AD_0342,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-17,12793,284,213550.0,253,28
+AD_0627,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-06,12823,191,292376.0,168,33
+AD_0150,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-08,16105,144,488411.0,116,21
+AD_0125,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-16,17367,334,288456.0,276,36
+AD_0818,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-07,8551,118,307440.0,96,12
+AD_0856,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-24,11086,263,451910.0,210,12
+AD_0051,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-06,12988,373,409439.0,319,50
+AD_0354,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-24,9803,265,499371.0,212,20
+AD_0967,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-04,10138,98,493887.0,85,6
+AD_0143,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-14,15056,416,143001.0,365,32
+AD_0400,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-05,6742,83,112360.0,72,10
+AD_0654,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-24,9940,238,386198.0,207,39
+AD_0321,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-19,13652,212,382363.0,175,17
+AD_0020,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-06,6707,162,257381.0,133,20
+AD_0843,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-11,6726,88,288297.0,74,12
+AD_0947,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-17,15759,216,375236.0,176,18
+AD_0842,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-30,14018,144,377331.0,125,22
+AD_0408,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-10,6629,101,429041.0,88,15
+AD_0538,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-12-31,10060,275,291591.0,223,25
+AD_0880,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-16,12190,117,104331.0,98,17
+AD_0039,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-01,7004,170,297484.0,139,15
+AD_0176,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-27,14057,383,268484.0,344,67
+AD_0246,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-08,13706,301,446130.0,245,15
+AD_0938,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-15,12986,317,420037.0,283,29
+AD_0698,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-16,7775,68,348003.0,58,8
+AD_0786,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-15,12492,262,259912.0,229,39
+AD_0894,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-02,12247,282,432343.0,251,48
+AD_0155,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-01-12,12343,231,175418.0,207,29
+AD_0288,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-08,9249,142,153909.0,125,11
+AD_0631,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-05,13895,267,201444.0,217,35
+AD_0570,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-08,13531,333,142674.0,268,16
+AD_0775,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-31,14961,231,481433.0,203,28
+AD_0018,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-09,10304,116,413149.0,104,20
+AD_0128,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-29,11788,150,153276.0,125,11
+AD_0323,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-06,10211,184,144789.0,161,11
+AD_0256,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-08,8019,84,177984.0,70,10
+AD_0993,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-13,19103,253,294387.0,220,22
+AD_0131,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-23,8240,231,183559.0,194,16
+AD_0191,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-18,16710,336,148320.0,296,56
+AD_0116,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-24,11873,255,437773.0,217,36
+AD_0645,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-22,8212,113,240416.0,90,9
+AD_0607,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-06,19002,558,273615.0,492,76
+AD_0181,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-28,18561,187,297415.5,159,17
+AD_0302,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-02,9492,262,330893.0,235,16
+AD_0791,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-07,12519,120,464765.0,99,5
+AD_0744,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-23,12169,378,307302.0,310,40
+AD_0755,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-02,9615,240,384907.0,207,41
+AD_0716,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-22,10959,118,485546.0,102,7
+AD_0793,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-02,18867,518,148037.0,436,72
+AD_0518,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-04,7059,166,128202.0,146,12
+AD_0373,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-26,19602,407,343588.0,327,24
+AD_0046,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-07,16823,510,109540.0,442,62
+AD_0946,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-03,9670,311,315572.0,262,23
+AD_0158,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-01-12,15073,370,353973.0,318,18
+AD_0961,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-08,6025,152,460519.0,123,17
+AD_0172,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-13,8925,235,217832.0,189,24
+AD_0017,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-25,12530,297,365892.0,258,23
+AD_0512,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-18,16032,324,412402.0,287,32
+AD_0049,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-10,7082,76,2305428.0,63,11
+AD_0875,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-30,7873,114,392552.0,92,14
+AD_0516,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-31,8012,228,409509.0,200,19
+AD_0717,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-11,7590,76,350694.0,63,11
+AD_0481,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-21,17378,182,324404.0,163,24
+AD_0284,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-04,10830,112,356190.0,93,16
+AD_0750,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-31,14396,205,186155.0,174,14
+AD_0866,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-16,6079,130,427438.0,107,16
+AD_0226,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-09,6179,136,237478.0,118,7
+AD_0027,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-11,9557,144,233272.0,115,8
+AD_0814,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-22,10110,203,420847.0,169,11
+AD_0438,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-22,18441,205,330233.0,173,33
+AD_0991,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-21,7952,240,466590.0,206,20
+AD_0365,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-28,14186,137,485893.0,118,23
+AD_0230,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-06,17201,363,287604.0,297,17
+AD_0038,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-10,16907,146,284078.0,122,8
+AD_0670,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-07,8159,88,353078.0,75,12
+AD_0375,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-07,17230,546,369956.0,459,76
+AD_0470,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-05-11,9785,145,2652109.0,129,25
+AD_0886,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-11,17860,162,459792.0,131,17
+AD_0735,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-08,10815,209,334085.0,168,22
+AD_0757,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-03,11675,133,248620.0,118,8
+AD_0195,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-12,16829,194,307440.0,169,28
+AD_0890,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-13,18151,240,133351.0,214,13
+AD_0900,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-24,11323,334,309394.0,279,51
+AD_0504,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-27,5807,55,235899.0,48,3
+AD_0865,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-10,7712,115,484822.0,94,10
+AD_0580,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-07-06,9938,88,414493.0,70,10
+AD_0033,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-10,11102,238,316386.0,194,25
+AD_0681,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-01,12952,146,180730.0,129,17
+AD_0163,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-14,7933,166,495196.0,136,24
+AD_0733,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-21,6982,59,194455.0,47,8
+AD_0153,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-14,19643,526,233541.0,430,78
+AD_0712,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-25,14694,151,177095.0,122,19
+AD_0731,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-24,16139,455,166060.0,384,45
+AD_0787,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-31,14478,166,270457.0,144,23
+AD_0112,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-04,7713,136,466036.0,115,22
+AD_0227,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-04-11,16011,321,460867.0,273,31
+AD_0719,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-11,9095,126,419064.0,106,5
+AD_0104,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-22,7094,90,437827.0,76,6
+AD_0422,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-28,7294,74,197406.0,60,4
+AD_0420,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-04,11545,294,114955.0,250,18
+AD_0782,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-13,9868,301,439851.0,259,16
+AD_0587,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-27,9597,86,469738.0,73,13
+AD_0673,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-31,13639,290,445072.0,260,21
+AD_0120,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-07,7198,104,267292.0,92,13
+AD_0054,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-17,17011,540,295967.0,458,56
+AD_0152,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-16,14314,436,307440.0,385,69
+AD_0404,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-10-15,10285,93,182289.0,81,8
+AD_0985,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-22,8663,256,294387.0,205,29
+AD_0208,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-23,14622,375,157993.0,309,44
+AD_0659,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-08,16521,306,262007.0,256,23
+AD_0925,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-11,14598,307,480485.0,245,19
+AD_0794,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-11,17465,458,468876.0,405,32
+AD_0009,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-07,14208,149,476896.0,119,13
+AD_0980,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-11,7888,69,486265.0,58,7
+AD_0037,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-05-23,12919,162,330229.0,134,9
+AD_0453,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-22,12226,164,186795.0,138,21
+AD_0652,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-04,11500,160,157786.0,138,12
+AD_0254,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-01,13354,117,142092.0,102,20
+AD_0304,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-08,13365,117,266892.0,103,5
+AD_0778,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-05,9262,134,477224.0,119,9
+AD_0572,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-10-05,16643,302,306314.0,259,30
+AD_0624,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-07,10830,350,330693.0,291,21
+AD_0741,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-24,10618,341,280175.0,279,45
+AD_0751,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-16,13553,387,307440.0,327,59
+AD_0263,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-24,16032,397,290135.0,319,45
+AD_0611,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-03,17573,398,254721.0,325,38
+AD_0298,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-02,15921,237,474226.0,196,38
+AD_0415,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-30,7802,230,228128.0,191,16
+AD_0151,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-09,7317,92,228322.0,76,11
+AD_0820,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-30,11859,156,135757.0,136,13
+AD_0641,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-06,14505,174,173591.0,149,8
+AD_0926,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-10-03,16350,140,169103.0,125,19
+AD_0551,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-24,13106,198,318532.0,158,15
+AD_0823,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-24,12316,220,361879.0,191,19
+AD_0489,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-09,16793,340,386073.0,292,52
+AD_0711,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-24,17775,542,116535.0,485,82
+AD_0148,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-11-25,6380,120,183560.0,100,9
+AD_0147,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-27,14312,283,259903.0,239,34
+AD_0752,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-24,13533,382,294716.0,331,31
+AD_0971,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-25,14044,194,405428.0,171,13
+AD_0771,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-30,13895,365,250737.0,327,24
+AD_0660,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-03,7603,110,273501.0,88,11
+AD_0349,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-06,15547,140,2379577.0,117,6
+AD_0464,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-06,16182,379,352084.0,319,37
+AD_0326,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-28,10802,122,118354.0,104,14
+AD_0187,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-30,16508,249,258492.0,215,17
+AD_0124,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-25,8301,249,216739.0,202,37
+AD_0889,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-22,10531,266,206538.0,233,37
+AD_0609,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-25,10150,155,466862.0,137,11
+AD_0144,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-15,15202,226,311169.0,184,36
+AD_0198,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-20,16153,189,207522.0,161,31
+AD_0610,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-16,15033,210,337919.0,180,35
+AD_0280,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-01,12569,374,257547.0,310,27
+AD_0294,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-20,16250,486,412023.0,435,23
+AD_0401,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-28,19700,190,102642.0,154,11
+AD_0123,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-28,11223,108,259601.0,86,7
+AD_0184,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-14,5629,112,302332.0,93,16
+AD_0203,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-20,14052,136,380887.0,119,9
+AD_0439,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-21,9290,140,193405.0,115,14
+AD_0247,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-17,15553,193,155147.0,168,33
+AD_0416,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-04,17105,511,342998.0,419,71
+AD_0808,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-11,9841,185,228041.0,152,15
+AD_0797,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-15,16107,457,193650.0,374,24
+AD_0960,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-05,18690,565,239152.0,493,36
+AD_0800,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-31,9971,228,108314.0,199,13
+AD_0924,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-15,8003,94,197919.0,81,5
+AD_0130,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-28,12101,385,138890.0,320,53
+AD_0638,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-10,9704,182,356228.0,161,17
+AD_0937,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-30,15903,411,430328.0,359,58
+AD_0802,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-19,13266,238,386740.0,208,41
+AD_0736,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-14,11698,252,380092.0,220,31
+AD_0950,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-26,5432,82,344288.0,68,13
+AD_0220,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-04,14629,207,393894.0,171,10
+AD_0642,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-28,17486,501,179795.0,425,65
+AD_0952,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-25,11515,266,306384.0,213,39
+AD_0784,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-14,13343,162,427891.0,138,8
+AD_0888,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-17,8936,245,276687.0,207,14
+AD_0957,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-04,12838,252,308851.0,211,32
+AD_0625,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-25,13107,112,193297.0,91,15
+AD_0873,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-10,8201,86,440343.0,75,8
+AD_0923,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-09,7780,92,232475.0,73,10
+AD_0387,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-14,11357,312,494754.0,253,41
+AD_0510,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-04-06,16667,350,404082.0,292,43
+AD_0268,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-27,8633,161,309093.0,142,16
+AD_0853,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-02,15384,184,217265.0,160,26
+AD_0442,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-06,16732,450,478669.0,390,38
+AD_0497,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-01,15869,235,147111.0,191,11
+AD_0113,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-28,12182,189,251878.0,162,9
+AD_0692,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-09,11025,131,354043.0,116,22
+AD_0233,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-15,8191,182,204576.0,160,9
+AD_0905,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-01,17892,503,272687.0,440,53
+AD_0608,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-27,18516,278,213758.0,246,39
+AD_0672,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-21,10823,102,422245.0,86,7
+AD_0374,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-09,14423,346,146002.0,291,28
+AD_0878,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-03-30,18004,379,201551.0,309,20
+AD_0234,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-10,9279,108,489878.0,93,17
+AD_0817,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-15,7737,246,346471.0,203,21
+AD_0677,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-25,8172,256,488681.0,205,17
+AD_0318,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-19,16493,202,496452.0,171,22
+AD_0649,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-28,13447,346,393459.0,306,58
+AD_0411,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-25,7817,101,497674.0,87,15
+AD_0935,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-02,17361,329,160653.0,288,23
+AD_0710,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-18,12398,168,203475.0,137,15
+AD_0359,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-26,14006,386,174218.0,340,65
+AD_0259,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-04,12999,126,294387.0,106,20
+AD_0745,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-28,8259,80,203535.0,70,7
+AD_0628,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-01,16196,181,178863.0,147,22
+AD_0633,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-18,12481,335,274673.0,298,51
+AD_0283,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-16,13049,291,305735.0,232,35
+AD_0377,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-20,19258,483,453646.0,425,74
+AD_0385,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-11-17,9610,221,294387.0,186,13
+AD_0995,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-19,10873,140,352822.0,119,21
+AD_0848,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-16,17892,260,401033.0,232,18
+AD_0473,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-24,9547,131,405077.0,108,14
+AD_0348,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-25,8751,275,409521.0,240,47
+AD_0506,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-12,7418,82,351004.0,70,7
+AD_0640,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-01,7912,161,493711.0,133,18
+AD_0798,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-14,14190,356,178422.0,288,39
+AD_0968,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-01-28,6074,75,309486.0,60,5
+AD_0942,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-09,14939,186,246935.0,156,8
+AD_0620,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-16,9565,134,219875.0,120,21
+AD_0891,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-26,8185,91,13075.0,78,5
+AD_0836,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-06,15593,220,137381.0,197,23
+AD_0646,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-14,11243,228,142317.0,194,15
+AD_0882,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-14,14735,330,304335.0,280,47
+AD_0557,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-11-02,15864,307,180820.0,266,14
+AD_1000,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-03,6284,56,486006.0,50,3
+AD_0578,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-21,10786,156,400340.0,135,26
+AD_0796,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-19,19122,212,393151.0,170,11
+AD_0086,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-25,15258,199,486193.0,160,20
+AD_0243,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-21,9196,127,487732.0,114,18
+AD_0699,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-30,13720,415,324970.0,339,36
+AD_0910,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-09,10126,87,199847.0,70,3
+AD_0160,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-20,17698,491,111745.0,406,81
+AD_0525,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-14,8859,190,327105.0,152,17
+AD_0036,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-13,9950,248,432460.0,203,12
+AD_0541,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-14,9571,204,443989.0,165,28
+AD_0171,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-07-13,7089,197,312977.0,173,9
+AD_0655,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-18,6936,64,275037.0,56,6
+AD_0927,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-30,12844,324,111319.0,269,26
+AD_0893,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-30,17095,191,118706.0,167,8
+AD_0883,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-03,11521,98,491806.0,88,5
+AD_0984,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-25,10969,124,147367.0,105,9
+AD_0734,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-03,18534,514,388137.0,441,34
+AD_0096,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-17,15162,134,236487.0,116,6
+AD_0564,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-03,14974,312,255918.0,268,14
+AD_0241,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-28,14569,145,170119.0,122,14
+AD_0743,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-13,17417,452,114650.0,382,33
+AD_0575,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-25,9206,218,180863.0,174,17
+AD_0691,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-27,10111,312,103626.0,266,32
+AD_0461,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-01,18803,206,289052.0,171,33
+AD_0554,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-13,10618,290,395184.0,235,15
+AD_0858,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-20,10273,135,209101.0,112,17
+AD_0914,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-23,17708,153,307440.0,123,12
+AD_0207,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-30,16776,479,117633.0,405,52
+AD_0393,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-06,5139,66,381696.0,55,9
+AD_0795,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-12,14482,216,315657.0,178,22
+AD_0398,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-23,13399,361,296375.0,312,60
+AD_0767,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-06-03,5752,149,134160.0,132,24
+AD_0884,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-04,18139,392,122419.0,347,66
+AD_0218,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-07,9496,209,138067.0,173,33
+AD_0005,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-16,15792,505,305041.0,423,22
+AD_0769,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-09,10682,99,481382.0,80,15
+AD_0643,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-04,18394,418,111049.0,357,33
+AD_0934,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-03,10770,126,473595.0,104,19
+AD_0613,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-26,6045,59,370095.0,52,7
+AD_0739,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-02,7804,194,109583.0,161,8
+AD_0547,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-21,19117,192,448103.0,156,30
+AD_0726,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-01-21,6125,196,491770.0,158,24
+AD_0954,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-10-07,7421,94,309633.0,79,15
+AD_0684,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-06-26,10151,124,433260.0,109,12
+AD_0099,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-19,9190,115,167728.0,102,10
+AD_0805,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-04-10,8857,197,365116.0,161,10
+AD_0728,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-29,8007,114,307440.0,96,11
+AD_0574,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-25,16356,148,29070.0,119,6
+AD_0407,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-13,9164,170,252353.0,137,16
+AD_0503,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-23,12184,294,222019.0,247,37
+AD_0048,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-09-25,12536,341,182986.0,279,16
+AD_0780,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-10,19826,624,330246.0,536,54
+AD_0840,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-04-14,16850,208,236225.0,167,10
+AD_0201,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-22,5140,56,408557.0,47,4
+AD_0135,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-12-31,9873,259,469040.0,211,28
+AD_0028,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-06-12,19259,260,297415.5,220,16
+AD_0916,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-06-01,18903,560,101379.0,480,66
+AD_0231,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-07,13036,393,358230.0,320,22
+AD_0490,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-21,13185,139,154195.0,121,17
+AD_0773,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-27,10170,259,194346.0,224,18
+AD_0379,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-17,12997,331,365976.0,266,27
+AD_0289,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-02,12075,186,128365.0,162,15
+AD_0419,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-02,18502,510,332076.0,444,47
+AD_0675,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-12-19,17763,200,250259.0,167,29
+AD_0392,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-11-24,15566,405,386479.0,363,52
+AD_0593,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-29,13008,400,196502.0,346,59
+AD_0499,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-10,9462,100,356674.0,80,12
+AD_0139,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-16,16323,342,223618.0,303,16
+AD_0063,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-27,11190,301,400557.0,249,49
+AD_0472,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-11-04,9820,144,251014.0,123,20
+AD_0648,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-06,8661,88,405761.0,76,9
+AD_0129,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-20,9150,251,366997.0,204,25
+AD_0521,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-21,12478,118,441651.0,103,10
+AD_0839,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-15,16735,474,168274.0,388,27
+AD_0065,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-14,10719,117,262993.0,96,9
+AD_0813,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-08,14505,372,233177.0,316,35
+AD_0015,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-03-03,9693,236,343307.0,193,35
+AD_0157,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-01,17276,157,303667.0,136,8
+AD_0041,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-12,15308,137,494366.0,119,13
+AD_0493,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-01-05,8716,102,343767.0,82,11
+AD_0380,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-13,18580,214,288799.0,171,27
+AD_0188,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-21,8229,228,272307.0,204,39
+AD_0764,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-03-24,13825,190,451931.0,165,19
+AD_0217,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-10-15,14715,413,218413.0,335,28
+AD_0922,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-12-28,15515,194,424319.0,172,23
+AD_0792,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-01-12,17260,264,225155.0,218,16
+AD_0053,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-13,15787,471,219180.0,418,45
+AD_0879,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-05,19884,477,265486.0,428,47
+AD_0338,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-09,13555,136,114743.0,112,15
+AD_0749,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-02-18,10875,191,307440.0,157,10
+AD_0720,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-16,14406,147,168369.0,126,7
+AD_0725,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-06-28,14170,199,135187.0,172,34
+AD_0296,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-10-03,19466,196,248934.0,159,13
+AD_0252,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-07,19475,274,389910.0,243,30
+AD_0727,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-04-09,8483,273,423864.0,238,32
+AD_0462,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-11,19453,284,297415.5,234,15
+AD_0456,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-14,7975,116,421690.0,101,9
+AD_0271,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-02,17983,264,380277.0,215,18
+AD_0816,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-09-15,10845,205,474695.0,182,34
+AD_0863,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-20,18109,205,476053.0,179,29
+AD_0270,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-28,8727,123,372944.0,100,8
+AD_0202,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-27,12311,231,470321.0,194,38
+AD_0162,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-07-14,18703,448,153268.0,399,71
+AD_0556,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-03-28,10590,138,131728.0,112,13
+AD_0730,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-08,12397,131,475833.0,108,7
+AD_0402,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-17,8271,104,485633.0,87,5
+AD_0703,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-02-07,9440,287,238439.0,257,49
+AD_0477,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-04-26,9761,136,409718.0,117,10
+AD_0822,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-24,10232,259,413651.0,226,22
+AD_0772,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-01,7964,255,446140.0,226,13
+AD_0106,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-29,12790,174,389450.0,155,20
+AD_0566,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-29,11748,104,248929.0,91,13
+AD_0390,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-06-17,7240,160,472047.0,141,10
+AD_0002,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-06-01,7769,105,427069.0,86,6
+AD_0977,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-08,13123,399,491479.0,343,43
+AD_0562,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-12,19012,445,369355.0,357,39
+AD_0932,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-24,11830,123,247937.0,101,17
+AD_0081,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-10-09,12240,340,359127.0,301,56
+AD_0206,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-09,13674,413,262982.0,357,22
+AD_0035,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-09-30,12560,169,467654.0,140,23
+AD_0943,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-01-10,9107,85,446997.0,75,11
+AD_0776,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-12-12,18045,524,194968.0,425,75
+AD_0509,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-04-06,16417,205,307440.0,182,24
+AD_0428,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-30,8816,224,373820.0,183,32
+AD_0455,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-12-30,12175,108,451193.0,87,12
+AD_0367,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-12-18,13976,163,464115.0,139,23
+AD_0092,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-11-20,7224,98,335659.0,79,11
+AD_0340,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-02-18,10086,98,347644.0,78,7
+AD_0898,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-02-14,14842,179,148380.0,152,18
+AD_0565,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-05-15,16963,488,191321.0,411,23
+AD_0346,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-10,8519,84,307440.0,73,3
+AD_0777,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-02-13,18692,515,162119.0,429,35
+AD_0242,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-08-01,7685,65,294387.0,56,5
+AD_0014,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-19,8242,169,424767.0,145,22
+AD_0316,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-08-22,9309,268,215598.0,227,15
+AD_0601,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-24,11327,336,307440.0,279,47
+AD_0388,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-07-11,14106,348,447235.0,305,48
+AD_0274,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-03-15,9555,134,438083.0,110,10
+AD_0167,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-04-27,7583,80,307440.0,65,7
+AD_0841,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Video_Review,2023-02-15,18381,491,421154.0,404,61
+AD_0021,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-09-12,15004,404,307440.0,344,21
+AD_0647,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-01,12694,116,259484.0,97,13
+AD_0819,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-21,14777,156,487158.0,130,25
+AD_0485,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-27,11005,97,294387.0,79,12
+AD_0505,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-08-25,7757,82,300462.0,71,13
+AD_0832,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-06-16,15789,297,492144.0,259,37
+AD_0244,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-24,19543,501,317322.0,414,54
+AD_0567,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-03-26,10982,281,294387.0,230,33
+AD_0876,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-09-29,7486,107,343876.0,85,11
+AD_0563,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-09-11,14928,461,499305.0,406,78
+AD_0994,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-29,11182,140,349004.0,120,11
+AD_0687,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-25,11428,311,419532.0,254,17
+AD_0958,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-11-27,17088,457,478994.0,391,57
+AD_0190,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-05-06,6969,143,497686.0,116,9
+AD_0783,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-18,16420,141,375381.0,124,24
+AD_0976,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-03-28,17124,227,270231.0,203,28
+AD_0700,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-09-22,7919,85,411714.0,72,7
+AD_0476,Awareness Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-13,8756,246,332204.0,213,35
+AD_0682,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-02-18,14110,161,297415.5,133,18
+AD_0511,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-07-12,9806,101,262793.0,81,11
+AD_0059,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-05-12,14419,270,303196.0,226,35
+AD_0475,Flash Sale Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-08-17,12592,353,182806.0,299,34
+AD_0561,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-07-22,11411,163,195761.0,135,10
+AD_0857,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-05-24,19919,206,134523.0,183,22
+AD_0748,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-27,8308,72,101620.0,60,7
+AD_0253,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-12-02,11643,301,307440.0,261,44
+AD_0022,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-06,16986,214,418394.0,175,27
+AD_0314,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-10-21,5929,178,191575.0,159,18
+AD_0460,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-10-20,15775,182,306903.0,148,12
+AD_0161,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-02-08,9844,274,385555.0,242,40
+AD_0277,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-03,12183,189,131852.0,169,25
+AD_0956,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-02-01,11332,99,185820.0,82,6
+AD_0192,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-25,7302,91,412282.0,81,12
+AD_0386,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-07-17,7406,143,133276.0,126,11
+AD_0806,Retargeting Campaign,warm,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,2023-11-22,18525,189,288644.0,153,12
+AD_0414,Retargeting Campaign,warm,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-01,12103,146,200336.0,119,17
+AD_0492,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Static_Catalog,2023-05-31,18815,212,153592.0,189,11
+AD_0344,Flash Sale Campaign,cold,Serum,DermaGlow Brightening Serum,Video_Review,2023-01-23,7234,198,321035.0,160,24
+AD_0770,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-07-02,5078,59,407980.0,52,9
+AD_0309,Retargeting Campaign,warm,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-03-03,11318,277,412727.0,239,42
+AD_0662,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-08-08,13495,195,294387.0,160,27
+AD_0664,Flash Sale Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-08-20,11401,244,451136.0,204,29
+AD_0872,Awareness Campaign,cold,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,2023-05-18,11811,326,377919.0,279,44
+AD_0088,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-08-17,8460,77,216421.0,64,7
+AD_0331,Awareness Campaign,cold,Cleanser,DermaGlow Gentle Cleanser,Video_Review,2023-02-06,12668,222,440615.0,194,28
+AD_0467,Retargeting Campaign,warm,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,2023-11-23,11143,126,290246.0,106,17
+AD_0122,Awareness Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,2023-09-13,14083,140,357529.0,122,8
+AD_0861,Flash Sale Campaign,cold,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,2023-08-14,17602,524,376835.0,468,45

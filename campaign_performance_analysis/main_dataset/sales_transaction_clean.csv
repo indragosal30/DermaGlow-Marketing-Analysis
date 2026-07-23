@@ -1,0 +1,1932 @@
+transaction_id,ad_id,transaction_date,product_type,product_name,variant,revenue_idr,order_status
+TXN_001448,Organic,2023-03-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,403000.0,Success
+TXN_001115,AD_0958,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,187000.0,Success
+TXN_001538,AD_0317,2023-06-22,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,236000.0,Success
+TXN_000669,AD_0992,2023-11-15,Serum,DermaGlow Brightening Serum,Video_Review,521000.0,Success
+TXN_001584,AD_0815,2023-10-12,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,215000.0,Success
+TXN_002405,AD_0698,2023-07-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,264000.0,Success
+TXN_002481,AD_0543,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,132000.0,Success
+TXN_000472,AD_0335,2023-01-13,Serum,DermaGlow Brightening Serum,Static_Catalog,122000.0,Success
+TXN_000247,AD_0635,2023-04-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,501000.0,Success
+TXN_001132,AD_0801,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,504000.0,Success
+TXN_000671,AD_0992,2023-11-18,Serum,DermaGlow Brightening Serum,Video_Review,128000.0,Success
+TXN_000917,AD_0406,2023-06-22,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,247000.0,Success
+TXN_001415,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,291000.0,Success
+TXN_001607,AD_0431,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,88000.0,Success
+TXN_000403,AD_0874,2023-04-21,Serum,DermaGlow Brightening Serum,Static_Catalog,181000.0,Success
+TXN_001104,AD_0517,2023-03-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,113000.0,Success
+TXN_002073,AD_0488,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,295000.0,Success
+TXN_000720,AD_0946,2023-03-05,Serum,DermaGlow Brightening Serum,Video_Review,397000.0,Success
+TXN_002012,AD_0424,2023-05-23,Serum,DermaGlow Brightening Serum,Static_Catalog,117000.0,Success
+TXN_002437,AD_0858,2023-03-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,365000.0,Success
+TXN_000197,AD_0009,2023-07-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,280000.0,Success
+TXN_000892,AD_0459,2023-03-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,201000.0,Success
+TXN_001265,AD_0663,2023-10-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,490000.0,Success
+TXN_001035,AD_0418,2023-02-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,195000.0,Success
+TXN_001326,AD_0027,2023-09-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,195000.0,Success
+TXN_001428,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,75000.0,Success
+TXN_000195,AD_0156,2023-12-10,Serum,DermaGlow Brightening Serum,Static_Catalog,494000.0,Success
+TXN_001180,AD_0123,2023-03-03,Serum,DermaGlow Brightening Serum,Static_Catalog,298000.0,Success
+TXN_002033,AD_0715,2023-02-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,292000.0,Success
+TXN_000933,AD_0170,2023-08-30,Serum,DermaGlow Brightening Serum,Static_Catalog,207000.0,Success
+TXN_001125,AD_0868,2023-11-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,280000.0,Success
+TXN_001823,AD_0618,2023-12-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,300000.0,Success
+TXN_001367,Organic,2023-05-20,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,394000.0,Success
+TXN_001993,AD_0984,2023-03-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,287000.0,Success
+TXN_002275,AD_0850,2023-02-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,395000.0,Success
+TXN_001274,AD_0977,2023-07-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,234000.0,Success
+TXN_001267,AD_0663,2023-10-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,211000.0,Success
+TXN_001609,AD_0431,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,530000.0,Success
+TXN_001312,AD_0612,2023-09-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,408000.0,Success
+TXN_000135,AD_0311,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,254000.0,Success
+TXN_002400,AD_0007,2023-11-06,Serum,DermaGlow Brightening Serum,Static_Catalog,502000.0,Success
+TXN_000421,AD_0526,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,155000.0,Success
+TXN_001756,AD_0440,2023-09-28,Serum,DermaGlow Brightening Serum,Static_Catalog,230000.0,Success
+TXN_000094,AD_0921,2023-12-06,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,208000.0,Success
+TXN_000057,AD_0758,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,111000.0,Success
+TXN_000219,AD_0567,2023-03-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,143000.0,Success
+TXN_001037,AD_0418,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,319000.0,Success
+TXN_001294,Organic,2023-09-14,Cleanser,DermaGlow Gentle Cleanser,Video_Review,123000.0,Success
+TXN_001953,AD_0819,2023-09-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,404000.0,Success
+TXN_001450,AD_0274,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,451000.0,Success
+TXN_002360,AD_0361,2023-02-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,270000.0,Success
+TXN_001466,AD_0365,2023-11-30,Serum,DermaGlow Brightening Serum,Static_Catalog,130000.0,Success
+TXN_002178,AD_0168,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,323000.0,Success
+TXN_001473,AD_0728,2023-07-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,174000.0,Success
+TXN_000573,AD_0506,2023-03-12,Serum,DermaGlow Brightening Serum,Static_Catalog,529000.0,Success
+TXN_000519,AD_0861,2023-08-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,353000.0,Success
+TXN_002347,Organic,2023-07-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,394000.0,Success
+TXN_001289,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,350000.0,Success
+TXN_001124,AD_0868,2023-11-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,540000.0,Success
+TXN_001342,AD_0531,2023-11-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,98000.0,Success
+TXN_001491,AD_0642,2023-09-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,78000.0,Success
+TXN_000044,AD_0859,2023-12-01,Serum,DermaGlow Brightening Serum,Video_Review,405000.0,Success
+TXN_001879,AD_0471,2023-07-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,351000.0,Success
+TXN_000451,AD_0821,2023-10-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,105000.0,Success
+TXN_002046,AD_0225,2023-09-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,132000.0,Success
+TXN_000045,AD_0859,2023-12-02,Serum,DermaGlow Brightening Serum,Video_Review,357000.0,Success
+TXN_001284,AD_0328,2023-11-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,303000.0,Success
+TXN_001968,AD_0090,2023-08-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,389000.0,Success
+TXN_002091,AD_0249,2023-01-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,277000.0,Success
+TXN_000255,AD_0635,2023-04-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,357000.0,Success
+TXN_001946,AD_0428,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,440000.0,Success
+TXN_001875,AD_0933,2023-09-01,Serum,DermaGlow Brightening Serum,Video_Review,282000.0,Success
+TXN_000565,AD_0771,2023-05-01,Serum,DermaGlow Brightening Serum,Video_Review,424000.0,Success
+TXN_000213,AD_0375,2023-07-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,355000.0,Success
+TXN_000743,AD_0489,2023-05-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,208000.0,Success
+TXN_001252,AD_0565,2023-05-16,Serum,DermaGlow Brightening Serum,Video_Review,201000.0,Success
+TXN_001048,AD_0211,2023-03-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,108000.0,Success
+TXN_001018,Organic,2023-09-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,186000.0,Success
+TXN_000171,AD_0025,2023-11-01,Serum,DermaGlow Brightening Serum,Video_Review,103000.0,Success
+TXN_002488,AD_0247,2023-08-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,288000.0,Success
+TXN_002218,AD_0132,2023-04-18,Serum,DermaGlow Brightening Serum,Video_Review,207000.0,Success
+TXN_000545,AD_0073,2023-02-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,313000.0,Success
+TXN_000464,AD_0724,2023-08-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,88000.0,Success
+TXN_000989,AD_0318,2023-04-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,155000.0,Success
+TXN_001322,AD_0931,2023-12-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,110000.0,Success
+TXN_000603,AD_0926,2023-10-04,Serum,DermaGlow Brightening Serum,Static_Catalog,316000.0,Success
+TXN_001337,AD_0327,2023-02-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,410000.0,Success
+TXN_002340,AD_0718,2023-08-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,147000.0,Success
+TXN_001261,AD_0231,2023-07-08,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,352000.0,Success
+TXN_002115,Organic,2023-12-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,86000.0,Success
+TXN_000808,AD_0278,2023-04-12,Serum,DermaGlow Brightening Serum,Static_Catalog,304000.0,Success
+TXN_000887,AD_0115,2023-03-19,Serum,DermaGlow Brightening Serum,Video_Review,239000.0,Success
+TXN_001583,AD_0815,2023-10-14,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,393000.0,Success
+TXN_001615,AD_0806,2023-11-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,506000.0,Success
+TXN_001838,AD_0711,2023-07-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,273000.0,Success
+TXN_001874,AD_0933,2023-09-03,Serum,DermaGlow Brightening Serum,Video_Review,291000.0,Success
+TXN_000283,AD_0196,2023-05-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,309000.0,Success
+TXN_000211,AD_0370,2023-08-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,261000.0,Success
+TXN_002166,AD_0367,2023-12-21,Serum,DermaGlow Brightening Serum,Static_Catalog,112000.0,Success
+TXN_000458,AD_0724,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,140000.0,Success
+TXN_000820,AD_0679,2023-04-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,123000.0,Success
+TXN_002185,AD_0994,2023-08-01,Serum,DermaGlow Brightening Serum,Static_Catalog,197000.0,Success
+TXN_001656,AD_0887,2023-11-14,Cleanser,DermaGlow Gentle Cleanser,Video_Review,469000.0,Success
+TXN_000253,AD_0635,2023-04-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,354000.0,Success
+TXN_000252,AD_0635,2023-04-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,151000.0,Success
+TXN_001927,AD_0198,2023-04-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,110000.0,Success
+TXN_001019,AD_0097,2023-12-27,Cleanser,DermaGlow Gentle Cleanser,Video_Review,321000.0,Success
+TXN_000423,AD_0526,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,74000.0,Success
+TXN_001176,AD_0474,2023-02-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,544000.0,Success
+TXN_000621,AD_0829,2023-10-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,437000.0,Success
+TXN_000487,AD_0513,2023-08-27,Serum,DermaGlow Brightening Serum,Video_Review,415000.0,Success
+TXN_001986,AD_0533,2023-12-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,399000.0,Success
+TXN_001081,AD_0279,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,228000.0,Success
+TXN_001358,AD_0788,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,396000.0,Success
+TXN_001042,AD_0941,2023-11-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,116000.0,Success
+TXN_001091,AD_0569,2023-05-05,Serum,DermaGlow Brightening Serum,Video_Review,131000.0,Success
+TXN_000212,AD_0375,2023-07-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,157000.0,Success
+TXN_000465,AD_0724,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,449000.0,Success
+TXN_001468,Organic,2023-11-28,Serum,DermaGlow Brightening Serum,Static_Catalog,313000.0,Success
+TXN_000555,AD_0199,2023-04-28,Serum,DermaGlow Brightening Serum,Static_Catalog,167000.0,Success
+TXN_000908,AD_0826,2023-10-21,Serum,DermaGlow Brightening Serum,Static_Catalog,214000.0,Success
+TXN_000097,AD_0048,2023-09-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,150000.0,Success
+TXN_001965,AD_0802,2023-03-19,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,242000.0,Success
+TXN_001365,AD_0429,2023-05-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,306000.0,Success
+TXN_001925,Organic,2023-03-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,90000.0,Success
+TXN_000612,AD_0841,2023-02-16,Serum,DermaGlow Brightening Serum,Video_Review,299000.0,Success
+TXN_000446,AD_0307,2023-07-30,Serum,DermaGlow Brightening Serum,Static_Catalog,452000.0,Success
+TXN_000238,AD_0023,2023-12-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,221000.0,Success
+TXN_002311,AD_0151,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,236000.0,Success
+TXN_000874,AD_0291,2023-06-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,528000.0,Success
+TXN_002498,AD_0252,2023-02-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,184000.0,Success
+TXN_002055,AD_0343,2023-06-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,438000.0,Success
+TXN_001674,AD_0089,2023-11-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,432000.0,Success
+TXN_002123,AD_0939,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,537000.0,Success
+TXN_000840,AD_0173,2023-11-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,427000.0,Success
+TXN_000582,AD_0538,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,111000.0,Success
+TXN_001282,AD_0147,2023-06-28,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,278000.0,Success
+TXN_000791,AD_0854,2023-12-07,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,245000.0,Success
+TXN_000842,AD_0173,2023-11-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,252000.0,Success
+TXN_001911,AD_0084,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,77000.0,Success
+TXN_000622,AD_0302,2023-07-04,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,413000.0,Success
+TXN_001503,AD_0237,2023-05-21,Serum,DermaGlow Brightening Serum,Static_Catalog,187000.0,Success
+TXN_000333,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,135000.0,Success
+TXN_000479,AD_0340,2023-02-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,262000.0,Success
+TXN_001495,AD_0792,2023-01-15,Serum,DermaGlow Brightening Serum,Static_Catalog,433000.0,Success
+TXN_000508,AD_0277,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,314000.0,Success
+TXN_001451,AD_0274,2023-03-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,385000.0,Success
+TXN_000644,AD_0741,2023-01-27,Serum,DermaGlow Brightening Serum,Video_Review,90000.0,Success
+TXN_000481,AD_0513,2023-08-28,Serum,DermaGlow Brightening Serum,Video_Review,161000.0,Success
+TXN_002395,Organic,2023-10-18,Cleanser,DermaGlow Gentle Cleanser,Video_Review,398000.0,Success
+TXN_001012,AD_0849,2023-11-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,365000.0,Success
+TXN_001290,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,187000.0,Success
+TXN_001224,AD_0725,2023-06-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,415000.0,Success
+TXN_000522,AD_0227,2023-04-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,311000.0,Success
+TXN_000583,AD_0538,2024-01-03,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,98000.0,Success
+TXN_001059,AD_0075,2023-10-15,Serum,DermaGlow Brightening Serum,Static_Catalog,253000.0,Success
+TXN_000297,AD_0182,2023-11-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,85000.0,Success
+TXN_002443,Organic,2023-10-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,89000.0,Success
+TXN_001062,AD_0075,2023-10-16,Serum,DermaGlow Brightening Serum,Static_Catalog,382000.0,Success
+TXN_000858,Organic,2023-08-29,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,269000.0,Success
+TXN_001693,AD_0337,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,185000.0,Success
+TXN_000408,AD_0492,2023-05-31,Serum,DermaGlow Brightening Serum,Static_Catalog,131000.0,Success
+TXN_001079,AD_0215,2023-05-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,285000.0,Success
+TXN_001084,AD_0593,2023-10-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,207000.0,Success
+TXN_000169,AD_0293,2023-09-25,Cleanser,DermaGlow Gentle Cleanser,Video_Review,400000.0,Success
+TXN_000240,AD_0023,2023-12-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,113000.0,Success
+TXN_001051,AD_0211,2023-03-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,92000.0,Success
+TXN_001913,AD_0084,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,210000.0,Success
+TXN_002096,AD_0781,2023-01-23,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,262000.0,Success
+TXN_002473,AD_0867,2023-02-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,431000.0,Success
+TXN_001848,AD_0676,2023-08-16,Serum,DermaGlow Brightening Serum,Static_Catalog,406000.0,Success
+TXN_002250,AD_0276,2023-04-27,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,368000.0,Success
+TXN_001884,AD_0594,2023-01-16,Serum,DermaGlow Brightening Serum,Video_Review,238000.0,Success
+TXN_001512,AD_0321,2023-05-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,206000.0,Success
+TXN_001460,AD_0899,2023-11-06,Serum,DermaGlow Brightening Serum,Static_Catalog,97000.0,Success
+TXN_001939,AD_0942,2023-08-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,181000.0,Success
+TXN_001724,AD_0544,2023-04-12,Serum,DermaGlow Brightening Serum,Static_Catalog,341000.0,Success
+TXN_002026,AD_0039,2023-03-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,183000.0,Success
+TXN_001608,AD_0431,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,376000.0,Success
+TXN_001978,AD_0152,2023-10-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,267000.0,Success
+TXN_000916,AD_0406,2023-06-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,158000.0,Success
+TXN_001396,AD_0127,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,260000.0,Success
+TXN_002296,AD_0026,2023-05-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,501000.0,Success
+TXN_002322,AD_0627,2023-03-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,368000.0,Success
+TXN_001936,AD_0942,2023-08-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,406000.0,Success
+TXN_001197,AD_0395,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,293000.0,Success
+TXN_001945,AD_0130,2023-05-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,81000.0,Success
+TXN_001515,AD_0321,2023-05-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,181000.0,Success
+TXN_000941,AD_0922,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,334000.0,Success
+TXN_001464,AD_0267,2023-11-26,Serum,DermaGlow Brightening Serum,Video_Review,171000.0,Success
+TXN_001226,AD_0725,2023-06-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,306000.0,Success
+TXN_000325,AD_0746,2023-11-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,432000.0,Success
+TXN_001954,AD_0819,2023-09-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,311000.0,Success
+TXN_001378,AD_0362,2023-10-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,82000.0,Success
+TXN_002482,AD_0543,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,407000.0,Success
+TXN_001341,AD_0531,2023-11-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,287000.0,Success
+TXN_000388,AD_0562,2023-12-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,488000.0,Success
+TXN_001955,AD_0381,2023-08-30,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,242000.0,Success
+TXN_000180,AD_0164,2023-07-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,435000.0,Success
+TXN_001695,AD_0607,2023-07-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,129000.0,Success
+TXN_001663,AD_0602,2023-06-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,95000.0,Success
+TXN_001305,AD_0212,2023-01-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,457000.0,Success
+TXN_000928,AD_0966,2023-07-05,Serum,DermaGlow Brightening Serum,Static_Catalog,317000.0,Success
+TXN_001431,AD_0599,2023-11-21,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,358000.0,Success
+TXN_000142,AD_0390,2023-06-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,294000.0,Success
+TXN_000369,AD_0281,2023-10-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,205000.0,Success
+TXN_002446,AD_0262,2023-08-11,Serum,DermaGlow Brightening Serum,Static_Catalog,198000.0,Success
+TXN_001086,AD_0937,2023-03-30,Serum,DermaGlow Brightening Serum,Video_Review,86000.0,Success
+TXN_000368,AD_0950,2023-02-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,378000.0,Success
+TXN_001675,AD_0089,2023-11-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,147000.0,Success
+TXN_001539,AD_0317,2023-06-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,142000.0,Success
+TXN_000248,AD_0635,2023-04-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,301000.0,Success
+TXN_000322,AD_0413,2023-09-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,288000.0,Success
+TXN_001834,AD_0711,2023-07-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,160000.0,Success
+TXN_001840,AD_0711,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,360000.0,Success
+TXN_001000,AD_0558,2023-09-20,Serum,DermaGlow Brightening Serum,Static_Catalog,175000.0,Success
+TXN_001300,AD_0326,2023-06-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,201000.0,Success
+TXN_000696,AD_0221,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,195000.0,Success
+TXN_002029,AD_0574,2023-01-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,299000.0,Success
+TXN_001601,AD_0779,2023-08-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,189000.0,Success
+TXN_002330,AD_0159,2023-06-24,Serum,DermaGlow Brightening Serum,Static_Catalog,239000.0,Success
+TXN_001232,AD_0183,2023-12-12,Serum,DermaGlow Brightening Serum,Video_Review,322000.0,Success
+TXN_001730,AD_0468,2024-01-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,243000.0,Success
+TXN_001707,AD_0997,2023-06-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,275000.0,Success
+TXN_001704,AD_0796,2023-04-20,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,396000.0,Success
+TXN_000756,AD_0988,2023-06-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,443000.0,Success
+TXN_001331,AD_0131,2023-10-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,281000.0,Success
+TXN_000354,AD_0447,2023-08-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,107000.0,Success
+TXN_000209,AD_0370,2023-08-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,382000.0,Success
+TXN_002145,AD_0840,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,77000.0,Success
+TXN_000953,AD_0852,2023-12-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,219000.0,Success
+TXN_001338,AD_0851,2023-03-19,Serum,DermaGlow Brightening Serum,Static_Catalog,99000.0,Success
+TXN_001552,AD_0905,2023-06-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,162000.0,Success
+TXN_001568,AD_0261,2024-01-01,Serum,DermaGlow Brightening Serum,Static_Catalog,157000.0,Success
+TXN_001944,AD_0130,2023-05-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,395000.0,Success
+TXN_000486,AD_0513,2023-08-28,Serum,DermaGlow Brightening Serum,Video_Review,365000.0,Success
+TXN_001630,AD_0137,2023-04-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,231000.0,Success
+TXN_002040,AD_0715,2023-02-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,408000.0,Success
+TXN_000200,AD_0009,2023-07-08,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,181000.0,Success
+TXN_000788,AD_0608,2023-09-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,137000.0,Success
+TXN_000630,AD_0810,2023-04-15,Serum,DermaGlow Brightening Serum,Static_Catalog,133000.0,Success
+TXN_000663,AD_0705,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,152000.0,Success
+TXN_001919,AD_0270,2023-02-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,446000.0,Success
+TXN_002335,AD_0159,2023-06-27,Serum,DermaGlow Brightening Serum,Static_Catalog,172000.0,Success
+TXN_001270,AD_0977,2023-07-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,160000.0,Success
+TXN_002148,AD_0840,2023-04-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,381000.0,Success
+TXN_002242,AD_0855,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,389000.0,Success
+TXN_001585,AD_0815,2023-10-14,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,312000.0,Success
+TXN_000232,AD_0730,2023-07-11,Serum,DermaGlow Brightening Serum,Static_Catalog,105000.0,Success
+TXN_000441,AD_0578,2023-04-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,272000.0,Success
+TXN_001628,AD_0137,2023-04-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,279000.0,Success
+TXN_001323,AD_0931,2023-12-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,177000.0,Success
+TXN_000818,AD_0679,2023-04-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,99000.0,Success
+TXN_000600,AD_0089,2023-11-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,170000.0,Success
+TXN_001057,AD_0075,2023-10-13,Serum,DermaGlow Brightening Serum,Static_Catalog,114000.0,Success
+TXN_000415,AD_0391,2023-07-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,287000.0,Success
+TXN_000680,AD_0437,2023-04-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,530000.0,Success
+TXN_001519,AD_0379,2023-12-20,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,197000.0,Success
+TXN_001117,AD_0528,2023-04-20,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,103000.0,Success
+TXN_000280,AD_0953,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,501000.0,Success
+TXN_001386,AD_0289,2023-10-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,267000.0,Success
+TXN_000409,AD_0492,2023-06-02,Serum,DermaGlow Brightening Serum,Static_Catalog,193000.0,Success
+TXN_002283,AD_0974,2023-02-25,Serum,DermaGlow Brightening Serum,Video_Review,461000.0,Success
+TXN_001217,AD_0477,2023-04-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,386000.0,Success
+TXN_002079,AD_0488,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,456000.0,Success
+TXN_000499,AD_0208,2023-05-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,419000.0,Success
+TXN_002027,AD_0574,2023-01-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,198000.0,Success
+TXN_000790,AD_0854,2023-12-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,103000.0,Success
+TXN_001071,AD_0505,2023-08-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,198000.0,Success
+TXN_002266,AD_0681,2023-01-02,Serum,DermaGlow Brightening Serum,Static_Catalog,456000.0,Success
+TXN_000436,AD_0355,2023-04-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,179000.0,Success
+TXN_002044,AD_0418,2023-02-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,91000.0,Success
+TXN_001880,AD_0471,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,182000.0,Success
+TXN_000783,AD_0608,2023-09-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,447000.0,Success
+TXN_001477,AD_0728,2023-08-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,327000.0,Success
+TXN_001832,AD_0711,2023-07-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,148000.0,Success
+TXN_001837,Organic,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,276000.0,Success
+TXN_000150,AD_0037,2023-05-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,179000.0,Success
+TXN_001195,AD_0534,2023-08-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,450000.0,Success
+TXN_002452,AD_0305,2023-11-20,Serum,DermaGlow Brightening Serum,Static_Catalog,161000.0,Success
+TXN_001242,AD_0818,2023-05-07,Serum,DermaGlow Brightening Serum,Static_Catalog,163000.0,Success
+TXN_001056,AD_0075,2023-10-13,Serum,DermaGlow Brightening Serum,Static_Catalog,431000.0,Success
+TXN_001770,AD_0651,2023-10-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,549000.0,Success
+TXN_001690,AD_0337,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,155000.0,Success
+TXN_002094,AD_0781,2023-01-22,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,170000.0,Success
+TXN_002193,AD_0163,2023-09-14,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,155000.0,Success
+TXN_001930,AD_0198,2023-04-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,327000.0,Success
+TXN_000164,AD_0659,2023-12-10,Serum,DermaGlow Brightening Serum,Video_Review,468000.0,Success
+TXN_000439,AD_0422,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,325000.0,Success
+TXN_001026,Organic,2023-11-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,253000.0,Success
+TXN_001979,AD_0152,2023-10-16,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,238000.0,Success
+TXN_000830,AD_0996,2023-04-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,300000.0,Success
+TXN_000655,AD_0705,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,363000.0,Success
+TXN_000529,AD_0186,2023-06-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,446000.0,Success
+TXN_001134,AD_0801,2023-02-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,392000.0,Success
+TXN_000050,Organic,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,353000.0,Success
+TXN_000068,AD_0548,2023-10-28,Serum,DermaGlow Brightening Serum,Video_Review,341000.0,Success
+TXN_002017,AD_0889,2023-09-25,Serum,DermaGlow Brightening Serum,Video_Review,110000.0,Success
+TXN_000049,AD_0177,2023-09-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,199000.0,Success
+TXN_001335,AD_0737,2023-02-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,511000.0,Success
+TXN_001682,AD_0805,2023-04-12,Serum,DermaGlow Brightening Serum,Video_Review,475000.0,Success
+TXN_000839,AD_0173,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,345000.0,Success
+TXN_002163,AD_0259,2023-02-06,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,448000.0,Success
+TXN_000125,AD_0693,2023-07-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,472000.0,Success
+TXN_000611,AD_0841,2023-02-16,Serum,DermaGlow Brightening Serum,Video_Review,447000.0,Success
+TXN_002333,AD_0159,2023-06-26,Serum,DermaGlow Brightening Serum,Static_Catalog,305000.0,Success
+TXN_001513,AD_0321,2023-05-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,433000.0,Success
+TXN_000742,AD_0295,2023-11-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,89000.0,Success
+TXN_000026,AD_0576,2023-11-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,425000.0,Success
+TXN_002389,Organic,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,431000.0,Success
+TXN_001753,AD_0643,2023-12-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,380000.0,Success
+TXN_001534,AD_0508,2023-05-04,Serum,DermaGlow Brightening Serum,Static_Catalog,407000.0,Success
+TXN_001816,AD_0045,2023-02-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,483000.0,Success
+TXN_001617,AD_0255,2023-07-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,304000.0,Success
+TXN_001455,AD_0181,2023-08-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,138000.0,Success
+TXN_000846,AD_0998,2023-09-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,442000.0,Success
+TXN_002490,AD_0247,2023-08-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,404000.0,Success
+TXN_001457,AD_0181,2023-08-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,300000.0,Success
+TXN_000362,AD_0271,2023-08-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,320000.0,Success
+TXN_001566,AD_0261,2023-12-30,Serum,DermaGlow Brightening Serum,Static_Catalog,111000.0,Success
+TXN_002499,AD_0252,2023-02-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,363000.0,Success
+TXN_002415,AD_0272,2023-03-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,440000.0,Success
+TXN_001785,Organic,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,430000.0,Success
+TXN_000431,AD_0355,2023-04-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,131000.0,Success
+TXN_002310,AD_0900,2023-08-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,269000.0,Success
+TXN_000638,AD_0002,2023-06-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,528000.0,Success
+TXN_002188,AD_0837,2023-07-03,Serum,DermaGlow Brightening Serum,Static_Catalog,456000.0,Success
+TXN_000241,AD_0023,2023-12-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,390000.0,Success
+TXN_000694,AD_0221,2023-12-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,115000.0,Success
+TXN_000071,AD_0207,2023-08-30,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,495000.0,Success
+TXN_000651,AD_0153,2023-02-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,286000.0,Success
+TXN_002019,AD_0948,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,430000.0,Success
+TXN_000074,AD_0207,2023-09-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,84000.0,Success
+TXN_001164,AD_0555,2023-04-20,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,258000.0,Success
+TXN_000351,AD_0447,2023-08-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,265000.0,Success
+TXN_002169,AD_0367,2023-12-19,Serum,DermaGlow Brightening Serum,Static_Catalog,340000.0,Success
+TXN_001099,AD_0554,2023-06-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,265000.0,Success
+TXN_001447,AD_0274,2023-03-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,214000.0,Success
+TXN_000077,AD_0453,2023-04-22,Serum,DermaGlow Brightening Serum,Static_Catalog,359000.0,Success
+TXN_000433,AD_0355,2023-04-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,467000.0,Success
+TXN_001293,AD_0652,2023-06-04,Serum,DermaGlow Brightening Serum,Static_Catalog,137000.0,Success
+TXN_001799,AD_0229,2023-07-04,Serum,DermaGlow Brightening Serum,Video_Review,139000.0,Success
+TXN_002051,AD_0343,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,264000.0,Success
+TXN_000136,AD_0460,2023-10-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,160000.0,Success
+TXN_002138,Organic,2023-06-05,Serum,DermaGlow Brightening Serum,Static_Catalog,194000.0,Success
+TXN_001929,AD_0198,2023-04-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,101000.0,Success
+TXN_001691,AD_0337,2023-10-04,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,134000.0,Success
+TXN_000868,AD_0100,2023-04-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,537000.0,Success
+TXN_001950,AD_0428,2024-01-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,257000.0,Success
+TXN_001901,AD_0403,2023-03-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,286000.0,Success
+TXN_000679,AD_0437,2023-04-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,417000.0,Success
+TXN_000290,AD_0764,2023-03-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,331000.0,Success
+TXN_002248,AD_0376,2023-09-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,130000.0,Success
+TXN_001421,AD_0462,2023-08-12,Serum,DermaGlow Brightening Serum,Static_Catalog,285000.0,Success
+TXN_001603,AD_0779,2023-08-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,119000.0,Success
+TXN_000533,AD_0952,2023-05-28,Serum,DermaGlow Brightening Serum,Video_Review,327000.0,Success
+TXN_001404,AD_0456,2023-11-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,498000.0,Success
+TXN_001933,AD_0942,2023-08-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,394000.0,Success
+TXN_001722,AD_0380,2023-04-15,Serum,DermaGlow Brightening Serum,Static_Catalog,184000.0,Success
+TXN_001069,AD_0145,2023-12-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,357000.0,Success
+TXN_001024,AD_0378,2023-01-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,125000.0,Success
+TXN_002180,AD_0168,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,205000.0,Success
+TXN_002228,AD_0297,2023-07-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,359000.0,Success
+TXN_000706,AD_0288,2023-10-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,238000.0,Success
+TXN_002035,AD_0715,2023-02-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,395000.0,Success
+TXN_002100,AD_0812,2023-08-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,129000.0,Success
+TXN_002024,AD_0225,2023-09-24,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,285000.0,Success
+TXN_000979,AD_0333,2023-03-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,116000.0,Success
+TXN_001746,AD_0886,2023-08-11,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,87000.0,Success
+TXN_001881,AD_0471,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,222000.0,Success
+TXN_000343,AD_0955,2023-03-31,Cleanser,DermaGlow Gentle Cleanser,Video_Review,302000.0,Success
+TXN_001991,AD_0984,2023-03-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,283000.0,Success
+TXN_000835,Organic,2023-06-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,457000.0,Success
+TXN_001453,AD_0181,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,225000.0,Success
+TXN_000300,AD_0541,2023-10-16,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,410000.0,Success
+TXN_001989,AD_0888,2023-07-18,Serum,DermaGlow Brightening Serum,Video_Review,479000.0,Success
+TXN_002294,AD_0026,2023-05-13,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,440000.0,Success
+TXN_000496,AD_0579,2023-08-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,163000.0,Success
+TXN_000930,AD_0170,2023-08-31,Serum,DermaGlow Brightening Serum,Static_Catalog,191000.0,Success
+TXN_001058,AD_0075,2023-10-13,Serum,DermaGlow Brightening Serum,Static_Catalog,125000.0,Success
+TXN_002456,AD_0305,2023-11-22,Serum,DermaGlow Brightening Serum,Static_Catalog,182000.0,Success
+TXN_000221,AD_0567,2023-03-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,349000.0,Success
+TXN_002487,AD_0247,2023-08-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,121000.0,Success
+TXN_000528,AD_0186,2023-06-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,491000.0,Success
+TXN_001487,AD_0316,2023-08-25,Serum,DermaGlow Brightening Serum,Video_Review,454000.0,Success
+TXN_002376,AD_0833,2023-08-26,Serum,DermaGlow Brightening Serum,Static_Catalog,356000.0,Success
+TXN_000597,AD_0089,2023-11-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,75000.0,Success
+TXN_000085,AD_0325,2023-09-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,312000.0,Success
+TXN_002214,AD_0223,2023-01-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,209000.0,Success
+TXN_002056,AD_0343,2023-06-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,100000.0,Success
+TXN_001962,AD_0784,2023-04-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,194000.0,Success
+TXN_001865,AD_0054,2023-03-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,88000.0,Success
+TXN_002327,AD_0627,2023-03-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,294000.0,Success
+TXN_001963,AD_0767,2023-06-06,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,459000.0,Success
+TXN_000355,AD_0447,2023-08-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,478000.0,Success
+TXN_000267,AD_0284,2023-05-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,142000.0,Success
+TXN_001546,AD_0905,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Video_Review,102000.0,Success
+TXN_002447,AD_0262,2023-08-11,Serum,DermaGlow Brightening Serum,Static_Catalog,248000.0,Success
+TXN_000291,AD_0764,2023-03-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,534000.0,Success
+TXN_000606,AD_0947,2023-07-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,254000.0,Success
+TXN_001561,AD_0956,2023-02-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,83000.0,Success
+TXN_000417,AD_0864,2023-07-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,276000.0,Success
+TXN_000473,AD_0335,2023-01-15,Serum,DermaGlow Brightening Serum,Static_Catalog,200000.0,Success
+TXN_000932,AD_0170,2023-09-02,Serum,DermaGlow Brightening Serum,Static_Catalog,448000.0,Success
+TXN_002280,AD_0876,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,493000.0,Success
+TXN_002420,AD_0113,2023-04-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,164000.0,Success
+TXN_000799,AD_0401,2023-02-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,397000.0,Success
+TXN_002492,AD_0252,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,212000.0,Success
+TXN_000931,AD_0170,2023-08-30,Serum,DermaGlow Brightening Serum,Static_Catalog,421000.0,Success
+TXN_001518,AD_0379,2023-12-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,289000.0,Success
+TXN_001015,AD_0849,2023-11-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,386000.0,Success
+TXN_000019,AD_0559,2023-10-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,96000.0,Success
+TXN_001235,AD_0397,2023-03-01,Serum,DermaGlow Brightening Serum,Static_Catalog,381000.0,Success
+TXN_002402,AD_0007,2023-11-06,Serum,DermaGlow Brightening Serum,Static_Catalog,372000.0,Success
+TXN_001903,AD_0084,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,94000.0,Success
+TXN_002134,AD_0732,2023-06-07,Serum,DermaGlow Brightening Serum,Static_Catalog,440000.0,Success
+TXN_001502,Organic,2023-05-21,Serum,DermaGlow Brightening Serum,Static_Catalog,161000.0,Success
+TXN_001565,AD_0261,2024-01-02,Serum,DermaGlow Brightening Serum,Static_Catalog,409000.0,Success
+TXN_000619,AD_0863,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,310000.0,Success
+TXN_001248,AD_0692,2023-11-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,370000.0,Success
+TXN_001739,AD_0024,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Video_Review,213000.0,Success
+TXN_002377,Organic,2023-01-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,249000.0,Success
+TXN_002009,AD_0076,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,400000.0,Success
+TXN_001296,AD_0645,2023-12-25,Serum,DermaGlow Brightening Serum,Static_Catalog,176000.0,Success
+TXN_000880,AD_0185,2023-09-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,256000.0,Success
+TXN_001054,AD_0211,2023-03-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,344000.0,Success
+TXN_001870,AD_0420,2023-09-07,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,427000.0,Success
+TXN_001101,AD_0517,2023-03-20,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,88000.0,Success
+TXN_000193,Organic,2023-08-22,Cleanser,DermaGlow Gentle Cleanser,Video_Review,88000.0,Success
+TXN_000175,AD_0263,2023-07-26,Serum,DermaGlow Brightening Serum,Video_Review,151000.0,Success
+TXN_000766,AD_0301,2023-11-08,Serum,DermaGlow Brightening Serum,Video_Review,137000.0,Success
+TXN_001379,AD_0362,2023-10-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,351000.0,Success
+TXN_001905,AD_0084,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,293000.0,Success
+TXN_000129,AD_0497,2023-12-02,Serum,DermaGlow Brightening Serum,Static_Catalog,153000.0,Success
+TXN_000341,AD_0955,2023-03-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,465000.0,Success
+TXN_002128,AD_0096,2023-05-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,226000.0,Success
+TXN_001287,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,198000.0,Success
+TXN_000308,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,319000.0,Success
+TXN_000384,AD_0128,2023-12-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,497000.0,Success
+TXN_001273,AD_0977,2023-07-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,414000.0,Success
+TXN_001264,AD_0663,2023-10-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,240000.0,Success
+TXN_000787,AD_0608,2023-09-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,348000.0,Success
+TXN_001747,AD_0886,2023-08-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,117000.0,Success
+TXN_001100,AD_0554,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,530000.0,Success
+TXN_000185,AD_0046,2023-09-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,369000.0,Success
+TXN_001592,AD_0954,2023-10-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,315000.0,Success
+TXN_001990,AD_0984,2023-03-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,441000.0,Success
+TXN_002496,AD_0252,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,263000.0,Success
+TXN_001304,AD_0959,2023-12-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,132000.0,Success
+TXN_000962,AD_0551,2023-12-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,274000.0,Success
+TXN_000762,AD_0589,2023-05-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,140000.0,Success
+TXN_000810,AD_0278,2023-04-14,Serum,DermaGlow Brightening Serum,Static_Catalog,206000.0,Success
+TXN_002278,AD_0006,2023-09-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,417000.0,Success
+TXN_001658,AD_0887,2023-11-13,Cleanser,DermaGlow Gentle Cleanser,Video_Review,314000.0,Success
+TXN_002087,AD_0249,2023-01-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,540000.0,Success
+TXN_000282,AD_0196,2023-05-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,287000.0,Success
+TXN_002186,AD_0994,2023-08-01,Serum,DermaGlow Brightening Serum,Static_Catalog,109000.0,Success
+TXN_001836,AD_0711,2023-07-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,376000.0,Success
+TXN_000650,AD_0153,2023-02-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,487000.0,Success
+TXN_000728,AD_0049,2023-09-12,Serum,DermaGlow Brightening Serum,Static_Catalog,434000.0,Success
+TXN_000367,AD_0271,2023-08-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,126000.0,Success
+TXN_001352,AD_0556,2023-03-30,Serum,DermaGlow Brightening Serum,Static_Catalog,407000.0,Success
+TXN_000556,Organic,2023-04-30,Serum,DermaGlow Brightening Serum,Static_Catalog,327000.0,Success
+TXN_002281,AD_0876,2023-09-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,348000.0,Success
+TXN_001914,AD_0084,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,156000.0,Success
+TXN_000204,AD_0409,2023-06-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,323000.0,Success
+TXN_002114,AD_0701,2023-04-19,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,265000.0,Success
+TXN_000121,AD_0101,2023-10-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,397000.0,Success
+TXN_000284,AD_0196,2023-05-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,312000.0,Success
+TXN_000576,AD_0360,2023-07-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,229000.0,Success
+TXN_001302,AD_0326,2023-06-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,388000.0,Success
+TXN_000966,AD_0595,2023-09-25,Serum,DermaGlow Brightening Serum,Video_Review,402000.0,Success
+TXN_001548,AD_0905,2023-06-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,362000.0,Success
+TXN_000361,AD_0271,2023-08-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,96000.0,Success
+TXN_001128,AD_0868,2023-11-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,148000.0,Success
+TXN_000768,AD_0106,2023-07-31,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,379000.0,Success
+TXN_001727,AD_0399,2023-08-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,95000.0,Success
+TXN_001889,AD_0594,2023-01-16,Serum,DermaGlow Brightening Serum,Video_Review,217000.0,Success
+TXN_000287,AD_0323,2023-11-08,Serum,DermaGlow Brightening Serum,Video_Review,486000.0,Success
+TXN_002103,AD_0812,2023-08-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,301000.0,Success
+TXN_001095,AD_0158,2023-01-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,461000.0,Success
+TXN_000889,AD_0115,2023-03-20,Serum,DermaGlow Brightening Serum,Video_Review,419000.0,Success
+TXN_000424,AD_0526,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,197000.0,Success
+TXN_001809,AD_0222,2023-09-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,417000.0,Success
+TXN_002348,AD_0067,2023-03-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,264000.0,Success
+TXN_000841,AD_0173,2023-11-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,339000.0,Success
+TXN_001646,AD_0644,2023-05-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,521000.0,Success
+TXN_001711,AD_0997,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,506000.0,Success
+TXN_001458,AD_0181,2023-08-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,245000.0,Success
+TXN_001560,AD_0956,2023-02-03,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,147000.0,Success
+TXN_000231,AD_0730,2023-07-11,Serum,DermaGlow Brightening Serum,Static_Catalog,173000.0,Success
+TXN_001570,AD_0261,2024-01-02,Serum,DermaGlow Brightening Serum,Static_Catalog,328000.0,Success
+TXN_001186,AD_0201,2023-07-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,154000.0,Success
+TXN_000890,AD_0459,2023-03-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,462000.0,Success
+TXN_001400,AD_0059,2023-05-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,434000.0,Success
+TXN_000730,AD_0049,2023-09-13,Serum,DermaGlow Brightening Serum,Static_Catalog,333000.0,Success
+TXN_000737,AD_0200,2023-12-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,267000.0,Success
+TXN_000760,AD_0522,2023-09-29,Serum,DermaGlow Brightening Serum,Static_Catalog,370000.0,Success
+TXN_002251,AD_0276,2023-04-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,500000.0,Success
+TXN_001668,AD_0416,2023-10-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,429000.0,Success
+TXN_000298,AD_0182,2023-11-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,205000.0,Success
+TXN_000599,AD_0089,2023-11-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,379000.0,Success
+TXN_000100,AD_0116,2023-02-27,Cleanser,DermaGlow Gentle Cleanser,Video_Review,191000.0,Success
+TXN_001055,AD_0211,2023-03-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,225000.0,Success
+TXN_001780,AD_0150,2023-09-09,Serum,DermaGlow Brightening Serum,Static_Catalog,370000.0,Success
+TXN_001238,AD_0053,2023-10-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,429000.0,Success
+TXN_001934,AD_0942,2023-08-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,317000.0,Success
+TXN_001613,AD_0806,2023-11-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,389000.0,Success
+TXN_001209,AD_0623,2023-04-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,497000.0,Success
+TXN_000637,AD_0682,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,276000.0,Success
+TXN_002197,AD_0169,2023-03-31,Serum,DermaGlow Brightening Serum,Video_Review,521000.0,Success
+TXN_000186,AD_0046,2023-09-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,446000.0,Success
+TXN_001997,AD_0275,2023-08-27,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,438000.0,Success
+TXN_000945,AD_0511,2023-07-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,512000.0,Success
+TXN_001805,AD_0057,2023-09-10,Serum,DermaGlow Brightening Serum,Static_Catalog,135000.0,Success
+TXN_001657,AD_0887,2023-11-14,Cleanser,DermaGlow Gentle Cleanser,Video_Review,463000.0,Success
+TXN_001779,AD_0150,2023-09-08,Serum,DermaGlow Brightening Serum,Static_Catalog,308000.0,Success
+TXN_000512,AD_0277,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,292000.0,Success
+TXN_000801,AD_0916,2023-06-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,543000.0,Success
+TXN_001395,AD_0127,2023-11-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,498000.0,Success
+TXN_002406,AD_0698,2023-07-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,158000.0,Success
+TXN_000608,AD_0947,2023-07-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,228000.0,Success
+TXN_001208,AD_0623,2023-04-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,279000.0,Success
+TXN_000152,AD_0352,2023-08-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,238000.0,Success
+TXN_001558,AD_0312,2023-06-16,Serum,DermaGlow Brightening Serum,Static_Catalog,460000.0,Success
+TXN_000857,AD_0202,2023-08-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,448000.0,Success
+TXN_001136,AD_0345,2023-01-23,Serum,DermaGlow Brightening Serum,Video_Review,491000.0,Success
+TXN_002276,AD_0850,2023-02-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,112000.0,Success
+TXN_000024,AD_0778,2023-09-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,384000.0,Success
+TXN_000159,AD_0890,2023-07-14,Serum,DermaGlow Brightening Serum,Static_Catalog,88000.0,Success
+TXN_000332,AD_0746,2023-11-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,410000.0,Success
+TXN_001111,AD_0833,2023-08-29,Serum,DermaGlow Brightening Serum,Static_Catalog,420000.0,Success
+TXN_002388,AD_0877,2023-06-11,Serum,DermaGlow Brightening Serum,Static_Catalog,311000.0,Success
+TXN_001718,AD_0380,2023-04-16,Serum,DermaGlow Brightening Serum,Static_Catalog,302000.0,Success
+TXN_002450,AD_0262,2023-08-09,Serum,DermaGlow Brightening Serum,Static_Catalog,385000.0,Success
+TXN_001438,AD_0004,2023-06-24,Serum,DermaGlow Brightening Serum,Static_Catalog,127000.0,Success
+TXN_000312,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,331000.0,Success
+TXN_000352,AD_0447,2023-08-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,317000.0,Success
+TXN_000549,AD_0073,2023-02-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,143000.0,Success
+TXN_001745,AD_0886,2023-08-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,99000.0,Success
+TXN_000307,AD_0055,2023-01-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,255000.0,Success
+TXN_000288,AD_0764,2023-03-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,257000.0,Success
+TXN_000695,AD_0221,2023-12-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,483000.0,Success
+TXN_000963,AD_0595,2023-09-27,Serum,DermaGlow Brightening Serum,Video_Review,361000.0,Success
+TXN_000631,AD_0810,2023-04-14,Serum,DermaGlow Brightening Serum,Static_Catalog,280000.0,Success
+TXN_001813,AD_0467,2023-11-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,249000.0,Success
+TXN_000987,AD_0333,2023-03-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,265000.0,Success
+TXN_000991,AD_0558,2023-09-17,Serum,DermaGlow Brightening Serum,Static_Catalog,191000.0,Success
+TXN_000782,AD_0547,2023-02-21,Serum,DermaGlow Brightening Serum,Static_Catalog,269000.0,Success
+TXN_001377,AD_0362,2023-10-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,192000.0,Success
+TXN_000837,AD_0372,2023-06-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,196000.0,Success
+TXN_001436,AD_0004,2023-06-26,Serum,DermaGlow Brightening Serum,Static_Catalog,459000.0,Success
+TXN_002418,AD_0347,2023-07-31,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,401000.0,Success
+TXN_000014,AD_0001,2023-09-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,145000.0,Success
+TXN_001221,AD_0725,2023-06-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,204000.0,Success
+TXN_000515,AD_0421,2023-05-09,Serum,DermaGlow Brightening Serum,Video_Review,240000.0,Success
+TXN_000862,AD_0987,2023-03-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,275000.0,Success
+TXN_001871,AD_0420,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,109000.0,Success
+TXN_001303,AD_0759,2023-04-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,274000.0,Success
+TXN_001280,AD_0923,2023-06-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,296000.0,Success
+TXN_001624,AD_0441,2023-12-06,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,218000.0,Success
+TXN_001878,AD_0471,2023-07-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,407000.0,Success
+TXN_001510,AD_0321,2023-05-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,195000.0,Success
+TXN_002241,AD_0086,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,354000.0,Success
+TXN_000264,AD_0122,2023-09-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,309000.0,Success
+TXN_001291,AD_0652,2023-06-07,Serum,DermaGlow Brightening Serum,Static_Catalog,400000.0,Success
+TXN_002160,AD_0641,2023-06-08,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,157000.0,Success
+TXN_000416,AD_0864,2023-07-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,322000.0,Success
+TXN_001114,AD_0958,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,310000.0,Success
+TXN_000359,AD_0447,2023-08-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,284000.0,Success
+TXN_000009,AD_0206,2023-03-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,125000.0,Success
+TXN_002021,AD_0948,2023-11-22,Cleanser,DermaGlow Gentle Cleanser,Video_Review,111000.0,Success
+TXN_000317,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,179000.0,Success
+TXN_000305,Organic,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,478000.0,Success
+TXN_000428,AD_0646,2023-12-14,Cleanser,DermaGlow Gentle Cleanser,Video_Review,519000.0,Success
+TXN_000106,AD_0756,2023-02-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,72000.0,Success
+TXN_002045,AD_0418,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,195000.0,Success
+TXN_000122,AD_0101,2023-10-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,161000.0,Success
+TXN_001553,AD_0905,2023-06-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,415000.0,Success
+TXN_002291,AD_0670,2023-05-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,189000.0,Success
+TXN_001776,AD_0791,2023-12-07,Serum,DermaGlow Brightening Serum,Static_Catalog,106000.0,Success
+TXN_002300,AD_0026,2023-05-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,148000.0,Success
+TXN_000116,Organic,2023-02-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,127000.0,Success
+TXN_001514,AD_0321,2023-05-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,185000.0,Success
+TXN_000745,AD_0489,2023-05-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,504000.0,Success
+TXN_001559,AD_0312,2023-06-17,Serum,DermaGlow Brightening Serum,Static_Catalog,150000.0,Success
+TXN_002334,Organic,2023-06-26,Serum,DermaGlow Brightening Serum,Static_Catalog,448000.0,Success
+TXN_000912,AD_0136,2023-12-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,143000.0,Success
+TXN_001489,AD_0642,2023-09-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,263000.0,Success
+TXN_000673,AD_0040,2023-11-05,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,163000.0,Success
+TXN_002307,AD_0563,2023-09-11,Serum,DermaGlow Brightening Serum,Video_Review,367000.0,Success
+TXN_002052,AD_0343,2023-06-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,501000.0,Success
+TXN_001641,AD_0615,2023-07-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,204000.0,Success
+TXN_000310,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,426000.0,Success
+TXN_000592,AD_0368,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,382000.0,Success
+TXN_000463,AD_0724,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,126000.0,Success
+TXN_001988,AD_0533,2023-12-04,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,144000.0,Success
+TXN_000942,AD_0922,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,205000.0,Success
+TXN_001648,AD_0644,2023-05-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,255000.0,Success
+TXN_002367,AD_0564,2023-09-03,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,137000.0,Success
+TXN_000553,AD_0199,2023-04-28,Serum,DermaGlow Brightening Serum,Static_Catalog,228000.0,Success
+TXN_000088,AD_0325,2023-09-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,370000.0,Success
+TXN_000691,AD_0444,2023-06-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,269000.0,Success
+TXN_001692,AD_0337,2023-10-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,105000.0,Success
+TXN_001162,AD_0893,2023-12-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,67000.0,Success
+TXN_002421,AD_0113,2023-05-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,386000.0,Success
+TXN_001414,AD_0462,2023-08-12,Serum,DermaGlow Brightening Serum,Static_Catalog,514000.0,Success
+TXN_000544,AD_0991,2023-04-21,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,138000.0,Success
+TXN_001761,AD_0081,2023-10-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,190000.0,Success
+TXN_000366,AD_0271,2023-08-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,99000.0,Success
+TXN_001551,AD_0905,2023-06-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,413000.0,Success
+TXN_000274,Organic,2023-01-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,327000.0,Success
+TXN_000789,AD_0603,2023-12-04,Serum,DermaGlow Brightening Serum,Video_Review,456000.0,Success
+TXN_000072,Organic,2023-09-01,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,465000.0,Success
+TXN_001205,AD_0623,2023-04-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,352000.0,Success
+TXN_001375,AD_0362,2023-10-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,307000.0,Success
+TXN_001381,AD_0289,2023-10-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,336000.0,Success
+TXN_000501,AD_0208,2023-05-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,123000.0,Success
+TXN_001028,AD_0377,2023-11-23,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,199000.0,Success
+TXN_001887,Organic,2023-01-15,Serum,DermaGlow Brightening Serum,Video_Review,328000.0,Success
+TXN_002466,AD_0487,2023-12-28,Serum,DermaGlow Brightening Serum,Static_Catalog,461000.0,Success
+TXN_000273,AD_0216,2023-01-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,179000.0,Success
+TXN_000206,AD_0370,2023-08-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,159000.0,Success
+TXN_000734,AD_0167,2023-04-29,Serum,DermaGlow Brightening Serum,Static_Catalog,121000.0,Success
+TXN_000153,AD_0352,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,387000.0,Success
+TXN_000378,AD_0535,2023-06-08,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,416000.0,Success
+TXN_000536,AD_0306,2023-09-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,277000.0,Success
+TXN_000974,AD_0351,2023-05-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,479000.0,Success
+TXN_000199,AD_0009,2023-07-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,109000.0,Success
+TXN_000562,AD_0771,2023-04-30,Serum,DermaGlow Brightening Serum,Video_Review,126000.0,Success
+TXN_000686,AD_0780,2023-05-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,495000.0,Success
+TXN_001214,AD_0477,2023-04-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,110000.0,Success
+TXN_000591,AD_0368,2023-03-15,Cleanser,DermaGlow Gentle Cleanser,Video_Review,394000.0,Success
+TXN_000520,AD_0861,2023-08-16,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,82000.0,Success
+TXN_000309,AD_0469,2023-02-10,Serum,DermaGlow Brightening Serum,Static_Catalog,98000.0,Success
+TXN_000605,AD_0926,2023-10-06,Serum,DermaGlow Brightening Serum,Static_Catalog,126000.0,Success
+TXN_002155,AD_0012,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,266000.0,Success
+TXN_000860,AD_0987,2023-03-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,107000.0,Success
+TXN_000208,AD_0370,2023-08-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,385000.0,Success
+TXN_002018,AD_0948,2023-11-21,Cleanser,DermaGlow Gentle Cleanser,Video_Review,397000.0,Success
+TXN_000870,AD_0100,2023-04-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,300000.0,Success
+TXN_000786,AD_0608,2023-09-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,391000.0,Success
+TXN_000907,AD_0826,2023-10-21,Serum,DermaGlow Brightening Serum,Static_Catalog,299000.0,Success
+TXN_002428,AD_0204,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,171000.0,Success
+TXN_000793,AD_0401,2023-03-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,425000.0,Success
+TXN_000832,AD_0372,2023-06-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,240000.0,Success
+TXN_000163,AD_0659,2023-12-10,Serum,DermaGlow Brightening Serum,Video_Review,421000.0,Success
+TXN_001308,AD_0212,2023-01-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,110000.0,Success
+TXN_000527,AD_0186,2023-06-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,98000.0,Success
+TXN_001577,AD_0654,2023-11-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,215000.0,Success
+TXN_000507,AD_0277,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,116000.0,Success
+TXN_001957,AD_0910,2023-11-11,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,350000.0,Success
+TXN_002121,AD_0919,2023-04-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,543000.0,Success
+TXN_002229,AD_0297,2023-07-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,436000.0,Success
+TXN_002165,AD_0367,2023-12-18,Serum,DermaGlow Brightening Serum,Static_Catalog,361000.0,Success
+TXN_000863,AD_0987,2023-03-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,277000.0,Success
+TXN_001676,AD_0777,2023-02-13,Serum,DermaGlow Brightening Serum,Video_Review,543000.0,Success
+TXN_001405,AD_0456,2023-11-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,404000.0,Success
+TXN_000440,AD_0578,2023-04-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,489000.0,Success
+TXN_001088,AD_0257,2023-07-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,89000.0,Success
+TXN_001262,AD_0231,2023-07-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,453000.0,Success
+TXN_000539,AD_0358,2023-02-28,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,376000.0,Success
+TXN_000882,AD_0185,2023-09-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,268000.0,Success
+TXN_000903,AD_0087,2023-08-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,79000.0,Success
+TXN_000084,Organic,2023-09-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,205000.0,Success
+TXN_002104,AD_0812,2023-08-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,171000.0,Success
+TXN_001201,AD_0458,2023-10-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,109000.0,Success
+TXN_001227,AD_0725,2023-06-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,158000.0,Success
+TXN_001750,AD_0643,2023-12-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,440000.0,Success
+TXN_000271,AD_0216,2023-01-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,281000.0,Success
+TXN_001260,AD_0231,2023-07-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,353000.0,Success
+TXN_002061,AD_0343,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,418000.0,Success
+TXN_002264,AD_0681,2023-01-02,Serum,DermaGlow Brightening Serum,Static_Catalog,188000.0,Success
+TXN_001600,AD_0779,2023-08-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,176000.0,Success
+TXN_001961,AD_0784,2023-04-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,344000.0,Success
+TXN_001030,AD_0124,2023-12-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,436000.0,Success
+TXN_000430,AD_0355,2023-04-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,118000.0,Success
+TXN_002005,AD_0803,2023-11-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,124000.0,Success
+TXN_002194,AD_0169,2023-03-30,Serum,DermaGlow Brightening Serum,Video_Review,297000.0,Success
+TXN_000459,AD_0724,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,210000.0,Success
+TXN_002430,AD_0703,2023-02-07,Serum,DermaGlow Brightening Serum,Video_Review,324000.0,Success
+TXN_002133,AD_0687,2023-05-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,255000.0,Success
+TXN_000033,AD_0875,2023-05-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,184000.0,Success
+TXN_002125,AD_0939,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,253000.0,Success
+TXN_001350,AD_0556,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,292000.0,Success
+TXN_002244,AD_0855,2023-11-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,375000.0,Success
+TXN_000381,Organic,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,311000.0,Success
+TXN_001995,AD_0512,2023-01-19,Serum,DermaGlow Brightening Serum,Video_Review,193000.0,Success
+TXN_001193,AD_0534,2023-08-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,453000.0,Success
+TXN_000716,AD_0744,2023-12-25,Serum,DermaGlow Brightening Serum,Video_Review,419000.0,Success
+TXN_001763,AD_0657,2023-09-19,Serum,DermaGlow Brightening Serum,Static_Catalog,429000.0,Success
+TXN_000687,Organic,2023-05-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,107000.0,Success
+TXN_002485,AD_0543,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,390000.0,Success
+TXN_000306,AD_0055,2023-01-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,335000.0,Success
+TXN_000210,AD_0370,2023-08-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,421000.0,Success
+TXN_002154,AD_0012,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,416000.0,Success
+TXN_001671,AD_0070,2023-07-18,Serum,DermaGlow Brightening Serum,Static_Catalog,360000.0,Success
+TXN_002478,AD_0736,2023-03-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,353000.0,Success
+TXN_001072,AD_0505,2023-08-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,87000.0,Success
+TXN_001935,AD_0942,2023-08-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,446000.0,Success
+TXN_001138,AD_0191,2023-12-18,Cleanser,DermaGlow Gentle Cleanser,Video_Review,444000.0,Success
+TXN_002008,AD_0076,2023-02-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,390000.0,Success
+TXN_000938,AD_0922,2023-12-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,276000.0,Success
+TXN_001212,AD_0611,2023-02-03,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,368000.0,Success
+TXN_001076,AD_0215,2023-05-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,252000.0,Success
+TXN_002457,AD_0305,2023-11-20,Serum,DermaGlow Brightening Serum,Static_Catalog,68000.0,Success
+TXN_000484,AD_0513,2023-08-28,Serum,DermaGlow Brightening Serum,Video_Review,485000.0,Success
+TXN_002384,AD_0219,2023-05-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,375000.0,Success
+TXN_001605,AD_0779,2023-08-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,101000.0,Success
+TXN_000278,AD_0509,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,82000.0,Success
+TXN_001509,AD_0321,2023-05-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,173000.0,Success
+TXN_000222,AD_0567,2023-03-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,265000.0,Success
+TXN_001230,AD_0183,2023-12-11,Serum,DermaGlow Brightening Serum,Video_Review,428000.0,Success
+TXN_000572,AD_0506,2023-03-13,Serum,DermaGlow Brightening Serum,Static_Catalog,330000.0,Success
+TXN_001314,AD_0612,2023-09-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,99000.0,Success
+TXN_001678,AD_0777,2023-02-16,Serum,DermaGlow Brightening Serum,Video_Review,390000.0,Success
+TXN_002179,AD_0168,2023-04-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,95000.0,Success
+TXN_000586,AD_0878,2023-04-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,191000.0,Success
+TXN_001731,AD_0468,2024-01-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,78000.0,Success
+TXN_002020,AD_0948,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,305000.0,Success
+TXN_002494,AD_0252,2023-02-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,221000.0,Success
+TXN_001564,Organic,2023-02-04,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,370000.0,Success
+TXN_001178,AD_0770,2023-07-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,239000.0,Success
+TXN_000856,Organic,2023-08-27,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,157000.0,Success
+TXN_000448,AD_0949,2023-09-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,113000.0,Success
+TXN_001906,AD_0084,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,350000.0,Success
+TXN_001531,AD_0508,2023-05-03,Serum,DermaGlow Brightening Serum,Static_Catalog,533000.0,Success
+TXN_000223,AD_0095,2023-02-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,348000.0,Success
+TXN_001725,AD_0399,2023-08-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,106000.0,Success
+TXN_002226,AD_0359,2023-12-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,229000.0,Success
+TXN_001629,AD_0137,2023-04-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,427000.0,Success
+TXN_001557,AD_0944,2023-07-25,Serum,DermaGlow Brightening Serum,Static_Catalog,464000.0,Success
+TXN_000970,AD_0351,2023-05-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,205000.0,Success
+TXN_002190,AD_0163,2023-09-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,293000.0,Success
+TXN_000589,AD_0878,2023-03-31,Cleanser,DermaGlow Gentle Cleanser,Video_Review,229000.0,Success
+TXN_002064,AD_0011,2023-01-28,Serum,DermaGlow Brightening Serum,Video_Review,310000.0,Success
+TXN_002467,AD_0487,2023-12-27,Serum,DermaGlow Brightening Serum,Static_Catalog,175000.0,Success
+TXN_000927,AD_0966,2023-07-02,Serum,DermaGlow Brightening Serum,Static_Catalog,158000.0,Success
+TXN_002119,Organic,2023-08-22,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,300000.0,Success
+TXN_002298,AD_0026,2023-05-13,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,289000.0,Success
+TXN_000437,AD_0422,2023-01-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,162000.0,Success
+TXN_000977,AD_0351,2023-05-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,144000.0,Success
+TXN_002037,AD_0715,2023-02-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,115000.0,Success
+TXN_000394,AD_0520,2023-06-29,Serum,DermaGlow Brightening Serum,Video_Review,248000.0,Success
+TXN_000426,AD_0646,2023-12-15,Cleanser,DermaGlow Gentle Cleanser,Video_Review,119000.0,Success
+TXN_000535,AD_0306,2023-09-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,195000.0,Success
+TXN_000031,AD_0875,2023-06-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,355000.0,Success
+TXN_001643,AD_0287,2023-02-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,198000.0,Success
+TXN_002082,AD_0488,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,146000.0,Success
+TXN_001147,AD_0069,2023-10-10,Serum,DermaGlow Brightening Serum,Video_Review,300000.0,Success
+TXN_000747,AD_0990,2023-05-17,Serum,DermaGlow Brightening Serum,Video_Review,138000.0,Success
+TXN_001751,AD_0643,2023-12-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,364000.0,Success
+TXN_001985,AD_0017,2023-12-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,250000.0,Success
+TXN_002343,AD_0718,2023-08-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,78000.0,Success
+TXN_001719,AD_0380,2023-04-13,Serum,DermaGlow Brightening Serum,Static_Catalog,116000.0,Success
+TXN_002213,AD_0223,2023-01-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,387000.0,Success
+TXN_001712,AD_0997,2023-06-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,432000.0,Success
+TXN_002013,AD_0424,2023-05-21,Serum,DermaGlow Brightening Serum,Static_Catalog,228000.0,Success
+TXN_000345,AD_0955,2023-04-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,134000.0,Success
+TXN_000557,AD_0199,2023-04-27,Serum,DermaGlow Brightening Serum,Static_Catalog,440000.0,Success
+TXN_001424,AD_0462,2023-08-11,Serum,DermaGlow Brightening Serum,Static_Catalog,355000.0,Success
+TXN_001038,AD_0941,2023-11-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,248000.0,Success
+TXN_000681,AD_0437,2023-04-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,289000.0,Success
+TXN_002230,AD_0297,2023-07-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,299000.0,Success
+TXN_001107,AD_0517,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,177000.0,Success
+TXN_000571,AD_0691,2023-05-27,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,130000.0,Success
+TXN_000353,AD_0447,2023-08-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,420000.0,Success
+TXN_000092,AD_0921,2023-12-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,88000.0,Success
+TXN_001211,AD_0611,2023-02-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,439000.0,Success
+TXN_002107,AD_0968,2023-01-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,444000.0,Success
+TXN_002277,AD_0006,2023-09-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,219000.0,Success
+TXN_000262,AD_0122,2023-09-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,458000.0,Success
+TXN_001463,AD_0267,2023-11-25,Serum,DermaGlow Brightening Serum,Video_Review,156000.0,Success
+TXN_000749,AD_0104,2023-06-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,452000.0,Success
+TXN_001412,AD_0979,2023-06-10,Serum,DermaGlow Brightening Serum,Static_Catalog,352000.0,Success
+TXN_001766,AD_0657,2023-09-21,Serum,DermaGlow Brightening Serum,Static_Catalog,497000.0,Success
+TXN_002438,AD_0858,2023-03-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,183000.0,Success
+TXN_001384,AD_0289,2023-10-05,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,184000.0,Success
+TXN_001005,AD_0041,2023-12-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,352000.0,Success
+TXN_000568,AD_0691,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,457000.0,Success
+TXN_000323,AD_0746,2023-11-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,135000.0,Success
+TXN_001894,AD_0443,2023-08-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,466000.0,Success
+TXN_002084,AD_0486,2023-05-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,145000.0,Success
+TXN_001090,AD_0257,2023-07-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,296000.0,Success
+TXN_001851,AD_0655,2023-06-20,Serum,DermaGlow Brightening Serum,Static_Catalog,260000.0,Success
+TXN_000301,AD_0348,2023-08-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,396000.0,Success
+TXN_002015,AD_0120,2023-01-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,354000.0,Success
+TXN_001011,AD_0849,2023-11-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,384000.0,Success
+TXN_000965,AD_0595,2023-09-27,Serum,DermaGlow Brightening Serum,Video_Review,102000.0,Success
+TXN_002370,AD_0445,2023-06-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,371000.0,Success
+TXN_002356,AD_0361,2023-02-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,409000.0,Success
+TXN_000316,AD_0469,2023-02-11,Serum,DermaGlow Brightening Serum,Static_Catalog,320000.0,Success
+TXN_002070,AD_0832,2023-06-18,Serum,DermaGlow Brightening Serum,Video_Review,496000.0,Success
+TXN_000454,AD_0423,2023-06-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,511000.0,Success
+TXN_000602,AD_0909,2023-07-11,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,332000.0,Success
+TXN_000176,AD_0263,2023-07-27,Serum,DermaGlow Brightening Serum,Video_Review,465000.0,Success
+TXN_002273,AD_0850,2023-02-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,101000.0,Success
+TXN_001299,AD_0326,2023-06-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,270000.0,Success
+TXN_000038,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,536000.0,Success
+TXN_000975,AD_0351,2023-05-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,355000.0,Success
+TXN_001742,AD_0024,2023-06-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,188000.0,Success
+TXN_002419,AD_0347,2023-07-31,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,122000.0,Success
+TXN_000040,AD_0524,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,448000.0,Success
+TXN_002417,AD_0721,2023-11-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,382000.0,Success
+TXN_002010,AD_0076,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,92000.0,Success
+TXN_001772,AD_0651,2023-10-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,337000.0,Success
+TXN_001966,AD_0090,2023-08-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,257000.0,Success
+TXN_001499,AD_0792,2023-01-13,Serum,DermaGlow Brightening Serum,Static_Catalog,174000.0,Success
+TXN_000635,AD_0682,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,152000.0,Success
+TXN_001967,AD_0090,2023-08-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,85000.0,Success
+TXN_000580,AD_0360,2023-07-10,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,257000.0,Success
+TXN_000893,AD_0102,2023-10-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,343000.0,Success
+TXN_000160,AD_0890,2023-07-13,Serum,DermaGlow Brightening Serum,Static_Catalog,207000.0,Success
+TXN_001152,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,391000.0,Success
+TXN_000062,AD_0758,2023-09-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,201000.0,Success
+TXN_000850,AD_0019,2023-04-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,319000.0,Success
+TXN_001545,AD_0905,2023-06-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,346000.0,Success
+TXN_002167,AD_0367,2023-12-21,Serum,DermaGlow Brightening Serum,Static_Catalog,79000.0,Success
+TXN_000054,AD_0177,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,350000.0,Success
+TXN_001547,AD_0905,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Video_Review,87000.0,Success
+TXN_000506,AD_0277,2023-09-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,320000.0,Success
+TXN_000753,AD_0823,2023-07-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,73000.0,Success
+TXN_001422,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,178000.0,Success
+TXN_001392,AD_0127,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,311000.0,Success
+TXN_002284,AD_0974,2023-02-25,Serum,DermaGlow Brightening Serum,Video_Review,270000.0,Success
+TXN_002339,AD_0108,2023-08-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,399000.0,Success
+TXN_002235,AD_0086,2023-01-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,167000.0,Success
+TXN_001194,AD_0534,2023-08-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,147000.0,Success
+TXN_001190,AD_0201,2023-07-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,112000.0,Success
+TXN_001899,Organic,2023-04-26,Serum,DermaGlow Brightening Serum,Video_Review,349000.0,Success
+TXN_001819,AD_0045,2023-02-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,90000.0,Success
+TXN_001866,AD_0054,2023-03-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,257000.0,Success
+TXN_000964,AD_0595,2023-09-26,Serum,DermaGlow Brightening Serum,Video_Review,152000.0,Success
+TXN_001667,AD_0416,2023-10-04,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,481000.0,Success
+TXN_000399,AD_0638,2023-12-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,522000.0,Success
+TXN_000585,AD_0142,2023-06-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,153000.0,Success
+TXN_000432,AD_0355,2023-04-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,207000.0,Success
+TXN_000293,AD_0283,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,429000.0,Success
+TXN_001852,AD_0655,2023-06-20,Serum,DermaGlow Brightening Serum,Static_Catalog,244000.0,Success
+TXN_001445,AD_0274,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,301000.0,Success
+TXN_001602,AD_0779,2023-08-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,266000.0,Success
+TXN_000003,AD_0820,2023-08-31,Serum,DermaGlow Brightening Serum,Static_Catalog,320000.0,Success
+TXN_000577,AD_0360,2023-07-10,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,334000.0,Success
+TXN_001791,AD_0098,2023-04-02,Serum,DermaGlow Brightening Serum,Static_Catalog,567000.0,Success
+TXN_000340,AD_0707,2023-11-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,347000.0,Success
+TXN_001106,AD_0517,2023-03-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,381000.0,Success
+TXN_000926,AD_0966,2023-07-04,Serum,DermaGlow Brightening Serum,Static_Catalog,448000.0,Success
+TXN_000266,Organic,2023-05-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,316000.0,Success
+TXN_000377,AD_0535,2023-06-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,215000.0,Success
+TXN_000272,AD_0216,2023-01-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,160000.0,Success
+TXN_001619,Organic,2023-10-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,404000.0,Success
+TXN_001652,AD_0846,2023-08-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,162000.0,Success
+TXN_000477,AD_0340,2023-02-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,261000.0,Success
+TXN_001196,AD_0571,2023-07-16,Cleanser,DermaGlow Gentle Cleanser,Video_Review,295000.0,Success
+TXN_001286,AD_0328,2023-11-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,126000.0,Success
+TXN_000251,AD_0635,2023-04-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,170000.0,Success
+TXN_000414,AD_0492,2023-05-31,Serum,DermaGlow Brightening Serum,Static_Catalog,202000.0,Success
+TXN_002412,AD_0272,2023-02-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,142000.0,Success
+TXN_002081,AD_0488,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,268000.0,Success
+TXN_000311,AD_0469,2023-02-11,Serum,DermaGlow Brightening Serum,Static_Catalog,181000.0,Success
+TXN_000894,AD_0102,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,292000.0,Success
+TXN_002423,AD_0113,2023-04-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,305000.0,Success
+TXN_000016,AD_0001,2023-09-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,365000.0,Success
+TXN_000722,AD_0946,2023-03-04,Serum,DermaGlow Brightening Serum,Video_Review,387000.0,Success
+TXN_002191,AD_0163,2023-09-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,171000.0,Success
+TXN_000982,AD_0333,2023-03-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,455000.0,Success
+TXN_002105,AD_0812,2023-08-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,411000.0,Success
+TXN_001974,AD_0090,2023-08-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,292000.0,Success
+TXN_000364,AD_0271,2023-08-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,423000.0,Success
+TXN_001620,AD_0945,2023-10-12,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,517000.0,Success
+TXN_000183,AD_0960,2023-06-06,Serum,DermaGlow Brightening Serum,Video_Review,111000.0,Success
+TXN_001388,AD_0289,2023-10-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,161000.0,Success
+TXN_002120,AD_0129,2023-08-23,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,525000.0,Success
+TXN_002076,AD_0488,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,459000.0,Success
+TXN_001122,AD_0094,2023-06-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,327000.0,Success
+TXN_002034,AD_0715,2023-02-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,454000.0,Success
+TXN_001339,AD_0531,2023-11-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,342000.0,Success
+TXN_000594,AD_0368,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,257000.0,Success
+TXN_000727,AD_0049,2023-09-10,Serum,DermaGlow Brightening Serum,Static_Catalog,419000.0,Success
+TXN_001843,AD_0870,2023-07-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,294000.0,Success
+TXN_000688,AD_0601,2023-05-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,87000.0,Success
+TXN_000137,AD_0460,2023-10-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,358000.0,Success
+TXN_000629,AD_0810,2023-04-13,Serum,DermaGlow Brightening Serum,Static_Catalog,200000.0,Success
+TXN_000335,AD_0540,2023-04-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,286000.0,Success
+TXN_001481,AD_0711,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,424000.0,Success
+TXN_002237,AD_0086,2023-01-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,220000.0,Success
+TXN_001110,AD_0833,2023-08-26,Serum,DermaGlow Brightening Serum,Static_Catalog,495000.0,Success
+TXN_001361,AD_0788,2023-10-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,505000.0,Success
+TXN_001787,AD_0098,2023-03-30,Serum,DermaGlow Brightening Serum,Static_Catalog,226000.0,Success
+TXN_001040,Organic,2023-11-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,336000.0,Success
+TXN_001309,AD_0714,2023-06-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,326000.0,Success
+TXN_002299,AD_0026,2023-05-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,92000.0,Success
+TXN_001113,AD_0958,2023-11-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,351000.0,Success
+TXN_000466,AD_0724,2023-08-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,314000.0,Success
+TXN_001105,AD_0517,2023-03-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,333000.0,Success
+TXN_001387,AD_0289,2023-10-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,451000.0,Success
+TXN_002000,AD_0803,2023-11-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,235000.0,Success
+TXN_001452,AD_0181,2023-08-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,350000.0,Success
+TXN_002092,AD_0249,2023-01-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,183000.0,Success
+TXN_001860,AD_0466,2023-02-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,259000.0,Success
+TXN_001171,AD_0496,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,217000.0,Success
+TXN_002099,AD_0812,2023-08-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,350000.0,Success
+TXN_000817,AD_0679,2023-04-08,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,432000.0,Success
+TXN_001702,AD_0796,2023-04-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,444000.0,Success
+TXN_000866,AD_0331,2023-02-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,145000.0,Success
+TXN_000102,AD_0116,2023-02-25,Cleanser,DermaGlow Gentle Cleanser,Video_Review,119000.0,Success
+TXN_001614,AD_0806,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,377000.0,Success
+TXN_000108,AD_0242,2023-08-02,Serum,DermaGlow Brightening Serum,Static_Catalog,438000.0,Success
+TXN_002489,AD_0247,2023-08-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,465000.0,Success
+TXN_001223,AD_0725,2023-07-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,83000.0,Success
+TXN_002173,AD_0168,2023-04-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,210000.0,Success
+TXN_002373,AD_0833,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,360000.0,Success
+TXN_000713,AD_0957,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,188000.0,Success
+TXN_001801,AD_0967,2023-12-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,556000.0,Success
+TXN_000482,AD_0513,2023-08-26,Serum,DermaGlow Brightening Serum,Video_Review,240000.0,Success
+TXN_001172,AD_0496,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,198000.0,Success
+TXN_002023,AD_0225,2023-09-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,444000.0,Success
+TXN_001442,AD_0426,2023-11-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,121000.0,Success
+TXN_000406,AD_0258,2023-04-20,Serum,DermaGlow Brightening Serum,Video_Review,276000.0,Success
+TXN_000758,AD_0522,2023-09-29,Serum,DermaGlow Brightening Serum,Static_Catalog,214000.0,Success
+TXN_001363,Organic,2023-10-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,230000.0,Success
+TXN_001621,AD_0945,2023-10-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,366000.0,Success
+TXN_001612,Organic,2023-11-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,401000.0,Success
+TXN_000744,AD_0489,2023-05-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,374000.0,Success
+TXN_000807,AD_0278,2023-04-14,Serum,DermaGlow Brightening Serum,Static_Catalog,322000.0,Success
+TXN_001318,AD_0612,2023-09-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,502000.0,Success
+TXN_001897,AD_0373,2023-04-27,Serum,DermaGlow Brightening Serum,Video_Review,223000.0,Success
+TXN_001507,AD_0321,2023-05-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,251000.0,Success
+TXN_000149,AD_0037,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,434000.0,Success
+TXN_002112,AD_0475,2023-08-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,352000.0,Success
+TXN_001437,AD_0004,2023-06-25,Serum,DermaGlow Brightening Serum,Static_Catalog,220000.0,Success
+TXN_000693,AD_0221,2023-12-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,198000.0,Success
+TXN_000702,AD_0750,2023-09-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,135000.0,Success
+TXN_002212,AD_0223,2023-01-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,258000.0,Success
+TXN_000922,AD_0406,2023-06-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,128000.0,Success
+TXN_000906,AD_0826,2023-10-21,Serum,DermaGlow Brightening Serum,Static_Catalog,241000.0,Success
+TXN_002394,AD_0449,2023-01-31,Serum,DermaGlow Brightening Serum,Video_Review,380000.0,Success
+TXN_001794,AD_0830,2023-08-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,117000.0,Success
+TXN_001229,AD_0183,2023-12-11,Serum,DermaGlow Brightening Serum,Video_Review,280000.0,Success
+TXN_000168,AD_0757,2023-03-06,Serum,DermaGlow Brightening Serum,Static_Catalog,353000.0,Success
+TXN_000731,AD_0892,2023-06-27,Serum,DermaGlow Brightening Serum,Video_Review,173000.0,Success
+TXN_001579,AD_0799,2023-02-01,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,427000.0,Success
+TXN_000027,AD_0576,2023-11-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,560000.0,Success
+TXN_001345,AD_0240,2023-05-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,511000.0,Success
+TXN_001524,AD_0632,2023-10-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,395000.0,Success
+TXN_000998,AD_0558,2023-09-20,Serum,DermaGlow Brightening Serum,Static_Catalog,199000.0,Success
+TXN_001177,AD_0474,2023-02-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,472000.0,Success
+TXN_001041,AD_0941,2023-11-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,179000.0,Success
+TXN_001256,AD_0515,2023-07-30,Serum,DermaGlow Brightening Serum,Video_Review,367000.0,Success
+TXN_001888,AD_0594,2023-01-14,Serum,DermaGlow Brightening Serum,Video_Review,193000.0,Success
+TXN_000042,AD_0859,2023-11-30,Serum,DermaGlow Brightening Serum,Video_Review,318000.0,Success
+TXN_001627,AD_0137,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,92000.0,Success
+TXN_002195,AD_0169,2023-04-01,Serum,DermaGlow Brightening Serum,Video_Review,412000.0,Success
+TXN_001376,AD_0362,2023-10-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,356000.0,Success
+TXN_000610,AD_0841,2023-02-17,Serum,DermaGlow Brightening Serum,Video_Review,402000.0,Success
+TXN_001133,AD_0801,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,396000.0,Success
+TXN_002003,AD_0803,2023-11-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,409000.0,Success
+TXN_001353,AD_0556,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,320000.0,Success
+TXN_001943,AD_0130,2023-05-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,125000.0,Success
+TXN_000494,AD_0579,2023-08-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,162000.0,Success
+TXN_001976,AD_0152,2023-10-16,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,113000.0,Success
+TXN_000237,AD_0023,2023-12-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,462000.0,Success
+TXN_000552,AD_0073,2023-02-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,246000.0,Success
+TXN_000521,AD_0861,2023-08-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,136000.0,Success
+TXN_002297,AD_0026,2023-05-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,541000.0,Success
+TXN_001233,AD_0397,2023-03-02,Serum,DermaGlow Brightening Serum,Static_Catalog,367000.0,Success
+TXN_001139,AD_0191,2023-12-20,Cleanser,DermaGlow Gentle Cleanser,Video_Review,305000.0,Success
+TXN_000721,Organic,2023-03-04,Serum,DermaGlow Brightening Serum,Video_Review,202000.0,Success
+TXN_001908,AD_0084,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,154000.0,Success
+TXN_002209,AD_0481,2023-08-21,Serum,DermaGlow Brightening Serum,Static_Catalog,434000.0,Success
+TXN_000059,AD_0758,2023-09-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,191000.0,Success
+TXN_000632,AD_0682,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,487000.0,Success
+TXN_001182,AD_0727,2023-04-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,513000.0,Success
+TXN_001645,AD_0644,2023-05-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,559000.0,Success
+TXN_000593,AD_0368,2023-03-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,171000.0,Success
+TXN_002177,AD_0168,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,173000.0,Success
+TXN_000940,AD_0922,2023-12-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,197000.0,Success
+TXN_002326,AD_0627,2023-03-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,463000.0,Success
+TXN_000905,AD_0826,2023-10-21,Serum,DermaGlow Brightening Serum,Static_Catalog,274000.0,Success
+TXN_001947,AD_0428,2024-01-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,151000.0,Success
+TXN_002014,AD_0120,2023-01-08,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,270000.0,Success
+TXN_001996,AD_0275,2023-08-27,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,200000.0,Success
+TXN_001912,AD_0084,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,357000.0,Success
+TXN_000707,AD_0288,2023-10-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,391000.0,Success
+TXN_001023,Organic,2023-01-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,362000.0,Success
+TXN_000746,AD_0489,2023-05-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,171000.0,Success
+TXN_000082,AD_0621,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,523000.0,Success
+TXN_002216,Organic,2023-07-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,390000.0,Success
+TXN_000915,AD_0872,2023-05-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,204000.0,Success
+TXN_002302,AD_0563,2023-09-11,Serum,DermaGlow Brightening Serum,Video_Review,183000.0,Success
+TXN_001818,AD_0045,2023-02-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,114000.0,Success
+TXN_000151,AD_0352,2023-08-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,154000.0,Success
+TXN_000775,AD_0022,2023-07-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,457000.0,Success
+TXN_000330,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,193000.0,Success
+TXN_000007,AD_0206,2023-03-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,410000.0,Success
+TXN_000944,AD_0511,2023-07-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,378000.0,Success
+TXN_001595,AD_0083,2023-01-29,Serum,DermaGlow Brightening Serum,Static_Catalog,293000.0,Success
+TXN_000735,AD_0167,2023-04-27,Serum,DermaGlow Brightening Serum,Static_Catalog,121000.0,Success
+TXN_000182,AD_0246,2023-07-08,Serum,DermaGlow Brightening Serum,Video_Review,226000.0,Success
+TXN_000165,AD_0757,2023-03-04,Serum,DermaGlow Brightening Serum,Static_Catalog,293000.0,Success
+TXN_000452,AD_0821,2023-10-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,331000.0,Success
+TXN_000491,AD_0579,2023-08-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,477000.0,Success
+TXN_001917,AD_0270,2023-03-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,257000.0,Success
+TXN_001144,AD_0069,2023-10-11,Serum,DermaGlow Brightening Serum,Video_Review,100000.0,Success
+TXN_001698,AD_0607,2023-07-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,139000.0,Success
+TXN_001112,AD_0833,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,363000.0,Success
+TXN_002381,AD_0219,2023-05-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,139000.0,Success
+TXN_001488,AD_0316,2023-08-23,Serum,DermaGlow Brightening Serum,Video_Review,507000.0,Success
+TXN_001821,AD_0816,2023-09-16,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,329000.0,Success
+TXN_002080,AD_0488,2023-04-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,219000.0,Success
+TXN_001850,AD_0655,2023-06-21,Serum,DermaGlow Brightening Serum,Static_Catalog,310000.0,Success
+TXN_001733,AD_0795,2023-09-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,568000.0,Success
+TXN_001793,AD_0830,2023-08-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,174000.0,Success
+TXN_000328,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,173000.0,Success
+TXN_000443,AD_0072,2023-02-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,324000.0,Success
+TXN_001382,AD_0289,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,355000.0,Success
+TXN_000833,AD_0372,2023-06-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,261000.0,Success
+TXN_001892,AD_0427,2023-10-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,174000.0,Success
+TXN_001311,AD_0714,2023-06-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,252000.0,Success
+TXN_000087,AD_0325,2023-09-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,67000.0,Success
+TXN_002441,AD_0131,2023-10-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,401000.0,Success
+TXN_000778,AD_0547,2023-02-24,Serum,DermaGlow Brightening Serum,Static_Catalog,361000.0,Success
+TXN_002427,AD_0204,2023-06-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,84000.0,Success
+TXN_001288,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,394000.0,Success
+TXN_001246,AD_0692,2023-11-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,253000.0,Success
+TXN_000114,AD_0410,2023-03-16,Serum,DermaGlow Brightening Serum,Video_Review,310000.0,Success
+TXN_002342,AD_0718,2023-08-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,153000.0,Success
+TXN_000988,AD_0333,2023-03-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,324000.0,Success
+TXN_002262,AD_0383,2023-09-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,152000.0,Success
+TXN_001199,AD_0458,2023-10-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,369000.0,Success
+TXN_000769,AD_0106,2023-08-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,415000.0,Success
+TXN_000018,AD_0559,2023-10-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,103000.0,Success
+TXN_001043,AD_0941,2023-11-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,362000.0,Success
+TXN_002041,AD_0418,2023-02-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,373000.0,Success
+TXN_000286,AD_0323,2023-11-06,Serum,DermaGlow Brightening Serum,Video_Review,433000.0,Success
+TXN_000429,AD_0646,2023-12-16,Cleanser,DermaGlow Gentle Cleanser,Video_Review,334000.0,Success
+TXN_001357,AD_0598,2023-05-04,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,501000.0,Success
+TXN_000032,AD_0875,2023-05-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,361000.0,Success
+TXN_000723,AD_0946,2023-03-04,Serum,DermaGlow Brightening Serum,Video_Review,523000.0,Success
+TXN_001765,AD_0657,2023-09-21,Serum,DermaGlow Brightening Serum,Static_Catalog,149000.0,Success
+TXN_001790,AD_0098,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,226000.0,Success
+TXN_000327,AD_0746,2023-11-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,105000.0,Success
+TXN_000561,AD_0695,2023-07-03,Serum,DermaGlow Brightening Serum,Video_Review,207000.0,Success
+TXN_001087,AD_0937,2023-03-30,Serum,DermaGlow Brightening Serum,Video_Review,371000.0,Success
+TXN_001831,AD_0711,2023-07-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,167000.0,Success
+TXN_000148,AD_0037,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,438000.0,Success
+TXN_001108,Organic,2023-03-20,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,234000.0,Success
+TXN_000967,AD_0476,2023-01-13,Serum,DermaGlow Brightening Serum,Video_Review,414000.0,Success
+TXN_001073,AD_0906,2023-03-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,426000.0,Success
+TXN_001003,AD_0041,2023-12-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,229000.0,Success
+TXN_001845,AD_0870,2023-07-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,351000.0,Success
+TXN_002093,AD_0781,2023-01-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,134000.0,Success
+TXN_001849,AD_0655,2023-06-19,Serum,DermaGlow Brightening Serum,Static_Catalog,159000.0,Success
+TXN_002210,AD_0481,2023-08-23,Serum,DermaGlow Brightening Serum,Static_Catalog,95000.0,Success
+TXN_002353,AD_0430,2023-08-29,Serum,DermaGlow Brightening Serum,Static_Catalog,430000.0,Success
+TXN_002346,AD_0938,2023-07-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,340000.0,Success
+TXN_001394,AD_0127,2023-11-05,Cleanser,DermaGlow Gentle Cleanser,Video_Review,110000.0,Success
+TXN_002352,AD_0430,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,95000.0,Success
+TXN_002289,AD_0349,2023-11-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,282000.0,Success
+TXN_002243,AD_0855,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,89000.0,Success
+TXN_000939,AD_0922,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,191000.0,Success
+TXN_002245,AD_0658,2023-11-06,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,385000.0,Success
+TXN_001419,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,284000.0,Success
+TXN_000386,AD_0562,2023-12-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,202000.0,Success
+TXN_001581,AD_0815,2023-10-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,308000.0,Success
+TXN_002098,AD_0812,2023-08-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,503000.0,Success
+TXN_000244,AD_0023,2023-12-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,382000.0,Success
+TXN_001623,AD_0441,2023-12-07,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,530000.0,Success
+TXN_000937,AD_0922,2023-12-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,379000.0,Success
+TXN_002222,AD_0970,2023-10-14,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,433000.0,Success
+TXN_000313,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,345000.0,Success
+TXN_002440,AD_0131,2023-10-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,290000.0,Success
+TXN_001525,AD_0632,2023-10-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,121000.0,Success
+TXN_001333,AD_0063,2023-05-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,426000.0,Success
+TXN_000969,AD_0351,2023-05-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,193000.0,Success
+TXN_000661,AD_0705,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,361000.0,Success
+TXN_000936,AD_0922,2023-12-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,426000.0,Success
+TXN_000567,AD_0771,2023-05-01,Serum,DermaGlow Brightening Serum,Video_Review,423000.0,Success
+TXN_001958,AD_0910,2023-11-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,372000.0,Success
+TXN_000825,AD_0650,2023-11-21,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,370000.0,Success
+TXN_000983,AD_0333,2023-03-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,187000.0,Success
+TXN_001478,AD_0728,2023-07-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,237000.0,Success
+TXN_000814,AD_0710,2023-11-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,401000.0,Success
+TXN_001321,AD_0931,2023-12-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,327000.0,Success
+TXN_001522,AD_0672,2023-12-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,89000.0,Success
+TXN_001053,AD_0211,2023-03-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,542000.0,Success
+TXN_001814,AD_0045,2023-02-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,245000.0,Success
+TXN_001014,AD_0849,2023-11-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,303000.0,Success
+TXN_001402,AD_0856,2023-07-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,85000.0,Success
+TXN_001710,AD_0997,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,414000.0,Success
+TXN_002072,AD_0488,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,304000.0,Success
+TXN_001754,AD_0440,2023-09-27,Serum,DermaGlow Brightening Serum,Static_Catalog,204000.0,Success
+TXN_000127,AD_0693,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,221000.0,Success
+TXN_002030,AD_0574,2023-01-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,388000.0,Success
+TXN_001348,AD_0556,2023-03-28,Serum,DermaGlow Brightening Serum,Static_Catalog,332000.0,Success
+TXN_001008,AD_0041,2023-12-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,130000.0,Success
+TXN_000356,AD_0447,2023-08-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,312000.0,Success
+TXN_001004,AD_0041,2023-12-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,454000.0,Success
+TXN_000683,AD_0752,2023-04-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,298000.0,Success
+TXN_000828,AD_0996,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,158000.0,Success
+TXN_001492,AD_0978,2023-05-15,Cleanser,DermaGlow Gentle Cleanser,Video_Review,125000.0,Success
+TXN_000985,AD_0333,2023-03-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,223000.0,Success
+TXN_002122,AD_0939,2023-04-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,513000.0,Success
+TXN_000141,AD_0460,2023-10-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,522000.0,Success
+TXN_000218,AD_0620,2023-04-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,376000.0,Success
+TXN_002049,AD_0225,2023-09-24,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,461000.0,Success
+TXN_001655,AD_0887,2023-11-13,Cleanser,DermaGlow Gentle Cleanser,Video_Review,217000.0,Success
+TXN_001454,AD_0181,2023-08-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,475000.0,Success
+TXN_000023,AD_0778,2023-09-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,270000.0,Success
+TXN_001158,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,241000.0,Success
+TXN_000872,AD_0100,2023-04-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,423000.0,Success
+TXN_001462,AD_0899,2023-11-09,Serum,DermaGlow Brightening Serum,Static_Catalog,376000.0,Success
+TXN_000011,AD_0126,2023-03-18,Serum,DermaGlow Brightening Serum,Static_Catalog,258000.0,Success
+TXN_002357,AD_0361,2023-02-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,448000.0,Success
+TXN_001316,AD_0612,2023-09-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,71000.0,Success
+TXN_000755,AD_0988,2023-05-31,Cleanser,DermaGlow Gentle Cleanser,Video_Review,127000.0,Success
+TXN_001729,AD_0468,2024-01-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,373000.0,Success
+TXN_001469,AD_0365,2023-12-01,Serum,DermaGlow Brightening Serum,Static_Catalog,218000.0,Success
+TXN_000130,AD_0497,2023-12-03,Serum,DermaGlow Brightening Serum,Static_Catalog,254000.0,Success
+TXN_000844,AD_0173,2023-11-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,177000.0,Success
+TXN_000324,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,418000.0,Success
+TXN_002157,AD_0641,2023-06-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,104000.0,Success
+TXN_001449,AD_0274,2023-03-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,358000.0,Success
+TXN_001285,AD_0328,2023-11-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,229000.0,Success
+TXN_000015,AD_0001,2023-09-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,424000.0,Success
+TXN_002047,AD_0225,2023-09-23,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,244000.0,Success
+TXN_000216,AD_0620,2023-04-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,420000.0,Success
+TXN_001625,AD_0441,2023-12-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,234000.0,Success
+TXN_001651,AD_0846,2023-08-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,282000.0,Success
+TXN_001562,AD_0956,2023-02-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,202000.0,Success
+TXN_000865,AD_0331,2023-02-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,483000.0,Success
+TXN_000196,AD_0009,2023-07-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,186000.0,Success
+TXN_001278,AD_0265,2023-05-23,Serum,DermaGlow Brightening Serum,Static_Catalog,81000.0,Success
+TXN_000289,AD_0764,2023-03-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,307000.0,Success
+TXN_000951,AD_0018,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,261000.0,Success
+TXN_002351,AD_0580,2023-07-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,184000.0,Success
+TXN_002382,AD_0219,2023-05-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,357000.0,Success
+TXN_001121,AD_0528,2023-04-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,85000.0,Success
+TXN_001573,Organic,2024-01-02,Serum,DermaGlow Brightening Serum,Static_Catalog,317000.0,Success
+TXN_000550,AD_0073,2023-02-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,331000.0,Success
+TXN_000157,AD_0304,2023-01-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,262000.0,Success
+TXN_000420,AD_0864,2023-07-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,223000.0,Success
+TXN_002270,AD_0881,2023-01-11,Serum,DermaGlow Brightening Serum,Video_Review,295000.0,Success
+TXN_001472,AD_0728,2023-07-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,276000.0,Success
+TXN_000554,AD_0199,2023-04-30,Serum,DermaGlow Brightening Serum,Static_Catalog,144000.0,Success
+TXN_001203,AD_0458,2023-10-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,236000.0,Success
+TXN_000391,AD_0562,2023-12-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,107000.0,Success
+TXN_000579,AD_0360,2023-07-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,463000.0,Success
+TXN_002314,AD_0831,2023-05-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,301000.0,Success
+TXN_002368,AD_0445,2023-06-15,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,420000.0,Success
+TXN_002267,AD_0681,2023-01-01,Serum,DermaGlow Brightening Serum,Static_Catalog,233000.0,Success
+TXN_000821,AD_0650,2023-11-18,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,495000.0,Success
+TXN_002486,AD_0543,2023-09-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,321000.0,Success
+TXN_001007,AD_0041,2023-12-13,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,382000.0,Success
+TXN_001249,AD_0099,2023-12-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,503000.0,Success
+TXN_002059,AD_0343,2023-06-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,544000.0,Success
+TXN_000665,AD_0628,2023-12-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,157000.0,Success
+TXN_002463,AD_0487,2023-12-26,Serum,DermaGlow Brightening Serum,Static_Catalog,284000.0,Success
+TXN_001826,AD_0618,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,292000.0,Success
+TXN_000422,AD_0526,2023-05-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,432000.0,Success
+TXN_000800,AD_0916,2023-06-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,318000.0,Success
+TXN_000616,AD_0455,2024-01-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,519000.0,Success
+TXN_001319,AD_0931,2023-12-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,373000.0,Success
+TXN_000402,AD_0266,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,145000.0,Success
+TXN_000089,AD_0325,2023-09-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,178000.0,Success
+TXN_002036,AD_0715,2023-02-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,333000.0,Success
+TXN_002460,AD_0487,2023-12-27,Serum,DermaGlow Brightening Serum,Static_Catalog,158000.0,Success
+TXN_001574,AD_0261,2024-01-01,Serum,DermaGlow Brightening Serum,Static_Catalog,203000.0,Success
+TXN_001563,AD_0956,2023-02-03,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,370000.0,Success
+TXN_001829,AD_0618,2023-12-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,298000.0,Success
+TXN_001403,AD_0856,2023-07-25,Cleanser,DermaGlow Gentle Cleanser,Video_Review,177000.0,Success
+TXN_002053,AD_0343,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,334000.0,Success
+TXN_002168,AD_0367,2023-12-19,Serum,DermaGlow Brightening Serum,Static_Catalog,360000.0,Success
+TXN_002002,AD_0803,2023-11-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,114000.0,Success
+TXN_001315,AD_0612,2023-09-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,183000.0,Success
+TXN_001768,AD_0651,2023-10-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,173000.0,Success
+TXN_001781,AD_0150,2023-09-08,Serum,DermaGlow Brightening Serum,Static_Catalog,147000.0,Success
+TXN_002068,AD_0832,2023-06-18,Serum,DermaGlow Brightening Serum,Video_Review,95000.0,Success
+TXN_001373,AD_0412,2023-02-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,163000.0,Success
+TXN_001611,AD_0806,2023-11-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,206000.0,Success
+TXN_002139,AD_0732,2023-06-04,Serum,DermaGlow Brightening Serum,Static_Catalog,409000.0,Success
+TXN_002022,AD_0948,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,131000.0,Success
+TXN_001594,AD_0954,2023-10-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,310000.0,Success
+TXN_002491,AD_0247,2023-08-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,135000.0,Success
+TXN_000376,AD_0535,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,472000.0,Success
+TXN_001119,AD_0528,2023-04-20,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,287000.0,Success
+TXN_000911,AD_0136,2023-12-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,216000.0,Success
+TXN_000329,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,138000.0,Success
+TXN_001343,AD_0531,2023-11-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,221000.0,Success
+TXN_000321,AD_0413,2023-09-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,115000.0,Success
+TXN_002011,AD_0424,2023-05-22,Serum,DermaGlow Brightening Serum,Static_Catalog,239000.0,Success
+TXN_000013,AD_0001,2023-09-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,382000.0,Success
+TXN_000898,AD_0087,2023-08-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,423000.0,Success
+TXN_000172,AD_0025,2023-11-01,Serum,DermaGlow Brightening Serum,Video_Review,137000.0,Success
+TXN_000261,AD_0635,2023-04-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,86000.0,Success
+TXN_002403,AD_0504,2023-08-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,307000.0,Success
+TXN_000690,AD_0444,2023-06-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,395000.0,Success
+TXN_000845,AD_0173,2023-11-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,223000.0,Success
+TXN_002303,AD_0563,2023-09-13,Serum,DermaGlow Brightening Serum,Video_Review,356000.0,Success
+TXN_000139,AD_0460,2023-10-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,492000.0,Success
+TXN_000559,AD_0199,2023-04-30,Serum,DermaGlow Brightening Serum,Static_Catalog,207000.0,Success
+TXN_000140,AD_0460,2023-10-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,258000.0,Success
+TXN_000113,AD_0410,2023-03-16,Serum,DermaGlow Brightening Serum,Video_Review,388000.0,Success
+TXN_000532,AD_0186,2023-06-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,317000.0,Success
+TXN_000225,AD_0095,2023-02-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,431000.0,Success
+TXN_000724,AD_0049,2023-09-11,Serum,DermaGlow Brightening Serum,Static_Catalog,339000.0,Success
+TXN_002320,AD_0627,2023-03-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,396000.0,Success
+TXN_002137,AD_0732,2023-06-04,Serum,DermaGlow Brightening Serum,Static_Catalog,368000.0,Success
+TXN_001434,AD_0599,2023-11-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,137000.0,Success
+TXN_001324,AD_0027,2023-09-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,334000.0,Success
+TXN_001940,AD_0942,2023-08-10,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,287000.0,Success
+TXN_001459,AD_0899,2023-11-08,Serum,DermaGlow Brightening Serum,Static_Catalog,297000.0,Success
+TXN_002249,AD_0925,2023-09-12,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,90000.0,Success
+TXN_000715,Organic,2023-12-25,Serum,DermaGlow Brightening Serum,Video_Review,510000.0,Success
+TXN_000847,AD_0998,2023-09-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,73000.0,Success
+TXN_000194,AD_0828,2023-08-21,Cleanser,DermaGlow Gentle Cleanser,Video_Review,165000.0,Success
+TXN_001926,AD_0198,2023-04-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,262000.0,Success
+TXN_000574,AD_0668,2023-01-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,149000.0,Success
+TXN_000947,AD_0511,2023-07-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,468000.0,Success
+TXN_001808,AD_0222,2023-09-27,Cleanser,DermaGlow Gentle Cleanser,Video_Review,270000.0,Success
+TXN_002408,Organic,2023-04-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,350000.0,Success
+TXN_000646,AD_0741,2023-01-24,Serum,DermaGlow Brightening Serum,Video_Review,102000.0,Success
+TXN_000468,AD_0724,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,324000.0,Success
+TXN_002032,AD_0574,2023-01-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,341000.0,Success
+TXN_000920,AD_0406,2023-06-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,168000.0,Success
+TXN_000548,AD_0073,2023-02-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,159000.0,Success
+TXN_000229,AD_0761,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,439000.0,Success
+TXN_001064,AD_0145,2023-12-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,175000.0,Success
+TXN_000543,AD_0624,2023-06-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,253000.0,Success
+TXN_000243,AD_0023,2023-12-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,158000.0,Success
+TXN_000899,AD_0087,2023-08-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,499000.0,Success
+TXN_001755,AD_0440,2023-09-29,Serum,DermaGlow Brightening Serum,Static_Catalog,71000.0,Success
+TXN_001833,Organic,2023-07-24,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,98000.0,Success
+TXN_001810,AD_0582,2023-08-25,Serum,DermaGlow Brightening Serum,Static_Catalog,364000.0,Success
+TXN_000843,AD_0173,2023-11-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,142000.0,Success
+TXN_001374,AD_0362,2023-10-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,83000.0,Success
+TXN_002108,AD_0968,2023-01-29,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,135000.0,Success
+TXN_002113,AD_0475,2023-08-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,91000.0,Success
+TXN_001527,AD_0013,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,175000.0,Success
+TXN_000277,AD_0509,2023-04-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,502000.0,Success
+TXN_001827,AD_0618,2023-12-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,538000.0,Success
+TXN_002358,AD_0361,2023-02-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,258000.0,Success
+TXN_001859,AD_0466,2023-02-11,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,339000.0,Success
+TXN_000315,AD_0469,2023-02-08,Serum,DermaGlow Brightening Serum,Static_Catalog,483000.0,Success
+TXN_001467,AD_0365,2023-11-30,Serum,DermaGlow Brightening Serum,Static_Catalog,217000.0,Success
+TXN_001344,AD_0531,2023-11-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,201000.0,Success
+TXN_001846,AD_0870,2023-07-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,107000.0,Success
+TXN_000692,Organic,2023-06-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,331000.0,Success
+TXN_001542,AD_0905,2023-06-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,218000.0,Success
+TXN_000613,AD_0841,2023-02-17,Serum,DermaGlow Brightening Serum,Video_Review,253000.0,Success
+TXN_000425,AD_0526,2023-05-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,96000.0,Success
+TXN_000595,AD_0368,2023-03-15,Cleanser,DermaGlow Gentle Cleanser,Video_Review,284000.0,Success
+TXN_002476,AD_0867,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,261000.0,Success
+TXN_001951,AD_0146,2023-09-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,503000.0,Success
+TXN_000623,Organic,2023-07-03,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,516000.0,Success
+TXN_001494,AD_0792,2023-01-13,Serum,DermaGlow Brightening Serum,Static_Catalog,158000.0,Success
+TXN_002323,AD_0627,2023-03-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,416000.0,Success
+TXN_001170,AD_0496,2023-12-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,292000.0,Success
+TXN_001703,AD_0796,2023-04-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,126000.0,Success
+TXN_001418,AD_0462,2023-08-11,Serum,DermaGlow Brightening Serum,Static_Catalog,434000.0,Success
+TXN_002255,AD_0419,2023-08-03,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,394000.0,Success
+TXN_002464,AD_0487,2023-12-29,Serum,DermaGlow Brightening Serum,Static_Catalog,356000.0,Success
+TXN_000537,AD_0306,2023-09-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,148000.0,Success
+TXN_000812,AD_0278,2023-04-13,Serum,DermaGlow Brightening Serum,Static_Catalog,388000.0,Success
+TXN_001736,AD_0795,2023-09-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,341000.0,Success
+TXN_001498,AD_0792,2023-01-15,Serum,DermaGlow Brightening Serum,Static_Catalog,455000.0,Success
+TXN_000086,AD_0325,2023-09-08,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,210000.0,Success
+TXN_001255,AD_0565,2023-05-16,Serum,DermaGlow Brightening Serum,Video_Review,102000.0,Success
+TXN_002208,AD_0481,2023-08-24,Serum,DermaGlow Brightening Serum,Static_Catalog,448000.0,Success
+TXN_002362,AD_0361,2023-02-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,353000.0,Success
+TXN_001670,AD_0709,2023-01-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,413000.0,Success
+TXN_002227,AD_0600,2023-08-05,Cleanser,DermaGlow Gentle Cleanser,Video_Review,120000.0,Success
+TXN_000739,AD_0295,2023-11-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,399000.0,Success
+TXN_001771,AD_0651,2023-10-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,171000.0,Success
+TXN_002462,AD_0487,2023-12-26,Serum,DermaGlow Brightening Serum,Static_Catalog,335000.0,Success
+TXN_001743,AD_0894,2023-06-05,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,462000.0,Success
+TXN_000363,AD_0271,2023-08-05,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,368000.0,Success
+TXN_000750,AD_0104,2023-06-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,92000.0,Success
+TXN_002106,AD_0812,2023-08-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,330000.0,Success
+TXN_001647,AD_0644,2023-05-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,101000.0,Success
+TXN_001027,AD_0377,2023-11-20,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,238000.0,Success
+TXN_001031,AD_0418,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,99000.0,Success
+TXN_001869,AD_0420,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,143000.0,Success
+TXN_001336,AD_0327,2023-02-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,406000.0,Success
+TXN_002060,AD_0343,2023-06-30,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,320000.0,Success
+TXN_000666,AD_0628,2023-12-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,317000.0,Success
+TXN_000365,AD_0271,2023-08-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,250000.0,Success
+TXN_000078,AD_0453,2023-04-22,Serum,DermaGlow Brightening Serum,Static_Catalog,117000.0,Success
+TXN_000028,AD_0884,2023-10-07,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,73000.0,Success
+TXN_000474,AD_0335,2023-01-16,Serum,DermaGlow Brightening Serum,Static_Catalog,323000.0,Success
+TXN_000056,AD_0758,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,332000.0,Success
+TXN_000639,AD_0002,2023-06-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,195000.0,Success
+TXN_000303,AD_0348,2023-08-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,441000.0,Success
+TXN_000719,AD_0946,2023-03-03,Serum,DermaGlow Brightening Serum,Video_Review,414000.0,Success
+TXN_001872,AD_0933,2023-09-04,Serum,DermaGlow Brightening Serum,Video_Review,149000.0,Success
+TXN_000625,AD_0364,2023-06-08,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,486000.0,Success
+TXN_001281,AD_0923,2023-06-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,303000.0,Success
+TXN_001050,AD_0211,2023-03-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,388000.0,Success
+TXN_000337,AD_0540,2023-04-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,239000.0,Success
+TXN_001597,AD_0779,2023-08-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,199000.0,Success
+TXN_000048,AD_0177,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,261000.0,Success
+TXN_002153,AD_0012,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,366000.0,Success
+TXN_000107,AD_0242,2023-08-02,Serum,DermaGlow Brightening Serum,Static_Catalog,365000.0,Success
+TXN_001080,AD_0279,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,247000.0,Success
+TXN_000239,AD_0023,2023-12-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,271000.0,Success
+TXN_000214,AD_0375,2023-07-08,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,175000.0,Success
+TXN_001145,Organic,2023-10-10,Serum,DermaGlow Brightening Serum,Video_Review,436000.0,Success
+TXN_001762,AD_0657,2023-09-22,Serum,DermaGlow Brightening Serum,Static_Catalog,236000.0,Success
+TXN_000794,AD_0401,2023-03-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,411000.0,Success
+TXN_001097,AD_0698,2023-07-18,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,169000.0,Success
+TXN_002207,AD_0481,2023-08-24,Serum,DermaGlow Brightening Serum,Static_Catalog,127000.0,Success
+TXN_001740,AD_0024,2023-06-03,Cleanser,DermaGlow Gentle Cleanser,Video_Review,239000.0,Success
+TXN_002223,AD_0970,2023-10-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,238000.0,Success
+TXN_000346,AD_0955,2023-04-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,161000.0,Success
+TXN_000524,AD_0186,2023-06-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,78000.0,Success
+TXN_000645,AD_0741,2023-01-25,Serum,DermaGlow Brightening Serum,Video_Review,320000.0,Success
+TXN_001918,AD_0270,2023-02-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,445000.0,Success
+TXN_002171,AD_0367,2023-12-21,Serum,DermaGlow Brightening Serum,Static_Catalog,366000.0,Success
+TXN_001429,AD_0462,2023-08-12,Serum,DermaGlow Brightening Serum,Static_Catalog,302000.0,Success
+TXN_000534,AD_0306,2023-09-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,452000.0,Success
+TXN_002172,AD_0367,2023-12-19,Serum,DermaGlow Brightening Serum,Static_Catalog,142000.0,Success
+TXN_000604,AD_0926,2023-10-03,Serum,DermaGlow Brightening Serum,Static_Catalog,330000.0,Success
+TXN_001490,AD_0642,2023-10-01,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,110000.0,Success
+TXN_001858,AD_0466,2023-02-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,200000.0,Success
+TXN_001427,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,455000.0,Success
+TXN_001075,AD_0165,2023-07-20,Serum,DermaGlow Brightening Serum,Static_Catalog,169000.0,Success
+TXN_000061,Organic,2023-09-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,452000.0,Success
+TXN_000093,AD_0921,2023-12-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,213000.0,Success
+TXN_000667,AD_0134,2023-08-04,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,92000.0,Success
+TXN_001721,AD_0380,2023-04-13,Serum,DermaGlow Brightening Serum,Static_Catalog,123000.0,Success
+TXN_002247,AD_0376,2023-09-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,262000.0,Success
+TXN_000281,AD_0196,2023-05-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,139000.0,Success
+TXN_001720,Organic,2023-04-13,Serum,DermaGlow Brightening Serum,Static_Catalog,411000.0,Success
+TXN_001726,AD_0399,2023-08-10,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,94000.0,Success
+TXN_000360,AD_0271,2023-08-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,403000.0,Success
+TXN_001749,AD_0886,2023-08-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,265000.0,Success
+TXN_001804,AD_0057,2023-09-11,Serum,DermaGlow Brightening Serum,Static_Catalog,161000.0,Success
+TXN_000848,AD_0388,2023-07-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,213000.0,Success
+TXN_001207,AD_0623,2023-04-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,305000.0,Success
+TXN_002263,AD_0681,2023-01-04,Serum,DermaGlow Brightening Serum,Static_Catalog,310000.0,Success
+TXN_000111,AD_0410,2023-03-16,Serum,DermaGlow Brightening Serum,Video_Review,422000.0,Success
+TXN_000126,AD_0693,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,281000.0,Success
+TXN_000053,AD_0177,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,449000.0,Success
+TXN_000546,AD_0073,2023-02-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,168000.0,Success
+TXN_002224,AD_0155,2023-01-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,321000.0,Success
+TXN_001952,AD_0819,2023-09-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,422000.0,Success
+TXN_001425,AD_0462,2023-08-14,Serum,DermaGlow Brightening Serum,Static_Catalog,165000.0,Success
+TXN_000138,AD_0460,2023-10-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,257000.0,Success
+TXN_000900,AD_0087,2023-08-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,429000.0,Success
+TXN_000797,AD_0401,2023-03-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,215000.0,Success
+TXN_000133,AD_0311,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,89000.0,Success
+TXN_000081,AD_0621,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,416000.0,Success
+TXN_001587,AD_0068,2023-04-30,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,190000.0,Success
+TXN_002158,AD_0641,2023-06-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,109000.0,Success
+TXN_000542,AD_0358,2023-03-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,289000.0,Success
+TXN_001020,AD_0097,2023-12-27,Cleanser,DermaGlow Gentle Cleanser,Video_Review,81000.0,Success
+TXN_001767,AD_0657,2023-09-22,Serum,DermaGlow Brightening Serum,Static_Catalog,453000.0,Success
+TXN_000984,AD_0333,2023-03-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,350000.0,Success
+TXN_002232,AD_0086,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,68000.0,Success
+TXN_000166,AD_0757,2023-03-03,Serum,DermaGlow Brightening Serum,Static_Catalog,385000.0,Success
+TXN_000249,AD_0635,2023-04-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,225000.0,Success
+TXN_001332,AD_0063,2023-05-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,282000.0,Success
+TXN_000447,AD_0949,2023-09-16,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,89000.0,Success
+TXN_001777,AD_0791,2023-12-09,Serum,DermaGlow Brightening Serum,Static_Catalog,341000.0,Success
+TXN_000859,AD_0035,2023-09-30,Serum,DermaGlow Brightening Serum,Static_Catalog,367000.0,Success
+TXN_001359,AD_0788,2023-10-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,424000.0,Success
+TXN_001862,AD_0932,2023-03-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,420000.0,Success
+TXN_000098,AD_0629,2023-03-25,Serum,DermaGlow Brightening Serum,Video_Review,122000.0,Success
+TXN_002308,AD_0563,2023-09-13,Serum,DermaGlow Brightening Serum,Video_Review,338000.0,Success
+TXN_000806,AD_0278,2023-04-15,Serum,DermaGlow Brightening Serum,Static_Catalog,522000.0,Success
+TXN_000738,AD_0200,2023-12-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,384000.0,Success
+TXN_002101,AD_0812,2023-08-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,343000.0,Success
+TXN_002001,AD_0803,2023-11-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,380000.0,Success
+TXN_000103,AD_0209,2023-09-18,Serum,DermaGlow Brightening Serum,Video_Review,355000.0,Success
+TXN_000435,AD_0355,2023-04-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,263000.0,Success
+TXN_000075,AD_0453,2023-04-24,Serum,DermaGlow Brightening Serum,Static_Catalog,283000.0,Success
+TXN_001847,AD_0676,2023-08-14,Serum,DermaGlow Brightening Serum,Static_Catalog,131000.0,Success
+TXN_002313,AD_0831,2023-05-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,405000.0,Success
+TXN_001231,AD_0183,2023-12-14,Serum,DermaGlow Brightening Serum,Video_Review,519000.0,Success
+TXN_000919,AD_0406,2023-06-19,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,427000.0,Success
+TXN_001327,AD_0027,2023-09-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,253000.0,Success
+TXN_002316,AD_0716,2023-06-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,155000.0,Success
+TXN_002287,AD_0974,2023-02-26,Serum,DermaGlow Brightening Serum,Video_Review,102000.0,Success
+TXN_002246,AD_0658,2023-11-07,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,103000.0,Success
+TXN_000763,Organic,2023-05-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,384000.0,Success
+TXN_000990,AD_0318,2023-04-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,448000.0,Success
+TXN_000389,AD_0562,2023-12-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,264000.0,Success
+TXN_000236,AD_0023,2023-12-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,476000.0,Success
+TXN_002495,AD_0252,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,380000.0,Success
+TXN_000268,AD_0287,2023-02-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,173000.0,Success
+TXN_000118,AD_0402,2023-02-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,434000.0,Success
+TXN_000438,AD_0422,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,230000.0,Success
+TXN_000674,AD_0437,2023-04-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,463000.0,Success
+TXN_000250,AD_0635,2023-04-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,484000.0,Success
+TXN_002129,AD_0096,2023-05-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,325000.0,Success
+TXN_001575,AD_0654,2023-11-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,87000.0,Success
+TXN_002497,AD_0252,2023-02-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,430000.0,Success
+TXN_000095,AD_0921,2023-12-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,408000.0,Success
+TXN_001898,AD_0373,2023-04-27,Serum,DermaGlow Brightening Serum,Video_Review,427000.0,Success
+TXN_000034,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,188000.0,Success
+TXN_002135,AD_0732,2023-06-05,Serum,DermaGlow Brightening Serum,Static_Catalog,144000.0,Success
+TXN_002285,AD_0974,2023-02-27,Serum,DermaGlow Brightening Serum,Video_Review,245000.0,Success
+TXN_001470,AD_0365,2023-11-28,Serum,DermaGlow Brightening Serum,Static_Catalog,213000.0,Success
+TXN_000717,AD_0744,2023-12-24,Serum,DermaGlow Brightening Serum,Video_Review,329000.0,Success
+TXN_001942,Organic,2023-05-31,Cleanser,DermaGlow Gentle Cleanser,Video_Review,480000.0,Success
+TXN_002176,AD_0168,2023-04-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,507000.0,Success
+TXN_000001,AD_0739,2023-01-03,Serum,DermaGlow Brightening Serum,Video_Review,244000.0,Success
+TXN_000457,AD_0724,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,117000.0,Success
+TXN_001102,AD_0517,2023-03-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,327000.0,Success
+TXN_001109,AD_0517,2023-03-18,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,75000.0,Success
+TXN_001883,AD_0471,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,102000.0,Success
+TXN_000083,AD_0325,2023-09-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,163000.0,Success
+TXN_001482,AD_0711,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,534000.0,Success
+TXN_000677,AD_0437,2023-04-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,119000.0,Success
+TXN_002043,AD_0418,2023-02-11,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,378000.0,Success
+TXN_002127,AD_0096,2023-05-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,533000.0,Success
+TXN_001047,AD_0211,2023-03-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,160000.0,Success
+TXN_001461,AD_0899,2023-11-09,Serum,DermaGlow Brightening Serum,Static_Catalog,375000.0,Success
+TXN_000771,AD_0148,2023-11-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,355000.0,Success
+TXN_002025,AD_0225,2023-09-24,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,203000.0,Success
+TXN_001964,AD_0802,2023-03-20,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,196000.0,Success
+TXN_000518,AD_0861,2023-08-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,216000.0,Success
+TXN_000823,AD_0650,2023-11-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,385000.0,Success
+TXN_000405,AD_0258,2023-04-18,Serum,DermaGlow Brightening Serum,Video_Review,411000.0,Success
+TXN_000385,AD_0128,2023-12-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,430000.0,Success
+TXN_002425,AD_0113,2023-05-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,123000.0,Success
+TXN_000105,AD_0911,2023-06-01,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,291000.0,Success
+TXN_001634,AD_0137,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,269000.0,Success
+TXN_002385,AD_0219,2023-05-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,101000.0,Success
+TXN_000689,AD_0601,2023-05-24,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,403000.0,Success
+TXN_002211,AD_0481,2023-08-21,Serum,DermaGlow Brightening Serum,Static_Catalog,195000.0,Success
+TXN_000827,AD_0996,2023-04-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,449000.0,Success
+TXN_001241,Organic,2023-05-07,Serum,DermaGlow Brightening Serum,Static_Catalog,466000.0,Success
+TXN_000063,AD_0758,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,185000.0,Success
+TXN_001306,AD_0212,2023-01-27,Cleanser,DermaGlow Gentle Cleanser,Video_Review,354000.0,Success
+TXN_000853,AD_0016,2023-12-15,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,329000.0,Success
+TXN_002321,AD_0627,2023-03-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,136000.0,Success
+TXN_001263,AD_0663,2023-10-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,218000.0,Success
+TXN_000224,AD_0095,2023-02-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,213000.0,Success
+TXN_001089,AD_0257,2023-07-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,67000.0,Success
+TXN_001825,AD_0618,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,383000.0,Success
+TXN_002110,AD_0968,2023-01-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,122000.0,Success
+TXN_001143,AD_0069,2023-10-11,Serum,DermaGlow Brightening Serum,Video_Review,157000.0,Success
+TXN_002393,AD_0051,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,369000.0,Success
+TXN_002164,AD_0259,2023-02-07,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,168000.0,Success
+TXN_001275,AD_0346,2023-02-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,325000.0,Success
+TXN_001266,AD_0663,2023-10-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,164000.0,Success
+TXN_002234,AD_0086,2023-01-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,510000.0,Success
+TXN_001949,AD_0428,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,448000.0,Success
+TXN_000450,AD_0821,2023-10-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,339000.0,Success
+TXN_000709,AD_0288,2023-10-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,359000.0,Success
+TXN_000883,AD_0185,2023-09-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,154000.0,Success
+TXN_001618,AD_0255,2023-07-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,344000.0,Success
+TXN_002016,AD_0889,2023-09-22,Serum,DermaGlow Brightening Serum,Video_Review,300000.0,Success
+TXN_002396,AD_0619,2023-03-21,Serum,DermaGlow Brightening Serum,Video_Review,183000.0,Success
+TXN_001582,AD_0815,2023-10-13,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,353000.0,Success
+TXN_000909,AD_0826,2023-10-20,Serum,DermaGlow Brightening Serum,Static_Catalog,491000.0,Success
+TXN_000925,Organic,2023-12-06,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,322000.0,Success
+TXN_000752,AD_0519,2023-04-01,Cleanser,DermaGlow Gentle Cleanser,Video_Review,137000.0,Success
+TXN_001890,AD_0427,2023-10-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,94000.0,Success
+TXN_001948,AD_0428,2023-12-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,122000.0,Success
+TXN_000959,AD_0981,2023-08-17,Serum,DermaGlow Brightening Serum,Video_Review,394000.0,Success
+TXN_000502,AD_0208,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,362000.0,Success
+TXN_001728,AD_0399,2023-08-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,97000.0,Success
+TXN_000740,AD_0295,2023-11-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,306000.0,Success
+TXN_000041,AD_0859,2023-12-02,Serum,DermaGlow Brightening Serum,Video_Review,550000.0,Success
+TXN_000869,AD_0100,2023-04-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,160000.0,Success
+TXN_000732,AD_0892,2023-06-28,Serum,DermaGlow Brightening Serum,Video_Review,198000.0,Success
+TXN_000540,AD_0358,2023-03-03,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,179000.0,Success
+TXN_001340,AD_0531,2023-11-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,211000.0,Success
+TXN_002088,AD_0249,2023-01-15,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,131000.0,Success
+TXN_002077,Organic,2023-04-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,394000.0,Success
+TXN_001372,AD_0412,2023-02-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,412000.0,Success
+TXN_001146,AD_0069,2023-10-10,Serum,DermaGlow Brightening Serum,Video_Review,455000.0,Success
+TXN_001032,AD_0418,2023-02-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,319000.0,Success
+TXN_000373,AD_0535,2023-06-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,189000.0,Success
+TXN_000668,AD_0134,2023-08-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,274000.0,Success
+TXN_001432,AD_0599,2023-11-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,224000.0,Success
+TXN_002184,AD_0994,2023-07-31,Serum,DermaGlow Brightening Serum,Static_Catalog,332000.0,Success
+TXN_000736,AD_0167,2023-04-29,Serum,DermaGlow Brightening Serum,Static_Catalog,241000.0,Success
+TXN_000971,AD_0351,2023-05-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,323000.0,Success
+TXN_000471,AD_0800,2023-04-02,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,240000.0,Success
+TXN_000656,AD_0705,2023-06-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,180000.0,Success
+TXN_002354,AD_0430,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,294000.0,Success
+TXN_001910,Organic,2023-12-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,470000.0,Success
+TXN_001397,Organic,2023-11-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,252000.0,Success
+TXN_001537,AD_0317,2023-06-20,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,245000.0,Success
+TXN_001984,AD_0017,2023-12-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,427000.0,Success
+TXN_002182,AD_0994,2023-07-29,Serum,DermaGlow Brightening Serum,Static_Catalog,224000.0,Success
+TXN_001550,AD_0905,2023-06-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,318000.0,Success
+TXN_001257,AD_0515,2023-07-29,Serum,DermaGlow Brightening Serum,Video_Review,147000.0,Success
+TXN_001426,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,254000.0,Success
+TXN_001465,AD_0365,2023-12-01,Serum,DermaGlow Brightening Serum,Static_Catalog,348000.0,Success
+TXN_001556,AD_0944,2023-07-28,Serum,DermaGlow Brightening Serum,Static_Catalog,360000.0,Success
+TXN_002156,AD_0012,2023-08-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,472000.0,Success
+TXN_001251,AD_0537,2023-12-03,Serum,DermaGlow Brightening Serum,Video_Review,533000.0,Success
+TXN_001700,AD_0871,2023-03-18,Serum,DermaGlow Brightening Serum,Video_Review,400000.0,Success
+TXN_002426,AD_0204,2023-06-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,216000.0,Success
+TXN_002319,AD_0605,2023-04-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,357000.0,Success
+TXN_001173,AD_0496,2023-12-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,408000.0,Success
+TXN_000815,AD_0710,2023-11-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,90000.0,Success
+TXN_001853,AD_0655,2023-06-19,Serum,DermaGlow Brightening Serum,Static_Catalog,150000.0,Success
+TXN_000672,AD_0992,2023-11-18,Serum,DermaGlow Brightening Serum,Video_Review,85000.0,Success
+TXN_002442,AD_0131,2023-10-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,140000.0,Success
+TXN_000058,AD_0758,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,327000.0,Success
+TXN_000134,AD_0311,2023-06-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,152000.0,Success
+TXN_000934,AD_0170,2023-09-02,Serum,DermaGlow Brightening Serum,Static_Catalog,526000.0,Success
+TXN_000929,AD_0966,2023-07-03,Serum,DermaGlow Brightening Serum,Static_Catalog,457000.0,Success
+TXN_001433,AD_0599,2023-11-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,81000.0,Success
+TXN_000505,AD_0277,2023-09-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,416000.0,Success
+TXN_002470,AD_0464,2023-03-06,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,292000.0,Success
+TXN_000348,AD_0955,2023-04-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,168000.0,Success
+TXN_000387,AD_0562,2023-12-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,363000.0,Success
+TXN_001025,AD_0378,2023-01-27,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,433000.0,Success
+TXN_001959,AD_0121,2023-10-30,Serum,DermaGlow Brightening Serum,Video_Review,139000.0,Success
+TXN_001385,AD_0289,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,490000.0,Success
+TXN_000895,AD_0102,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,299000.0,Success
+TXN_000829,AD_0996,2023-04-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,165000.0,Success
+TXN_002435,AD_0858,2023-03-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,398000.0,Success
+TXN_000476,AD_0340,2023-02-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,258000.0,Success
+TXN_002328,AD_0627,2023-03-06,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,513000.0,Success
+TXN_002126,AD_0096,2023-05-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,351000.0,Success
+TXN_002090,AD_0249,2023-01-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,196000.0,Success
+TXN_000653,AD_0705,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,285000.0,Success
+TXN_001475,AD_0728,2023-07-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,256000.0,Success
+TXN_001150,AD_0374,2023-08-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,90000.0,Success
+TXN_002386,AD_0219,2023-05-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,446000.0,Success
+TXN_000714,Organic,2023-11-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,466000.0,Success
+TXN_000091,AD_0921,2023-12-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,176000.0,Success
+TXN_001206,AD_0623,2023-04-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,150000.0,Success
+TXN_000876,AD_0813,2023-07-08,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,299000.0,Success
+TXN_000445,AD_0307,2023-07-31,Serum,DermaGlow Brightening Serum,Static_Catalog,92000.0,Success
+TXN_002152,AD_0012,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,217000.0,Success
+TXN_002484,Organic,2023-09-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,511000.0,Success
+TXN_001094,AD_0158,2023-01-13,Cleanser,DermaGlow Gentle Cleanser,Video_Review,257000.0,Success
+TXN_001828,AD_0618,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,82000.0,Success
+TXN_001156,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,489000.0,Success
+TXN_001325,AD_0027,2023-09-13,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,384000.0,Success
+TXN_000217,AD_0620,2023-04-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,287000.0,Success
+TXN_001351,AD_0556,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,82000.0,Success
+TXN_000511,AD_0277,2023-09-05,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,84000.0,Success
+TXN_000500,AD_0208,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,152000.0,Success
+TXN_001857,AD_0466,2023-02-12,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,114000.0,Success
+TXN_001389,AD_0133,2023-01-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,303000.0,Success
+TXN_002332,AD_0159,2023-06-26,Serum,DermaGlow Brightening Serum,Static_Catalog,137000.0,Success
+TXN_001189,AD_0201,2023-07-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,230000.0,Success
+TXN_000029,AD_0884,2023-10-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,165000.0,Success
+TXN_001541,AD_0557,2023-11-03,Cleanser,DermaGlow Gentle Cleanser,Video_Review,75000.0,Success
+TXN_001218,AD_0477,2023-04-29,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,401000.0,Success
+TXN_002031,AD_0574,2023-01-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,480000.0,Success
+TXN_000946,AD_0511,2023-07-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,235000.0,Success
+TXN_001417,AD_0462,2023-08-14,Serum,DermaGlow Brightening Serum,Static_Catalog,455000.0,Success
+TXN_002095,AD_0781,2023-01-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,527000.0,Success
+TXN_001677,AD_0777,2023-02-16,Serum,DermaGlow Brightening Serum,Video_Review,118000.0,Success
+TXN_001198,AD_0822,2023-08-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,508000.0,Success
+TXN_001543,AD_0905,2023-06-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,476000.0,Success
+TXN_001254,AD_0565,2023-05-15,Serum,DermaGlow Brightening Serum,Video_Review,389000.0,Success
+TXN_001277,AD_0265,2023-05-24,Serum,DermaGlow Brightening Serum,Static_Catalog,359000.0,Success
+TXN_000913,AD_0136,2023-12-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,131000.0,Success
+TXN_000492,AD_0579,2023-08-21,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,364000.0,Success
+TXN_000954,AD_0852,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,542000.0,Success
+TXN_001033,AD_0418,2023-02-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,238000.0,Success
+TXN_000588,AD_0878,2023-03-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,194000.0,Success
+TXN_000751,AD_0104,2023-06-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,450000.0,Success
+TXN_000733,Organic,2023-04-30,Serum,DermaGlow Brightening Serum,Static_Catalog,182000.0,Success
+TXN_002493,AD_0252,2023-02-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,484000.0,Success
+TXN_001187,AD_0201,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,271000.0,Success
+TXN_001157,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,221000.0,Success
+TXN_002454,AD_0305,2023-11-23,Serum,DermaGlow Brightening Serum,Static_Catalog,336000.0,Success
+TXN_001247,AD_0692,2023-11-11,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,107000.0,Success
+TXN_001210,AD_0623,2023-04-10,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,129000.0,Success
+TXN_001066,AD_0145,2023-12-18,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,245000.0,Success
+TXN_000109,AD_0694,2023-10-05,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,209000.0,Success
+TXN_001063,AD_0354,2023-02-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,469000.0,Success
+TXN_000569,AD_0691,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,149000.0,Success
+TXN_001175,AD_0474,2023-02-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,265000.0,Success
+TXN_001508,AD_0321,2023-05-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,391000.0,Success
+TXN_001493,AD_0792,2023-01-15,Serum,DermaGlow Brightening Serum,Static_Catalog,453000.0,Success
+TXN_000891,AD_0459,2023-03-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,384000.0,Success
+TXN_000948,AD_0018,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,310000.0,Success
+TXN_001049,AD_0211,2023-03-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,117000.0,Success
+TXN_000144,AD_0037,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,269000.0,Success
+TXN_002453,AD_0305,2023-11-21,Serum,DermaGlow Brightening Serum,Static_Catalog,425000.0,Success
+TXN_000718,AD_0744,2023-12-26,Serum,DermaGlow Brightening Serum,Video_Review,523000.0,Success
+TXN_002372,AD_0833,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,234000.0,Success
+TXN_000265,AD_0284,2023-05-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,297000.0,Success
+TXN_000076,AD_0453,2023-04-24,Serum,DermaGlow Brightening Serum,Static_Catalog,68000.0,Success
+TXN_000396,AD_0520,2023-06-29,Serum,DermaGlow Brightening Serum,Video_Review,293000.0,Success
+TXN_002118,AD_0136,2023-12-02,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,541000.0,Success
+TXN_002336,AD_0108,2023-08-02,Cleanser,DermaGlow Gentle Cleanser,Video_Review,337000.0,Success
+TXN_000397,AD_0520,2023-06-29,Serum,DermaGlow Brightening Serum,Video_Review,463000.0,Success
+TXN_001366,AD_0429,2023-05-22,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,269000.0,Success
+TXN_000596,AD_0089,2023-11-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,122000.0,Success
+TXN_001297,AD_0326,2023-06-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,351000.0,Success
+TXN_001822,AD_0618,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,84000.0,Success
+TXN_000037,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,195000.0,Success
+TXN_002274,AD_0850,2023-01-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,370000.0,Success
+TXN_002124,AD_0939,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,285000.0,Success
+TXN_001123,AD_0094,2023-06-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,128000.0,Success
+TXN_001893,AD_0443,2023-08-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,319000.0,Success
+TXN_000676,AD_0437,2023-04-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,113000.0,Success
+TXN_000729,AD_0049,2023-09-12,Serum,DermaGlow Brightening Serum,Static_Catalog,98000.0,Success
+TXN_000413,AD_0492,2023-06-02,Serum,DermaGlow Brightening Serum,Static_Catalog,144000.0,Success
+TXN_001517,AD_0379,2023-12-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,144000.0,Success
+TXN_001650,AD_0644,2023-05-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,132000.0,Success
+TXN_000617,AD_0863,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,323000.0,Success
+TXN_000418,AD_0864,2023-07-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,314000.0,Success
+TXN_000090,AD_0921,2023-12-07,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,139000.0,Success
+TXN_002083,AD_0486,2023-05-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,220000.0,Success
+TXN_000754,AD_0823,2023-07-26,Cleanser,DermaGlow Gentle Cleanser,Video_Review,340000.0,Success
+TXN_001631,AD_0137,2023-04-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,271000.0,Success
+TXN_000285,AD_0323,2023-11-09,Serum,DermaGlow Brightening Serum,Video_Review,287000.0,Success
+TXN_001192,AD_0534,2023-08-17,Cleanser,DermaGlow Gentle Cleanser,Video_Review,423000.0,Success
+TXN_002338,AD_0108,2023-08-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,327000.0,Success
+TXN_002410,AD_0825,2023-05-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,173000.0,Success
+TXN_002258,AD_0383,2023-09-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,115000.0,Success
+TXN_001569,AD_0261,2023-12-30,Serum,DermaGlow Brightening Serum,Static_Catalog,244000.0,Success
+TXN_002144,AD_0840,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,424000.0,Success
+TXN_001688,Organic,2023-10-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,214000.0,Success
+TXN_000852,AD_0983,2023-09-17,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,272000.0,Success
+TXN_000497,AD_0579,2023-08-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,465000.0,Success
+TXN_001349,AD_0556,2023-03-31,Serum,DermaGlow Brightening Serum,Static_Catalog,339000.0,Success
+TXN_001016,AD_0697,2023-09-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,143000.0,Success
+TXN_002432,AD_0858,2023-03-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,136000.0,Success
+TXN_001786,AD_0098,2023-04-01,Serum,DermaGlow Brightening Serum,Static_Catalog,296000.0,Success
+TXN_000357,AD_0447,2023-08-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,296000.0,Success
+TXN_002379,AD_0765,2023-01-19,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,504000.0,Success
+TXN_001313,Organic,2023-09-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,227000.0,Success
+TXN_001636,AD_0137,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,336000.0,Success
+TXN_000551,Organic,2023-02-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,72000.0,Success
+TXN_001228,AD_0183,2023-12-13,Serum,DermaGlow Brightening Serum,Video_Review,204000.0,Success
+TXN_002231,AD_0161,2023-02-11,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,151000.0,Success
+TXN_000958,AD_0981,2023-08-17,Serum,DermaGlow Brightening Serum,Video_Review,313000.0,Success
+TXN_001009,AD_0951,2023-10-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,334000.0,Success
+TXN_001093,AD_0143,2023-03-16,Cleanser,DermaGlow Gentle Cleanser,Video_Review,65000.0,Success
+TXN_002225,AD_0359,2023-12-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,202000.0,Success
+TXN_001680,AD_0777,2023-02-15,Serum,DermaGlow Brightening Serum,Video_Review,547000.0,Success
+TXN_000154,AD_0304,2023-01-10,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,376000.0,Success
+TXN_001471,AD_0365,2023-12-01,Serum,DermaGlow Brightening Serum,Static_Catalog,296000.0,Success
+TXN_000704,AD_0114,2023-08-01,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,345000.0,Success
+TXN_000897,AD_0087,2023-08-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,469000.0,Success
+TXN_000488,AD_0513,2023-08-28,Serum,DermaGlow Brightening Serum,Video_Review,217000.0,Success
+TXN_001120,AD_0528,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,115000.0,Success
+TXN_000513,AD_0421,2023-05-08,Serum,DermaGlow Brightening Serum,Video_Review,174000.0,Success
+TXN_000634,AD_0682,2023-02-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,279000.0,Success
+TXN_002151,AD_0840,2023-04-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,262000.0,Success
+TXN_001665,AD_0432,2023-05-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,463000.0,Success
+TXN_001013,AD_0849,2023-11-28,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,383000.0,Success
+TXN_001932,AD_0942,2023-08-10,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,262000.0,Success
+TXN_001151,AD_0374,2023-08-10,Cleanser,DermaGlow Gentle Cleanser,Video_Review,76000.0,Success
+TXN_002341,AD_0718,2023-08-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,219000.0,Success
+TXN_000117,AD_0402,2023-02-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,199000.0,Success
+TXN_000741,AD_0295,2023-11-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,321000.0,Success
+TXN_002305,AD_0563,2023-09-11,Serum,DermaGlow Brightening Serum,Video_Review,344000.0,Success
+TXN_001975,AD_0152,2023-10-18,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,253000.0,Success
+TXN_001811,AD_0582,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,265000.0,Success
+TXN_000120,AD_0101,2023-10-16,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,357000.0,Success
+TXN_002240,AD_0086,2023-01-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,173000.0,Success
+TXN_002445,AD_0262,2023-08-10,Serum,DermaGlow Brightening Serum,Static_Catalog,99000.0,Success
+TXN_000636,AD_0682,2023-02-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,76000.0,Success
+TXN_000370,AD_0281,2023-10-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,132000.0,Success
+TXN_000992,AD_0558,2023-09-19,Serum,DermaGlow Brightening Serum,Static_Catalog,290000.0,Success
+TXN_000877,AD_0813,2023-07-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,103000.0,Success
+TXN_001220,AD_0725,2023-07-01,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,308000.0,Success
+TXN_001127,AD_0868,2023-11-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,427000.0,Success
+TXN_001078,AD_0215,2023-05-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,387000.0,Success
+TXN_000838,AD_0372,2023-06-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,188000.0,Success
+TXN_000682,AD_0437,2023-04-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,226000.0,Success
+TXN_001716,AD_0380,2023-04-14,Serum,DermaGlow Brightening Serum,Static_Catalog,250000.0,Success
+TXN_001149,AD_0374,2023-08-09,Cleanser,DermaGlow Gentle Cleanser,Video_Review,91000.0,Success
+TXN_000051,AD_0177,2023-09-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,101000.0,Success
+TXN_000854,AD_0016,2023-12-17,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,339000.0,Success
+TXN_001983,AD_0017,2023-12-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,473000.0,Success
+TXN_001824,AD_0618,2023-12-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,438000.0,Success
+TXN_000834,AD_0372,2023-06-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,168000.0,Success
+TXN_001116,AD_0958,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,464000.0,Success
+TXN_001907,AD_0084,2023-12-29,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,345000.0,Success
+TXN_000972,AD_0351,2023-05-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,231000.0,Success
+TXN_000400,AD_0638,2023-12-11,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,459000.0,Success
+TXN_000020,AD_0559,2023-10-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,270000.0,Success
+TXN_000036,AD_0524,2023-08-28,Serum,DermaGlow Brightening Serum,Static_Catalog,208000.0,Success
+TXN_002363,AD_0361,2023-02-24,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,112000.0,Success
+TXN_000525,AD_0186,2023-06-14,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,166000.0,Success
+TXN_000921,AD_0406,2023-06-21,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,375000.0,Success
+TXN_001842,AD_0870,2023-07-22,Cleanser,DermaGlow Gentle Cleanser,Video_Review,295000.0,Success
+TXN_001891,AD_0427,2023-10-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,179000.0,Success
+TXN_000538,AD_0358,2023-02-28,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,238000.0,Success
+TXN_001706,AD_0997,2023-06-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,277000.0,Success
+TXN_000785,AD_0608,2023-09-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,95000.0,Success
+TXN_001410,AD_0723,2023-10-08,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,121000.0,Success
+TXN_000155,AD_0304,2023-01-09,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,158000.0,Success
+TXN_001687,AD_0337,2023-10-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,279000.0,Success
+TXN_000626,AD_0810,2023-04-15,Serum,DermaGlow Brightening Serum,Static_Catalog,353000.0,Success
+TXN_002397,AD_0619,2023-03-20,Serum,DermaGlow Brightening Serum,Video_Review,298000.0,Success
+TXN_001347,AD_0240,2023-05-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,422000.0,Success
+TXN_000570,AD_0691,2023-05-30,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,337000.0,Success
+TXN_001759,AD_0440,2023-09-26,Serum,DermaGlow Brightening Serum,Static_Catalog,179000.0,Success
+TXN_001817,AD_0045,2023-02-11,Cleanser,DermaGlow Gentle Cleanser,Video_Review,80000.0,Success
+TXN_002066,AD_0866,2023-09-18,Serum,DermaGlow Brightening Serum,Video_Review,289000.0,Success
+TXN_002480,AD_0543,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,231000.0,Success
+TXN_002007,AD_0076,2023-02-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,492000.0,Success
+TXN_000981,AD_0333,2023-03-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,316000.0,Success
+TXN_000191,AD_0828,2023-08-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,255000.0,Success
+TXN_001140,AD_0191,2023-12-18,Cleanser,DermaGlow Gentle Cleanser,Video_Review,357000.0,Success
+TXN_000700,AD_0750,2023-09-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,145000.0,Success
+TXN_000607,AD_0947,2023-07-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,116000.0,Success
+TXN_000181,AD_0246,2023-07-10,Serum,DermaGlow Brightening Serum,Video_Review,405000.0,Success
+TXN_000302,AD_0348,2023-08-28,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,143000.0,Success
+TXN_002355,AD_0361,2023-02-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,195000.0,Success
+TXN_001070,AD_0505,2023-08-26,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,258000.0,Success
+TXN_002206,AD_0481,2023-08-24,Serum,DermaGlow Brightening Serum,Static_Catalog,371000.0,Success
+TXN_001244,AD_0286,2023-12-23,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,455000.0,Success
+TXN_000017,AD_0001,2023-09-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,134000.0,Success
+TXN_002483,AD_0543,2023-09-07,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,241000.0,Success
+TXN_000659,AD_0705,2023-06-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,455000.0,Success
+TXN_002252,AD_0276,2023-04-24,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,282000.0,Success
+TXN_002282,AD_0974,2023-02-27,Serum,DermaGlow Brightening Serum,Video_Review,174000.0,Success
+TXN_001505,AD_0321,2023-05-21,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,286000.0,Success
+TXN_000960,AD_0981,2023-08-15,Serum,DermaGlow Brightening Serum,Video_Review,110000.0,Success
+TXN_002075,AD_0488,2023-04-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,293000.0,Success
+TXN_001800,AD_0229,2023-07-02,Serum,DermaGlow Brightening Serum,Video_Review,423000.0,Success
+TXN_002469,AD_0487,2023-12-29,Serum,DermaGlow Brightening Serum,Static_Catalog,232000.0,Success
+TXN_001694,AD_0337,2023-10-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,368000.0,Success
+TXN_000470,AD_0800,2023-04-01,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,144000.0,Success
+TXN_000955,AD_0852,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,218000.0,Success
+TXN_002479,AD_0543,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,495000.0,Success
+TXN_002317,AD_0716,2023-06-22,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,416000.0,Success
+TXN_001159,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,139000.0,Success
+TXN_001416,AD_0462,2023-08-13,Serum,DermaGlow Brightening Serum,Static_Catalog,429000.0,Success
+TXN_002261,AD_0383,2023-09-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,343000.0,Success
+TXN_001528,AD_0214,2023-02-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,299000.0,Success
+TXN_002461,AD_0487,2023-12-26,Serum,DermaGlow Brightening Serum,Static_Catalog,116000.0,Success
+TXN_001301,AD_0326,2023-06-28,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,102000.0,Success
+TXN_002391,AD_0051,2023-09-06,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,384000.0,Success
+TXN_001604,AD_0779,2023-08-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,289000.0,Success
+TXN_000161,AD_0890,2023-07-14,Serum,DermaGlow Brightening Serum,Static_Catalog,90000.0,Success
+TXN_001705,AD_0796,2023-04-20,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,441000.0,Success
+TXN_000957,AD_0794,2023-04-11,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,497000.0,Success
+TXN_002431,AD_0703,2023-02-08,Serum,DermaGlow Brightening Serum,Video_Review,468000.0,Success
+TXN_000878,AD_0813,2023-07-09,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,115000.0,Success
+TXN_001920,AD_0270,2023-03-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,224000.0,Success
+TXN_001885,AD_0594,2023-01-13,Serum,DermaGlow Brightening Serum,Video_Review,245000.0,Success
+TXN_002201,AD_0040,2023-11-04,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,336000.0,Success
+TXN_002361,AD_0361,2023-02-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,95000.0,Success
+TXN_000254,AD_0635,2023-04-27,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,262000.0,Success
+TXN_000104,AD_0911,2023-06-02,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,431000.0,Success
+TXN_001446,AD_0274,2023-03-16,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,335000.0,Success
+TXN_001444,AD_0649,2023-03-28,Serum,DermaGlow Brightening Serum,Video_Review,91000.0,Success
+TXN_001649,AD_0644,2023-05-13,Cleanser,DermaGlow Gentle Cleanser,Video_Review,306000.0,Success
+TXN_000587,AD_0878,2023-03-31,Cleanser,DermaGlow Gentle Cleanser,Video_Review,172000.0,Success
+TXN_000628,AD_0810,2023-04-16,Serum,DermaGlow Brightening Serum,Static_Catalog,438000.0,Success
+TXN_002200,AD_0175,2023-09-01,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,216000.0,Success
+TXN_001155,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,156000.0,Success
+TXN_002256,AD_0419,2023-08-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,147000.0,Success
+TXN_001683,AD_0805,2023-04-12,Serum,DermaGlow Brightening Serum,Video_Review,353000.0,Success
+TXN_002057,AD_0343,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,115000.0,Success
+TXN_002374,AD_0833,2023-08-27,Serum,DermaGlow Brightening Serum,Static_Catalog,149000.0,Success
+TXN_000453,AD_0423,2023-06-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,78000.0,Success
+TXN_001328,AD_0027,2023-09-12,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,320000.0,Success
+TXN_002050,AD_0225,2023-09-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,306000.0,Success
+TXN_002433,AD_0858,2023-03-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,349000.0,Success
+TXN_000624,AD_0364,2023-06-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,356000.0,Success
+TXN_002312,AD_0151,2023-02-10,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,220000.0,Success
+TXN_001635,AD_0137,2023-04-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,430000.0,Success
+TXN_001439,AD_0546,2023-06-19,Cleanser,DermaGlow Gentle Cleanser,Video_Review,225000.0,Success
+TXN_002199,AD_0169,2023-04-01,Serum,DermaGlow Brightening Serum,Video_Review,280000.0,Success
+TXN_001970,AD_0090,2023-08-13,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,104000.0,Success
+TXN_000641,AD_0835,2023-04-10,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,298000.0,Success
+TXN_002459,AD_0487,2023-12-29,Serum,DermaGlow Brightening Serum,Static_Catalog,353000.0,Success
+TXN_000489,AD_0334,2023-12-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,180000.0,Success
+TXN_001844,AD_0870,2023-07-24,Cleanser,DermaGlow Gentle Cleanser,Video_Review,226000.0,Success
+TXN_001735,AD_0795,2023-09-12,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,238000.0,Success
+TXN_000147,AD_0037,2023-05-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,189000.0,Success
+TXN_001535,AD_0508,2023-05-04,Serum,DermaGlow Brightening Serum,Static_Catalog,210000.0,Success
+TXN_001987,AD_0533,2023-12-04,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,379000.0,Success
+TXN_001370,AD_0675,2023-12-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,99000.0,Success
+TXN_002448,AD_0262,2023-08-09,Serum,DermaGlow Brightening Serum,Static_Catalog,338000.0,Success
+TXN_000660,AD_0705,2023-06-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,350000.0,Success
+TXN_001795,AD_0830,2023-08-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,363000.0,Success
+TXN_000187,AD_0046,2023-09-07,Cleanser,DermaGlow Gentle Cleanser,Video_Review,405000.0,Success
+TXN_001148,AD_0374,2023-08-12,Cleanser,DermaGlow Gentle Cleanser,Video_Review,329000.0,Success
+TXN_000609,AD_0947,2023-07-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,319000.0,Success
+TXN_002192,AD_0163,2023-09-17,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,317000.0,Success
+TXN_001931,AD_0198,2023-04-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,131000.0,Success
+TXN_000198,AD_0009,2023-07-08,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,482000.0,Success
+TXN_000767,AD_0106,2023-07-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,76000.0,Success
+TXN_000401,AD_0266,2023-12-14,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,281000.0,Success
+TXN_000123,Organic,2023-10-18,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,454000.0,Success
+TXN_000203,AD_0409,2023-06-24,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,317000.0,Success
+TXN_000836,AD_0372,2023-06-24,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,511000.0,Success
+TXN_001440,AD_0546,2023-06-19,Cleanser,DermaGlow Gentle Cleanser,Video_Review,480000.0,Success
+TXN_001696,AD_0607,2023-07-06,Cleanser,DermaGlow Gentle Cleanser,Video_Review,202000.0,Success
+TXN_001708,AD_0997,2023-06-23,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,210000.0,Success
+TXN_002429,AD_0204,2023-06-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,238000.0,Success
+TXN_001154,AD_0893,2023-11-30,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,206000.0,Success
+TXN_000855,AD_0016,2023-12-14,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,341000.0,Success
+TXN_001590,AD_0068,2023-05-02,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,282000.0,Success
+TXN_002268,AD_0681,2023-01-01,Serum,DermaGlow Brightening Serum,Static_Catalog,98000.0,Success
+TXN_000642,AD_0835,2023-04-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,466000.0,Success
+TXN_000002,AD_0820,2023-09-02,Serum,DermaGlow Brightening Serum,Static_Catalog,298000.0,Success
+TXN_002161,AD_0259,2023-02-05,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,245000.0,Success
+TXN_000699,AD_0221,2023-12-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,308000.0,Success
+TXN_001292,AD_0652,2023-06-06,Serum,DermaGlow Brightening Serum,Static_Catalog,335000.0,Success
+TXN_002383,AD_0219,2023-05-26,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,154000.0,Success
+TXN_001854,AD_0729,2023-04-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,320000.0,Success
+TXN_001137,AD_0345,2023-01-24,Serum,DermaGlow Brightening Serum,Video_Review,310000.0,Success
+TXN_002416,AD_0879,2023-05-07,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,284000.0,Success
+TXN_001999,AD_0803,2023-11-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,98000.0,Success
+TXN_000664,AD_0628,2023-12-03,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,423000.0,Success
+TXN_001258,AD_0515,2023-07-31,Serum,DermaGlow Brightening Serum,Video_Review,106000.0,Success
+TXN_000318,AD_0469,2023-02-09,Serum,DermaGlow Brightening Serum,Static_Catalog,309000.0,Success
+TXN_001435,AD_0599,2023-11-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,573000.0,Success
+TXN_001480,AD_0711,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,105000.0,Success
+TXN_000710,AD_0288,2023-10-08,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,264000.0,Success
+TXN_001283,AD_0147,2023-06-29,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,275000.0,Success
+TXN_001769,AD_0651,2023-10-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,143000.0,Success
+TXN_000973,AD_0351,2023-05-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,353000.0,Success
+TXN_001307,AD_0212,2023-01-29,Cleanser,DermaGlow Gentle Cleanser,Video_Review,423000.0,Success
+TXN_001401,AD_0059,2023-05-13,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,487000.0,Success
+TXN_001409,AD_0597,2023-07-16,Serum,DermaGlow Brightening Serum,Video_Review,389000.0,Success
+TXN_002238,AD_0086,2023-01-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,304000.0,Success
+TXN_001497,AD_0792,2023-01-13,Serum,DermaGlow Brightening Serum,Static_Catalog,433000.0,Success
+TXN_002039,AD_0715,2023-02-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,185000.0,Success
+TXN_001530,AD_0214,2023-02-07,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,188000.0,Success
+TXN_001664,AD_0602,2023-06-23,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,304000.0,Success
+TXN_002439,AD_0131,2023-10-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,229000.0,Success
+TXN_002455,AD_0305,2023-11-20,Serum,DermaGlow Brightening Serum,Static_Catalog,328000.0,Success
+TXN_001644,AD_0644,2023-05-14,Cleanser,DermaGlow Gentle Cleanser,Video_Review,381000.0,Success
+TXN_001052,AD_0211,2023-03-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,82000.0,Success
+TXN_000796,AD_0401,2023-03-01,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,238000.0,Success
+TXN_001598,AD_0779,2023-08-06,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,412000.0,Success
+TXN_001723,AD_0544,2023-04-09,Serum,DermaGlow Brightening Serum,Static_Catalog,175000.0,Success
+TXN_001184,AD_0660,2023-09-04,Serum,DermaGlow Brightening Serum,Static_Catalog,471000.0,Success
+TXN_001060,Organic,2023-10-13,Serum,DermaGlow Brightening Serum,Static_Catalog,186000.0,Success
+TXN_001679,AD_0777,2023-02-15,Serum,DermaGlow Brightening Serum,Video_Review,414000.0,Success
+TXN_002407,AD_0698,2023-07-19,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,481000.0,Success
+TXN_001758,AD_0440,2023-09-28,Serum,DermaGlow Brightening Serum,Static_Catalog,293000.0,Success
+TXN_001924,AD_0270,2023-03-02,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,432000.0,Success
+TXN_000096,AD_0921,2023-12-05,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,283000.0,Success
+TXN_001021,AD_0097,2023-12-28,Cleanser,DermaGlow Gentle Cleanser,Video_Review,192000.0,Success
+TXN_000564,AD_0771,2023-04-30,Serum,DermaGlow Brightening Serum,Video_Review,186000.0,Success
+TXN_000864,AD_0987,2023-03-21,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,393000.0,Success
+TXN_001485,AD_0549,2023-09-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,399000.0,Success
+TXN_001882,AD_0471,2023-07-28,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,162000.0,Success
+TXN_001039,AD_0941,2023-11-25,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,154000.0,Success
+TXN_000207,AD_0370,2023-08-18,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,432000.0,Success
+TXN_000393,AD_0520,2023-07-02,Serum,DermaGlow Brightening Serum,Video_Review,241000.0,Success
+TXN_000871,AD_0100,2023-04-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,388000.0,Success
+TXN_000398,AD_0520,2023-06-30,Serum,DermaGlow Brightening Serum,Video_Review,369000.0,Success
+TXN_002401,AD_0007,2023-11-07,Serum,DermaGlow Brightening Serum,Static_Catalog,171000.0,Success
+TXN_001029,Organic,2023-12-26,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,309000.0,Success
+TXN_001486,AD_0549,2023-09-26,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,152000.0,Success
+TXN_000961,AD_0551,2023-12-24,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,232000.0,Success
+TXN_001896,AD_0844,2023-10-19,Serum,DermaGlow Brightening Serum,Video_Review,386000.0,Success
+TXN_002147,AD_0840,2023-04-15,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,92000.0,Success
+TXN_001752,AD_0643,2023-12-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,231000.0,Success
+TXN_000503,AD_0277,2023-09-04,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,186000.0,Success
+TXN_000780,AD_0547,2023-02-21,Serum,DermaGlow Brightening Serum,Static_Catalog,368000.0,Success
+TXN_001864,AD_0243,2023-08-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,153000.0,Success
+TXN_000201,AD_0907,2023-10-16,Serum,DermaGlow Brightening Serum,Video_Review,284000.0,Success
+TXN_002183,AD_0994,2023-07-30,Serum,DermaGlow Brightening Serum,Static_Catalog,542000.0,Success
+TXN_002279,AD_0499,2023-10-13,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,130000.0,Success
+TXN_001797,AD_0975,2023-02-17,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,503000.0,Success
+TXN_000379,AD_0535,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,343000.0,Success
+TXN_002337,AD_0108,2023-08-05,Cleanser,DermaGlow Gentle Cleanser,Video_Review,238000.0,Success
+TXN_001699,AD_0871,2023-03-17,Serum,DermaGlow Brightening Serum,Video_Review,492000.0,Success
+TXN_000392,AD_0520,2023-07-01,Serum,DermaGlow Brightening Serum,Video_Review,147000.0,Success
+TXN_001523,AD_0672,2023-12-22,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,422000.0,Success
+TXN_001163,AD_0893,2023-12-03,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,548000.0,Success
+TXN_001496,AD_0792,2023-01-13,Serum,DermaGlow Brightening Serum,Static_Catalog,85000.0,Success
+TXN_002028,AD_0574,2023-01-27,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,317000.0,Success
+TXN_001153,AD_0893,2023-12-02,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,172000.0,Success
+TXN_001368,AD_0429,2023-05-19,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,142000.0,Success
+TXN_000065,AD_0814,2023-08-23,Cleanser,DermaGlow Gentle Cleanser,Video_Review,103000.0,Success
+TXN_002063,AD_0139,2023-01-16,Serum,DermaGlow Brightening Serum,Video_Review,476000.0,Success
+TXN_001181,AD_0123,2023-03-01,Serum,DermaGlow Brightening Serum,Static_Catalog,141000.0,Success
+TXN_000493,AD_0579,2023-08-23,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,446000.0,Success
+TXN_000380,AD_0535,2023-06-09,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,392000.0,Success
+TXN_000764,AD_0589,2023-05-08,Cleanser,DermaGlow Gentle Cleanser,Video_Review,376000.0,Success
+TXN_000792,AD_0854,2023-12-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,255000.0,Success
+TXN_000338,AD_0707,2023-11-26,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,352000.0,Success
+TXN_001017,AD_0697,2023-09-15,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,336000.0,Success
+TXN_000456,AD_0423,2023-06-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,77000.0,Success
+TXN_000816,AD_0710,2023-11-19,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,489000.0,Success
+TXN_002318,AD_0716,2023-06-25,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,196000.0,Success
+TXN_000996,AD_0558,2023-09-18,Serum,DermaGlow Brightening Serum,Static_Catalog,425000.0,Success
+TXN_000202,AD_0907,2023-10-14,Serum,DermaGlow Brightening Serum,Video_Review,101000.0,Success
+TXN_000162,AD_0659,2023-12-11,Serum,DermaGlow Brightening Serum,Video_Review,75000.0,Success
+TXN_000703,AD_0750,2023-08-31,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,368000.0,Success
+TXN_001501,AD_0237,2023-05-19,Serum,DermaGlow Brightening Serum,Static_Catalog,160000.0,Success
+TXN_001130,AD_0868,2023-11-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,419000.0,Success
+TXN_001956,AD_0910,2023-11-09,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,426000.0,Success
+TXN_002254,AD_0276,2023-04-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,349000.0,Success
+TXN_001479,AD_0711,2023-07-25,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,279000.0,Success
+TXN_001391,AD_0901,2023-10-04,Cleanser,DermaGlow Gentle Cleanser,Video_Review,188000.0,Success
+TXN_002042,AD_0418,2023-02-08,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,415000.0,Success
+TXN_000242,AD_0023,2023-12-18,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,467000.0,Success
+TXN_002062,AD_0343,2023-07-01,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,403000.0,Success
+TXN_002364,AD_0361,2023-02-25,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,365000.0,Success
+TXN_000601,AD_0089,2023-11-16,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,419000.0,Success
+TXN_002436,AD_0858,2023-03-20,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,448000.0,Success
+TXN_001298,AD_0326,2023-06-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,517000.0,Success
+TXN_002215,AD_0566,2023-07-30,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,90000.0,Success
+TXN_002069,AD_0832,2023-06-19,Serum,DermaGlow Brightening Serum,Video_Review,369000.0,Success
+TXN_000647,AD_0153,2023-02-14,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,225000.0,Success
+TXN_001529,AD_0214,2023-02-05,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,314000.0,Success
+TXN_001268,AD_0663,2023-10-11,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,358000.0,Success
+TXN_001900,AD_0403,2023-03-12,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,382000.0,Success
+TXN_000563,AD_0771,2023-05-02,Serum,DermaGlow Brightening Serum,Video_Review,439000.0,Success
+TXN_001807,AD_0057,2023-09-13,Serum,DermaGlow Brightening Serum,Static_Catalog,75000.0,Success
+TXN_002048,AD_0225,2023-09-25,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,232000.0,Success
+TXN_001083,AD_0593,2023-09-30,Cleanser,DermaGlow Gentle Cleanser,Video_Review,424000.0,Success
+TXN_000748,Organic,2023-05-18,Serum,DermaGlow Brightening Serum,Video_Review,203000.0,Success
+TXN_002301,AD_0560,2023-02-03,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,237000.0,Success
+TXN_000460,AD_0724,2023-08-14,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,364000.0,Success
+TXN_001185,AD_0490,2023-10-22,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,354000.0,Success
+TXN_002325,AD_0627,2023-03-08,Cleanser,DermaGlow Gentle Cleanser,Static_Catalog,433000.0,Success
+TXN_000956,AD_0852,2023-12-31,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,322000.0,Success
+TXN_001516,AD_0321,2023-05-19,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,276000.0,Success
+TXN_002392,AD_0051,2023-09-09,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,124000.0,Success
+TXN_000770,AD_0106,2023-07-31,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,500000.0,Success
+TXN_001686,AD_0337,2023-10-02,Sunscreen,DermaGlow UV Shield Sunscreen,Video_Review,365000.0,Success
+TXN_001483,AD_0711,2023-07-27,Moisturizer,DermaGlow Hydrating Moisturizer,Video_Review,381000.0,Success
+TXN_000331,AD_0746,2023-11-13,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,151000.0,Success
+TXN_001239,AD_0818,2023-05-08,Serum,DermaGlow Brightening Serum,Static_Catalog,270000.0,Success
+TXN_000467,AD_0724,2023-08-17,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,156000.0,Success
+TXN_002170,AD_0367,2023-12-20,Serum,DermaGlow Brightening Serum,Static_Catalog,172000.0,Success
+TXN_001096,AD_0158,2023-01-15,Cleanser,DermaGlow Gentle Cleanser,Video_Review,384000.0,Success
+TXN_001131,AD_0801,2023-02-20,Sunscreen,DermaGlow UV Shield Sunscreen,Static_Catalog,146000.0,Success
+TXN_001295,AD_0645,2023-12-24,Serum,DermaGlow Brightening Serum,Static_Catalog,331000.0,Success
+TXN_000861,AD_0987,2023-03-23,Moisturizer,DermaGlow Hydrating Moisturizer,Static_Catalog,435000.0,Success
